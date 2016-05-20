@@ -1,7 +1,7 @@
 ■■■ Argentina ■■■
 =============
 
-Sentirse libre de colaborar con el repositorio.
-Gracias.
+Sentirse libre de contribuir con el repositorio.
+Muchas gracias.
 
 @Pink_floyd T!
