@@ -1,4 +1,4 @@
-■■■ Argentina ■■■
+Argentina [Español]
 =============
 
 Sentirse libre de contribuir con el repositorio.
