@@ -1,8 +1,6 @@
-Diccionario Español 
+Diccionario Español ~ AHK (AutoHotkey)
 =============
-AHK (AutoHotkey)
-=======
--------
+--------------------------------------------------
 
 Sentirse libre de contribuir con el repositorio.
 
