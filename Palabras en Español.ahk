@@ -1,1376 +1,2565 @@
-::frague::fragüe
-::gueñas::güeñas
-::desague::desagüe
-::enjague::enjagüe
-::deguella::degüella
-::deguelle::degüelle
-::deguello::degüello
-::deguellan::degüellan
-::deguellas::degüellas
-::deguellen::degüellen
-::deguelles::degüelles
-::verguenza::vergüenza
-::desverguenza::desvergüenza
-::desverguenzas::desvergüenzas
-::contiguidad::contigüidad
-::sinverguencería::sinvergüencería
-::metalinguística::metalingüística
-::metalinguístico::metalingüístico
-::plurilinguismos::plurilingüismos
-::pinguino::pingüino
-::pinguinos::pingüinos
-::linguística::lingüística
-::linguístico::lingüístico
-::ambiguedad::ambigüedad
-::antiguedad::antigüedad
-::cigueña::cigüeña
-::bilingue::bilingüe
-::guero::güero
-::yegueria::yegüería
-::yeguería::yegüería
-::yegüeria::yegüería
-::yeguerias::yegüerías
-::yeguerías::yegüerías
-::yegüerias::yegüerías
-::averiguar::averigüar
-::averiguarlo::averigüarlo
-::averguenzo::avergüenzo
-::averguenza::avergüenza
-::averguenzado::avergüenzado
-::averguenzados::avergüenzados
+::Â¿a donde::Â¿A dÃ³nde
+::Â¿como::Â¿CÃ³mo
+::Â¿cual::Â¿CuÃ¡l
+::Â¿cuales::Â¿CuÃ¡les
+::Â¿cuando::Â¿CuÃ¡ndo
+::Â¿cuanta::Â¿CuÃ¡nta
+::Â¿cuantas::Â¿CuÃ¡ntas
+::Â¿cuanto::Â¿CuÃ¡nto
+::Â¿cuantos::Â¿CuÃ¡ntos
+::Â¿donde::Â¿DÃ³nde
+::Â¿para quien::Â¿Para quiÃ©n
+::Â¿por cuanto::Â¿Por cuÃ¡nto
+::Â¿porque::Â¿Por quÃ©
+::Â¿por que::Â¿Por quÃ©
+::Â¿que::Â¿QuÃ©
+::Â¿quien::Â¿QuiÃ©n
+::Â¿quienes::Â¿QuiÃ©nes
+::abordo de::a bordo de
+::abordo del::a bordo del
+::apesar::a pesar
+::apriori::a priori
+::atiempo::a tiempo
+::abogacia::abogacÃ­a
+::absenteÃ­smo::absentismo
+::absorvidos::absorbidos
+::academica::acadÃ©mica
+::academicamente::acadÃ©micamente
+::academico::acadÃ©mico
+::acesorios::accesorios
+::accesorois::accesorios
+::accion::acciÃ³n
+::aceptacion::aceptaciÃ³n
+::acetado::aceptado
+::acojer::acoger
+::acredor::acreedor
+::acrobacÃ­a::acrobacia
+::alante::adelante
+::ademas::ademÃ¡s
+::adesion::adhesiÃ³n
+::administracion::administraciÃ³n
+::adquicicion::adquisiciÃ³n
+::a drede::adrede
+::aducÃ­::aduje
+::aduciste::adujiste
+::aerea::aÃ©rea
+::aereo::aÃ©reo
+::aerodromo::aerÃ³dromo
+::aereolito::aerolito
+::aereonauta::aeronauta
+::aereoplano::aeroplano
+::aereostÃ¡tica::aerostÃ¡tica
+::aficion::aficiÃ³n
+::aficcion::aficiÃ³n
+::aficciÃ³n::aficiÃ³n
+::aflijir::afligir
+::agua fiestas::aguafiestas
+::aguero::agÃ¼ero
+::ahi::ahÃ­
+::aora::ahora
+::aohra::ahora
+::album::Ã¡lbum
+::alcol::alcohol
+::alevin::alevÃ­n
+::alfabetisacion::alfabetizaciÃ³n
+::algodon::algodÃ³n
+::algun::algÃºn
+::alguon::alguno
+::agluno::alguno
+::alla::allÃ¡
+::alli::allÃ­
+::al rededor::alrededor
+::alrededor mÃ­a::alrededor mÃ­o
+::alrededor suya::alrededor suyo
+::alrededor tuya::alrededor tuyo
+::alucion::alusiÃ³n
+::alusion::alusiÃ³n
+::ambiguedad::ambigÃ¼edad
+::amro::amor
+::andÃ©::anduve
+::andaron::anduvieron
+::anecdota::anÃ©cdota
+::ante anoche::anteanoche
+::ante ayer::anteayer
+::antidiluviano::antediluviano
+::ante vÃ­spera::antevÃ­spera
+::anti-disturbios::antidisturbios
+::anti-europeo::antieuropeo
+::antiguedad::antigÃ¼edad
+::anti-nuclear::antinuclear
+::anti-robo::antirrobo
+::aplicacÃ³in::aplicaciÃ³n
+::aplicacoin::aplicaciÃ³n
+::aplicacion::aplicaciÃ³n
+::aplopejÃ­a::apoplejÃ­a
+::aprobechar::aprovechar   
+::aqui::aquÃ­
+::arabe::Ã¡rabe
+::arbol::Ã¡rbol
+::area::Ã¡rea
+::arguir::argÃ¼ir
+::armatroste::armatoste
+::arrecada::arracada
+::articulacion::articulaciÃ³n
+::articulo::artÃ­culo
+::atriculo::artÃ­culo
+::articulos::artÃ­culos
+::artitris::artritis
+::artitrismo::artritismo
+::axfisia::asfixia
+::atismatismo::astigmatismo
+::atigmatismo::astigmatismo
+::astismatismo::astigmatismo
+::agtismatismo::astigmatismo
+::agtimatismo::astigmatismo
+::atencion::atenciÃ³n
+::atras::atrÃ¡s
+::automovil::automÃ³vil
+::averiguÃ©::averigÃ¼Ã©
+::avion::aviÃ³n
+::hayuda::ayuda
+::azucar::azÃºcar
+::vailar::bailar
+::valance::balance
+::barajear::barajar
+::vever::beber
+::vebida::bebida
+::biÃ©n::bien
+::bien venida::bienvenida
+::bilingue::bilingÃ¼e
+::Bogota::BogotÃ¡
+::vrillar::brillar
+::buho::bÃºho
+::cadaver::cadÃ¡ver
+::cafe::cafÃ©
+::cafeteria::cafeterÃ­a
+::camaleon::camaleÃ³n
+::camara::cÃ¡mara
+::canbiar|camviar::cambiar
+::canbio|camvio::cambio
+::cancion::canciÃ³n
+::caracter::carÃ¡cter
+::carÃ¡cteres::caracteres
+::caracteristica::caracterÃ­stica
+::carroceria::carrocerÃ­a
+::casos lÃ­mites::casos lÃ­mite
+::catastrofe::catÃ¡strofe
+::catastrofica::catastrÃ³fica
+::catastrofico::catastrÃ³fico
+::categoria::categorÃ­a
+::ciÃ©n::cien
+::cigueÃ±a::cigÃ¼eÃ±a
+::cigueÃ±al::cigÃ¼eÃ±al
+::circiuto::circuito
+::circustancia::circunstancia
+::claramnete::claramente
+::crocodrilo::cocodrilo
+::cogeran::cogerÃ¡n
+::cogia::cogÃ­a
+::cogian::cogÃ­an
+::coleccion::colecciÃ³n
+::comeinzo::comienzo
+::comistes::comiste
+::comite::comitÃ©
+::compasion::compasiÃ³n
+::conpletamente::completamente
+::conpletar::completar
+::conpleto::completo
+::composision::composiciÃ³n
+::conprar::comprar
+::comun::comÃºn
+::comunicacion::comunicaciÃ³n
+::comunmente::comÃºnmente
+::consecion::concesiÃ³n
+::con creto::concreto
+::conduceindo::conduciendo
+::conecciÃ³n::conexiÃ³n
+::conexion::conexiÃ³n
+::conocre::conocer
+::consegiur::conseguir
+::consideracion::consideraciÃ³n
+::concideraciÃ³n::consideraciÃ³n
+::con sigo::consigo
+::consigiuendo::consiguiendo
+::costancia::constancia
+::costante::constante
+::costipado::constipado
+::constituÃ­da::constituida
+::constituÃ­do::constituido
+::construÃ­do::construido
+::construÃ­r::construir
+::continuan::continÃºan
+::contraxion::contracciÃ³n
+::contra ceptivo::contraceptivo
+::contradecido::contradicho
+::convercion::conversiÃ³n
+::convirtio::convirtiÃ³
+::cordinacion::coordinaciÃ³n
+::copai::copia
+::copair::copiar
+::coopropietario::copropietario
+::cortesmente::cortÃ©smente
+::cotovelo::cotobelo
+::crere::creer
+::croe::creo
+::cronologica::cronolÃ³gica
+::cronologicamente::cronolÃ³gicamente
+::cronologico::cronolÃ³gico
+::crugir::crujir
+::cuatro cientos::cuatrocientos
+::dÃ¡::da
+::de como::de cÃ³mo
+::depronto::de pronto
+::derepente::de repente
+::deve::debe
+::decicion::decisiÃ³n
+::definio::definiÃ³
+::definitiba::definitiva
+::definitivamnete::definitivamente
+::dentrÃ­fico::dentÃ­frico
+::derivacion::derivaciÃ³n
+::derrogar::derogar
+::desaveniencia::desavenencia
+::desconto::descontÃ³
+::descuvierta::descubierta
+::descuvierto::descubierto
+::deshechando::desechando
+::deshechar::desechar
+::desilucion::desilusiÃ³n
+::desinfestar::desinfectar
+::desovediente::desobediente
+::desorientamiento::desorientaciÃ³n
+::despues::despuÃ©s
+::detras::detrÃ¡s
+::detenÃ­::detuve
+::detenieron::detuvieron
+::detenimos::detuvimos
+::debenir::devenir
+::dia::dÃ­a
+::diabetis::diabetes
+::dias::dÃ­as
+::dicionario::diccionario
+::dieciseis::diecisÃ©is
+::diÃ©z::diez
+::diezmil::diez mil
+::diferiencia::diferencia
+::dificil::difÃ­cil
+::dificilmente::difÃ­cilmente
+::dniero::dinero
+::discusion::discusiÃ³n
+::discucion::discusiÃ³n
+::disolucion::disoluciÃ³n
+::dispocicion::disposiciÃ³n
+::distorciÃ³n::distorsiÃ³n
+::duodecimo::duodÃ©cimo
+::y hija::e hija
+::y hijas::e hijas
+::y hijo::e hijo
+::y hijos::e hijos
+::y iba::e iba
+::y ibais::e ibais
+::y Ã­bamos::e Ã­bamos
+::y iban::e iban
+::y ibas::e ibas
+::y icono::e icono
+::y iconos::e iconos
+::y idea::e idea
+::y ideas::e ideas
+::y identificador::e identificador
+::y identificadores::e identificadores
+::y idioma::e idioma
+::y idiomas::e idiomas
+::y ignorancia::e ignorancia
+::y ignorar::e ignorar
+::y igual::e igual
+::y igualada::e igualada
+::y igualadas::e igualadas
+::y igualado::e igualado
+::y igualados::e igualados
+::y igualar::e igualar
+::y ilegal::e ilegal
+::y ilegales::e ilegales
+::y ilegible::e ilegible
+::y ilegibles::e ilegibles
+::y ilimitada::e ilimitada
+::y ilimitadas::e ilimitadas
+::y ilimitado::e ilimitado
+::y ilimitados::e ilimitados
+::y iluminaciÃ³n::e iluminaciÃ³n
+::y iluminada::e iluminada
+::y iluminadas::e iluminadas
+::y iluminado::e iluminado
+::y iluminados::e iluminados
+::y ilusiÃ³n::e ilusiÃ³n
+::y ilusionado::e ilusionado
+::y ilusiones::e ilusiones
+::y ilustraciÃ³n::e ilustraciÃ³n
+::y ilustraciones::e ilustraciones
+::y ilustre::e ilustre
+::y ilustres::e ilustres
+::y imagen::e imagen
+::y imÃ¡genes::e imÃ¡genes
+::y imaginario::e imaginario
+::y imaginarios::e imaginarios
+::y imbatible::e imbatible
+::y imbatibles::e imbatibles
+::y imborrable::e imborrable
+::y imborrables::e imborrables
+::y imitable::e imitable
+::y imitables::e imitables
+::y imitar::e imitar
+::y impaciencia::e impaciencia
+::y impaciente::e impaciente
+::y impacientemente::e impacientemente
+::y impacientes::e impacientes
+::y impacto::e impacto
+::y impactos::e impactos
+::y impar::e impar
+::y imparable::e imparable
+::y imparables::e imparables
+::y imparcial::e imparcial
+::y imparciales::e imparciales
+::y impares::e impares
+::y impartir::e impartir
+::y impasible::e impasible
+::y impasibles::e impasibles
+::y impedimento::e impedimento
+::y impedimentos::e impedimentos
+::y impedir::e impedir
+::y impensable::e impensable
+::y imperativo::e imperativo
+::y imperceptible::e imperceptible
+::y imperceptibles::e imperceptibles
+::y imperfecta::e imperfecta
+::y imperfectas::e imperfectas
+::y imperfecto::e imperfecto
+::y imperfectos::e imperfectos
+::y impersonal::e impersonal
+::y impidiÃ³::e impidiÃ³
+::y implementar::e implementar
+::y implicado::e implicado
+::y implicados::e implicados
+::y implicar::e implicar
+::y imponer::e imponer
+::y importaciÃ³n::e importaciÃ³n
+::y importancia::e importancia
+::y importante::e importante
+::y importantes::e importantes
+::y importar::e importar
+::y imposible::e imposible
+::y impreciso::e impreciso
+::y imprecisos::e imprecisos
+::y impredecible::e impredecible
+::y impredecibles::e impredecibles
+::y imprenta::e imprenta
+::y imprentas::e imprentas
+::y impreso::e impreso
+::y impresos::e impresos
+::y imprimir::e imprimir
+::y improbable::e improbable
+::y improvisada::e improvisada
+::y improvisado::e improvisado
+::y improvisar::e improvisar
+::y impulsar::e impulsar
+::y inaccesible::e inaccesible
+::y inaccesibles::e inaccesibles
+::y inactivo::e inactivo
+::y inactivos::e inactivos
+::y inamovible::e inamovible
+::y inapelable::e inapelable
+::y inaudible::e inaudible
+::y incalculable::e incalculable
+::y incalculables::e incalculables
+::y incapaces::e incapaces
+::y incapacitado::e incapacitado
+::y incapacitados::e incapacitados
+::y incapaz::e incapaz
+::y incitar::e incitar
+::y incivilizada::e incivilizada
+::y incivilizadas::e incivilizadas
+::y incivilizado::e incivilizado
+::y incivilizados::e incivilizados
+::y inclinar::e inclinar
+::y incluido::e incluido
+::y incluidos::e incluidos
+::y incluir::e incluir
+::y incÃ³gnita::e incÃ³gnita
+::y incÃ³gnitas::e incÃ³gnitas
+::y incÃ³moda::e incÃ³moda
+::y incÃ³modas::e incÃ³modas
+::y incÃ³modo::e incÃ³modo
+::y incÃ³modos::e incÃ³modos
+::y incompleta::e incompleta
+::y incompletas::e incompletas
+::y incompleto::e incompleto
+::y incompletos::e incompletos
+::y inconexo::e inconexo
+::y inconexos::e inconexos
+::y inconsciente::e inconsciente
+::y inconscientes::e inconscientes
+::y incorrecto::e incorrecto
+::y incorrectos::e incorrectos
+::y incumplir::e incumplir
+::y independiente::e independiente
+::y independientes::e independientes
+::y indicaciones::e indicaciones
+::y indicar::e indicar
+::y indispensable::e indispensable
+::y indispensables::e indispensables
+::y individual::e individual
+::y individuales::e individuales
+::y industria::e industria
+::y industrias::e industrias
+::y infantil::e infantil
+::y infantiles::e infantiles
+::y inglÃ©s::e inglÃ©s
+::y ingleses::e ingleses
+::y iniciar::e iniciar
+::y inmediatamente::e inmediatamente
+::y insatisfactoria::e insatisfactoria
+::y insatisfactorias::e insatisfactorias
+::y insatisfactorio::e insatisfactorio
+::y insatisfactorios::e insatisfactorios
+::y insensible::e insensible
+::y insensibles::e insensibles
+::y insertar::e insertar
+::y inserte::e inserte
+::y insignificante::e insignificante
+::y insultar::e insultar
+::y insultos::e insultos
+::y Ã­ntegro::e Ã­ntegro
+::y intelectuales::e intelectuales
+::y intelectualmente::e intelectualmente
+::y inteligente::e inteligente
+::y inteligentes::e inteligentes
+::y interesante::e interesante
+::y interesantes::e interesantes
+::y interesar::e interesar
+::y interesarse::e interesarse
+::y internacional::e internacional
+::y internacionales::e internacionales
+::y internacionalmente::e internacionalmente
+::y interrogaciÃ³n::e interrogaciÃ³n
+::y interrogaciones::e interrogaciones
+::y interrogar::e interrogar
+::y intervenciones::e intervenciones
+::y intervenir::e intervenir
+::y introducir::e introducir
+::y invadir::e invadir
+::y invariable::e invariable
+::y invariables::e invariables
+::y inversiones::e inversiones
+::y invertir::e invertir
+::y investigaciÃ³n::e investigaciÃ³n
+::y investigaciones::e investigaciones
+::y investigar::e investigar
+::y invitaciÃ³n::e invitaciÃ³n
+::y invitaciones::e invitaciones
+::y invitar::e invitar
+::y ir::e ir
+::y irÃ¡::e irÃ¡
+::y irÃ¡n::e irÃ¡n
+::y irÃ¡s::e irÃ¡s
+::y irÃ©::e irÃ©
+::y irÃ©is::e irÃ©is
+::y iremos::e iremos
+::y irÃ­a::e irÃ­a
+::y irÃ­ais::e irÃ­ais
+::y irÃ­amos::e irÃ­amos
+::y irÃ­an::e irÃ­an
+::y irÃ­as::e irÃ­as
+::y irlandÃ©s::e irlandÃ©s
+::y irlandeses::e irlandeses
+::y irregular::e irregular
+::y irregulares::e irregulares
+::y islas::e islas
+::y izquierda::e izquierda
+::ebano::Ã©bano
+::eclesiastico::eclesiÃ¡stico
+::eclesiasticos::eclesiÃ¡sticos
+::equalizaciÃ³n::ecualizaciÃ³n
+::equalizador::ecualizador
+::equalizar::ecualizar
+::la agua::el agua
+::la Ã¡guila::el Ã¡guila
+::la Ã¡lgebra::el Ã¡lgebra
+::la Ã¡rea::el Ã¡rea
+::la asa::el asa
+::la asta::el asta
+::la calor::el calor
+::el fue::Ã©l fue
+::la hacha::el hacha
+::la hambre::el hambre
+::elejir::elegir
+::eliga::elija
+::embarcacion::embarcaciÃ³n
+::empezo::empezÃ³
+::enmedio::en medio
+::encontar::encontrar
+::enlaze::enlace
+::entre suelo::entresuelo
+::enbiado::enviado
+::enbiar::enviar
+::eolico::eÃ³lico
+::eqiupo::equipo
+::eqiupos::equipos
+::excaso::escaso
+::escojer::escoger
+::escrive::escribe
+::escrivir::escribir
+::esparcer::esparcir
+::espiritu::espÃ­ritu
+::explendor::esplendor
+::esquimala::esquimal
+::este agua::esta agua
+::este Ã¡rea::esta Ã¡rea
+::este hacha::esta hacha
+::estaÃ­s::estÃ¡is
+::estan::estÃ¡n
+::estres::estrÃ©s
+::extricta::estricta
+::extrictamente::estrictamente
+::extricto::estricto
+::estudianta::estudiante
+::estuvistes::estuviste
+::etimologia::etimologÃ­a
+::exÃ¡men::examen
+::examenes::exÃ¡menes
+::exepcion::excepciÃ³n
+::excepcion::excepciÃ³n
+::excitacion::excitaciÃ³n
+::escitado::excitado
+::exitar::excitar
+::exito::Ã©xito
+::expancion::expansiÃ³n
+::expocicion::exposiciÃ³n
+::extraradio::extrarradio
+::extrema unciÃ³n::extremaunciÃ³n
+::facil::fÃ¡cil
+::facilmente::fÃ¡cilmente
+::familair::familiar
+::fanatica::fanÃ¡tica
+::fanaticamente::fanÃ¡ticamente
+::fanatico::fanÃ¡tico
+::fÃ©::fe
+::ficcion::ficciÃ³n
+::finalemnte::finalmente
+::finjir::fingir
+::fisica::fÃ­sica
+::fluÃ­do::fluido
+::friccion::fricciÃ³n
+::fustrar::frustrar
+::fuÃ©::fue
+::fuistes::fuiste
+::funcion::funciÃ³n
+::funjir::fungir
+::fusion::fusiÃ³n
+::futil::fÃºtil
+::jente::gente
+::govierno::gobierno
+::guarda bosque::guardabosque
+::guarda meta::guardameta
+::guarda polvo::guardapolvo
+::guero::gÃ¼ero
+::Guipuzcoa::GuipÃºzcoa
+::gustaria::gustarÃ­a
+::Gutierrez::GutiÃ©rrez
+::hablastes::hablaste
+::hazmereÃ­r::hazmerreÃ­r
+::e comentado::he comentado
+::e comido::he comido
+::e corrido::he corrido
+::e dicho::he dicho
+::e escrito::he escrito
+::he echo::he hecho
+::e llamado::he llamado
+::e oÃ­do::he oÃ­do
+::e pensado::he pensado
+::herbivoro::herbÃ­voro
+::heroe::hÃ©roe
+::herÃ³ica::heroica
+::herÃ³ico::heroico
+::heroina::heroÃ­na
+::hibridizaciÃ³n::hibridaciÃ³n
+::hidrolisis::hidrÃ³lisis
+::hinduÃ­smo::hinduismo
+::hinduÃ­sta::hinduista
+::hipocondria::hipocondrÃ­a
+::homogenea::homogÃ©nea
+::homogeneo::homogÃ©neo
+::horas puntas::horas punta
+::hormigon::hormigÃ³n
+::hoi::hoy
+::ideologia::ideologÃ­a
+::ideologica::ideolÃ³gica
+::ideologicamente::ideolÃ³gicamente
+::ideologico::ideolÃ³gico
+::ideosincrasia::idiosincrasia
+::igaul::igual
+::ileÃ­ble::ilegible
+::inaplacable::implacable
+::imposision::imposiciÃ³n
+::impresion::impresiÃ³n
+::inaguraciÃ³n::inauguraciÃ³n
+::encautar::incautar
+::incluÃ­do::incluido
+::incluÃ­r::incluir
+::inclusivemente::inclusivamente
+::inclusives::inclusive
+::indesision::indecisiÃ³n
+::indice::Ã­ndice
+::inflingir::infligir
+::immediatamente::inmediatamente
+::immediato::inmediato
+::inovaciÃ³n::innovaciÃ³n
+::inovaciones::innovaciones
+::inovador::innovador
+::inovadora::innovadora
+::inovadoras::innovadoras
+::inovadores::innovadores
+::inovar::innovar
+::instruccion::instrucciÃ³n
+::interperie::intemperie
+::intrÃ­nsico::intrÃ­nseco
+::inutil::inÃºtil
+::invasion::invasiÃ³n
+::inracional::irracional
+::inrompible::irrompible
+::israeli::israelÃ­
+::israelies::israelÃ­es
+::jardin::jardÃ­n
+::jefactura::jefatura
+::jÃ³ven::joven
+::judia::judÃ­a
+::judias::judÃ­as
+::judio::judÃ­o
+::judios::judÃ­os
+::km2::kmÂ²
+::el apotema::la apotema
+::el apoteosis::la apoteosis
+::la aprendiz::la aprendiza
+::el atenuante::la atenuante
+::la candidato::la candidata
+::la capitÃ¡n::la capitana
+::la director::la directora
+::la filÃ³logo::la filÃ³loga
+::la filÃ³sofo::la filÃ³sofa
+::la geÃ³grafo::la geÃ³grafa
+::la geÃ³logo::la geÃ³loga
+::lampara::lÃ¡mpara
+::leido::leÃ­do
+::lengueta::lengÃ¼eta
+::leon::leÃ³n
+::libreria::librerÃ­a
+::lisencia::licencia
+::lider::lÃ­der
+::linea|linia::lÃ­nea
+::lineas::lÃ­neas
+::linguista|lengÃ¼ista::lingÃ¼ista
+::linguistica::lingÃ¼Ã­stica
+::linguÃ­stico::lingÃ¼Ã­stico
+::llevada acabo::llevada a cabo
+::llevado acabo::llevado a cabo
+::llevaron acabo::llevaron a cabo
+::llevÃ³ acabo::llevÃ³ a cabo
+::logarismo::logaritmo
+::logica::lÃ³gica
+::logicamente::lÃ³gicamente
+::logico::lÃ³gico
+::londonense::londinense
+::lonjeva::longeva
+::lonjevo::longevo
+::lugra::lugar
+::magica::mÃ¡gica
+::magico::mÃ¡gico
+::manutencion::manutenciÃ³n
+::manuntenciÃ³n::manutenciÃ³n
+::mapa mundi::mapamundi
+::maquina::mÃ¡quina
+::martir::mÃ¡rtir
+::maxima::mÃ¡xima
+::maximo::mÃ¡ximo
+::mayuscula::mayÃºscula
+::mayusculo::mayÃºsculo
+::mecanica::mecÃ¡nica
+::mecanicamente::mecÃ¡nicamente
+::mecanico::mecÃ¡nico
+::metodologia::metodologÃ­a
+::minima::mÃ­nima
+::minimo::mÃ­nimo
+::minuscula::minÃºscula
+::minusculo::minÃºsculo
+::mitologia::mitologÃ­a
+::mitologica::mitolÃ³gica
+::mitologico::mitolÃ³gico
+::mitomana::mitÃ³mana
+::mitomania::mitomanÃ­a
+::mitomano::mitÃ³mano
+::monton::montÃ³n
+::movil::mÃ³vil
+::mucha calor::mucho calor
+::murciegalo::murciÃ©lago
+::murio::muriÃ³
+::musica::mÃºsica
+::myu::muy
+::nacio::naciÃ³
+::nadien::nadie
+::naide::nadie
+::nesesaria::necesaria
+::nesesario::necesario
+::nesesita::necesita
+::nesesito::necesito
+::ningun::ningÃºn
+::niÃ±os prodigios::niÃ±os prodigio
+::nibel::nivel
+::noceh::noche
+::novelas rosas::novelas rosa
+::nuebo::nuevo
+::ocasion::ocasiÃ³n
+::oceano::ocÃ©ano
+::oceano pacifico::ocÃ©ano pacÃ­fico
+::olimpica::olÃ­mpica
+::olimpicamente::olÃ­mpicamente
+::olimpico::olÃ­mpico
+::operacion::operaciÃ³n
+::oraculo::orÃ¡culo
+::Ã³rden::orden
+::horfo::orfo
+::organica::orgÃ¡nica
+::organico::orgÃ¡nico
+::organizacion::organizaciÃ³n
+::organo::Ã³rgano
+::orÃ­gen::origen
+::origenes::orÃ­genes
+::pagina::pÃ¡gina
+::participacion::participaciÃ³n
+::pasion::pasiÃ³n
+::pelicula::pelÃ­cula 
+::peloton::pelotÃ³n
+::perfÃ­l::perfil
+::presona::persona
+::persuaciÃ³n::persuasiÃ³n
+::pingue::pingÃ¼e
+::pinguino::pingÃ¼ino
+::pisos pilotos::pisos piloto
+::porsupuesto::por supuesto
+::poseciÃ³n::posesiÃ³n
+::practicamente::prÃ¡cticamente
+::precicion::precisiÃ³n
+::pergunta::pregunta
+::prerequisito::prerrequisito
+::prevencion::prevenciÃ³n
+::preveer::prever
+::pirmero::primero
+::poblema::problema
+::problematica::problemÃ¡tica
+::problematico::problemÃ¡tico
+::programacion::programaciÃ³n
+::propriedad::propiedad
+::proprietario::propietario
+::protejer::proteger
+::protejido::protegido
+::publicamente::pÃºblicamente
+::pudeira::pudiera
+::puntos claves::puntos clave
+::quiza::quizÃ¡
+::quizas::quizÃ¡s
+::rapida::rÃ¡pida
+::rapido::rÃ¡pido
+::razgo::rasgo
+::realize::realice
+::realizemos::realicemos
+::realizen::realicen
+::realizes::realices
+::recivir::recibir
+::recivo::recibo
+::recojer::recoger
+::recomendacion::recomendaciÃ³n
+::reconoceindo::reconociendo
+::remplazar::reemplazar
+::registar::registrar
+::revindicaciÃ³n::reivindicaciÃ³n
+::regilla::rejilla
+::religoiso::religioso
+::republica::repÃºblica
+::resolucion::resoluciÃ³n
+::revisador::revisor
+::revolucion::revoluciÃ³n 
+::rocin::rocÃ­n
+::rujir::rugir
+::ruÃ­do::ruido
+::saver::saber
+::santi amÃ©n::santiamÃ©n
+::segun::segÃºn
+::seleccion::selecciÃ³n
+::selecionar::seleccionar
+::sera::serÃ¡
+::serpentin::serpentÃ­n
+::zezgo|sezgo::sesgo
+::sienpre::siempre
+::sinembargo::sin embargo
+::sinceramnete::sinceramente
+::sinfin::sinfÃ­n
+::sÃ³la::sola
+::sÃ³lamente::solamente
+::sÃ³lamente::solamente
+::solucion::soluciÃ³n
+::sordo-mudo::sordomudo
+::sub-Ã­ndice::subÃ­ndice
+::subrraya::subraya
+::subrrayado::subrayado
+::subrrayar::subrayar
+::suseder::suceder
+::sucedio::sucediÃ³
+::sucecion::sucesiÃ³n
+::sueldos bases::sueldos base
+::superfÃ­cie::superficie
+::supÃ©rflua::superflua
+::superticiÃ³n::supersticiÃ³n
+::supremacia::supremacÃ­a
+::surjir::surgir
+::sucetible::susceptible
+::suspencion::suspensiÃ³n
+::tagea::tajea
+::targeta::tarjeta
+::tecnica::tÃ©cnica
+::tecnicamente::tÃ©cnicamente
+::tecnico::tÃ©cnico
+::teger::tejer
+::tendraÃ­::tendrÃ­a
+::tÃ­::ti
+::tia::tÃ­a
+::tienpo::tiempo
+::teine::tiene
+::tio::tÃ­o
+::tipica::tÃ­pica
+::tipicamente::tÃ­picamente
+::tipico::tÃ­pico
+::tira buzÃ³n::tirabuzÃ³n
+::travajando::trabajando
+::travajar::trabajar
+::travajo::trabajo
+::traba lenguas::trabalenguas
+::traducion::traducciÃ³n
+::tunel::tÃºnel
+::tubiera::tuviera
+::o hora::u hora
+::o obsesiÃ³n::u obsesiÃ³n
+::o ocasiÃ³n::u ocasiÃ³n
+::o ocho::u ocho
+::o octavo::u octavo
+::o oculto::u oculto
+::o odio::u odio
+::o oeste::u oeste
+::o once::u once
+::o oscuro::u oscuro
+::o otro::u otro
+::ubicacion::ubicaciÃ³n
+::ubicacion::ubicaciÃ³n
+::ultimamente::Ãºltimamente
+::ultimo::Ãºltimo
+::ultimos::Ãºltimos
+::una Ã¡rea::un Ã¡rea
+::una poca::un poco
+::un sÃ³lo::un solo
+::unguento::ungÃ¼ento
+::unica::Ãºnica
+::unicamente::Ãºnicamente
+::unico::Ãºnico
+::util::Ãºtil
+::vaiven::vaivÃ©n
+::vayven::vaivÃ©n
+::va y ven::vaivÃ©n
+::vease::vÃ©ase
+::veintidos::veintidÃ³s
+::ventinueve::veintinueve
+::veintiseis::veintisÃ©is
+::veintitres::veintitrÃ©s
+::ventiuno::veintiuno
+::bentana::ventana
+::bentanas::ventanas
+::berdad::verdad
+::berdadero::verdadero
+::verguenza::vergÃ¼enza
+::vertir::verter
+::via::vÃ­a
+::vibrasiÃ³n::vibraciÃ³n
+::vice almirante::vicealmirante
+::vice cÃ³nsul::vicecÃ³nsul
+::vice presidente::vicepresidente
+::vice rector::vicerrector
+::vice secretario::vicesecretario
+::vice versa::viceversa
+::vision::visiÃ³n
+::vistobueno::visto bueno
+::bibir::vivir
+::e hielo::y hielo
+::e hiena::y hiena
+::e hierba::y hierba
+::e hierro::y hierro
+::zig zag::zigzag
+; ==========================================================
+::frague::fragÃ¼e
+::gueÃ±as::gÃ¼eÃ±as
+::desague::desagÃ¼e
+::enjague::enjagÃ¼e
+::deguella::degÃ¼ella
+::deguelle::degÃ¼elle
+::deguello::degÃ¼ello
+::deguellan::degÃ¼ellan
+::deguellas::degÃ¼ellas
+::deguellen::degÃ¼ellen
+::deguelles::degÃ¼elles
+::verguenza::vergÃ¼enza
+::desverguenza::desvergÃ¼enza
+::desverguenzas::desvergÃ¼enzas
+::contiguidad::contigÃ¼idad
+::sinverguencerÃ­a::sinvergÃ¼encerÃ­a
+::metalinguÃ­stica::metalingÃ¼Ã­stica
+::metalinguÃ­stico::metalingÃ¼Ã­stico
+::plurilinguismos::plurilingÃ¼ismos
+::pinguino::pingÃ¼ino
+::pinguinos::pingÃ¼inos
+::linguÃ­stica::lingÃ¼Ã­stica
+::linguÃ­stico::lingÃ¼Ã­stico
+::ambiguedad::ambigÃ¼edad
+::antiguedad::antigÃ¼edad
+::cigueÃ±a::cigÃ¼eÃ±a
+::bilingue::bilingÃ¼e
+::guero::gÃ¼ero
+::yegueria::yegÃ¼erÃ­a
+::yeguerÃ­a::yegÃ¼erÃ­a
+::yegÃ¼eria::yegÃ¼erÃ­a
+::yeguerias::yegÃ¼erÃ­as
+::yeguerÃ­as::yegÃ¼erÃ­as
+::yegÃ¼erias::yegÃ¼erÃ­as
+::averiguar::averigÃ¼ar
+::averiguarlo::averigÃ¼arlo
+::averguenzo::avergÃ¼enzo
+::averguenza::avergÃ¼enza
+::averguenzado::avergÃ¼enzado
+::averguenzados::avergÃ¼enzados
 ;============================
-::judio::judío
-::judios::judíos
-::judia::judía
-::judias::judías
-::pajaro::pájaro
-::acentuan::acentúan
-::demas::demás
-::defensoria::defensoría
-::alla::allá
-::extasis::éxtasis
-::via::vía
-::leyo::leyó
-::mejoria::mejoría
-::mejorias::mejorías
-::empeoraria::empeoraría
-::empeorarias::empeorarías
-::mejoraria::mejoraría
-::mejorarias::mejorarías
-::pais::país
-::aceptariamos::aceptaríamos
-::concurrira::concurrirá
-::defendio::defendió
-::clasificacion::clasificación
-::desclasificacion::desclasificación
-::detencion::detención
-::atencion::atención
-::identificacion::identificación
-::muchisimo::muchísimo
-::muchisimos::muchísimos
-::muchisima::muchísima
-::muchisimas::muchísimas
-::terminologia::terminología
-::venia::venía
-::venias::venías
-::venian::venían
-::civico::cívico
-::civicos::cívicos
-::civica::cívica
-::civicas::cívicas
-::paises::países
-::terapeútica::terapeútica
-::terapeúticas::terapeúticas
-::terapeútico::terapeútico
-::terapeúticos::terapeúticos
-::moderacion::moderación
-::prescripcion::prescripción
-::gestion::gestión
-::administracion::administración
-::devaluacion::devaluación
-::mineria::minería
-::orientacion::orientación
-::eliminacion::eliminación
-::aceptacion::aceptación
-::economia::economía
-::indice::índice
-::aqui::aquí
-::confiteria::confitería
-::chocolateria::chocolatería
-::union::unión
-::sinonimo::sinónimo
-::sinonimos::sinónimos
-::antonimo::antónimo
-::antonimos::antónimos
-::leido::leído
-::leidos::leídos
-::leida::leída
-::leidas::leídas
-::corionioca::coriónica 
-::ahi::ahí
-::aun::aún
-::comunicacion::comunicación
-::calculos::cálculos
-::calculo::cálculo
-::deberia::debería
-::deberias::deberías
-::deberian::deberían
-::electronico::electrónico
-::ingenieria::ingeniería
-::decidio::decidió
-::ingenierias::ingenierías
-::contenia::contenía
-::contenian::contenían
-::contenias::contenías
-::murio::murió
-::debia::debía
-::debias::debías
-::debian::debían
-::eleccion::elección
-::rebeldia::rebeldía
-::rebeldias::rebeldías
-::rapidamente::rápidamente
-::siguio::siguió
-::seguia::seguía
-::seguias::seguías
-::seguian::seguían
-::simbolo::símbolo
-::simbolos::símbolos
-::innovacion::innovación
-::instantanea::instantánea
-::metodo::método
-::metodos::métodos
-::minimo::mínimo
-::minimos::mínimos
-::navegacion::navegación
-::permitia::permitía
-::permitias::permitías
-::permitian::permitían
-::podia::podía
-::podias::podías
-::podian::podían
-::tecnologias::tecnologías
-::psicotico::psicótico
-::movil::móvil
-::moviles::móviles
-::aseguro::aseguró
-::codigo::código
-::codigos::códigos
-::circulo::círculo
-::circulos::círculos
-::conseguis::conseguís
-::reunen::reúnen
-::nadabamos::nadábamos
-::lavabamos::lavábamos
-::imagenes::imágenes
-::depresion::depresión
-::represion::represión
-::agresion::agresión
-::desvio::devío
-::desvion::devíon
-::desvian::devían
-::caracteristica::característica
-::caracteristicas::características
-::caracteristico::característico
-::caracteristicos::característicos
-::panhispánico::panhispánico
-::hispánico::hispánico
-::desvia::desvía
-::desvian::desvían
-::segun::según
-::podria::podría
-::podrias::podrías
-::podrian::podrían
-::situacion::situación
-::asi::así
-::opcion::opción
-::cotizacion::contización
-::sanacion::sanación
-::convendria::convendría
-::convendra::convendrá
-::sera::será
-::extincion::extinción
-::extension::extensión
-::encantaria::encantaría
-::lio::lío
-::lio::líos
-::papi::papí
-::papis::papís
-::hetero::hétero
-::heteros::héteros
-::hetera::hétera
-::heteras::héteras
-::segui::seguí
-::pidio::pidió
-::revolvia::revolvía
-::revolvias::revolvías
-::revolvian::revolvían
-::afiambro::afiambró
-::civilizacion::civilización
-::subi::subí
-::reunio::reunió
-::reunion::reunión
-::sucedio::sucedió
-::decirselo::decírselo
-::decirselos::decírselos
-::deduccion::deducción
-::direccion::dirección
-::redaccion::redacción
-::reaccion::reacción
-::conduccion::conducción
-::respondio::respondió
-::utopia::utopía
-::agresion::agresión
-::vendia::vendía
-::vendian::vendían
-::periodistico::periodístico
-::parasito::parásito
-::parasitos::parásitos
-::locucion::locución
-::conexion::conexión
-::programacion::programación
-::configuracion::configuración
-::analisis::análisis
-::caido::caído
-::caidos::caídos
-::caida::caída
-::caidas::caídas
-::daltonico::daltónico
-::daltonicos::daltónicos
-::daltonica::daltónica
-::daltonicas::daltónicas
-::maquina::máquina
-::maquinas::máquinas
-::sorprenderia::sorprendería
-::investigacion::investigación
-::organizacion::organización
-::dialogo::diálogo
-::numeros::números
-::numerologia::numerología
-::electroencefalografico::electroencefalográfico
-::electroencefalograficos::electroencefalográficos
-::electroencefalografica::electroencefalográfica
-::electroencefalograficas::electroencefalográficas
-::etcetera::etcétera
-::pusilanime::pusilánime
-::catodico::catódico
-::catodicos::catódicos
-::catodica::catódica
-::decapodo::decápodo
-::algido::álgido
-::aureo::áureo
-::anibal::aníbal
-::brotola::brótola
-::isoceles::isóceles
-::gluteo::glúteo
-::gluteos::glúteos
-::muerdago::muérdago
-::nausea::náusea
-::oleo::óleo
-::oseo::óseo
-::lugubre::lúgubre
-::lugubres::lúgubre
-::biologias::biologías
-::ciencilogia::cienciología
-::ciencilogias::cienciologías
-::contaminacion::contaminación
-::tipologia::tipología
-::delfin::delfín
-::tipologias::tipologías
-::tipologo::tipólogo
-::tipologos::tipólogos
-::tipologa::tipóloga
-::tipologas::tipólogas
-::parasintetica::parasintética
-::parasinteticas::parasintéticas
-::prosodico::prosódico
-::prosodicos::prosódicos
-::tentaculos::tentáculos
-::acronimo::acrónimo
-::acronimos::acrónimos
-::ambito::ámbito
-::analitico::analítico
-::analiticos::analíticos
-::arabe::árabe
-::antilope::antílope
-::baculo::báculo
-::balsamo::bálsamo
-::llegaramos::llegáramos
-::britanico::británico
-::biologico::biológico
-::biologicos::biológicos
-::bipedo::bípedo
-::hace mas::hace más
-::bitacora::bitácora
-::bitacoras::bitácoras
-::boligrafo::bolígrafo
-::bulimico::bulímico
-::bulimicos::bulímicos
-::bulimica::bulímica
-::bulimicas::bulímicas
-::cabula::cábula
-::candido::cándido
-::cantaro::cántaro
-::cantico::cántico
-::cañamo::cáñamo
-::veia::veía
-::bronceandome::bronceándome
-::reia::reía
-::carambanos::carámbanos
-::catedratico::catedrático
-::catedraticos::catedráticos
-::catedratica::catedrática
-::catedraticas::catedráticas
-::cuspide::cúspide
-::cuspides::cúspides
-::cronico::crónico
-::cronicos::crónicos
-::cronica::crónica
-::cronicas::crónicas
-::cuantica::cuántica
-::hectometro::hectómetro
-::idoneo::idóneo
-::idoneos::idóneos
-::idonea::idónea
-::idoneas::idóneas
-::kilometro::kilómetro
-::kilometros::kilómetros
-::linguistica::lingüística
-::linguística::lingüística
-::linguisticas::lingüisticas
-::linguísticas::lingüísticas
-::linguistico::lingüístico
-::linguístico::lingüístico
-::linguisticos::lingüisticos
-::linguísticos::lingüísticos
-::intimo::íntimo
-::intimos::íntimos
-::intrinsico::intrínsico
-::ironico::irónico
-::magnificio::magnífico
-::lapida::lápida
-::utero::útero
-::salis::salís
-::vastago::vástago
-::vastagos::vástagos
-::vastaga::vástaga
-::vastagas::vástagas
-::yambico::yámbico
-::zingaro::zíngaro
-::zodiaco::zodíaco
-::zodiacos::zodíacos
-::zodiaca::zodíaca
-::zodiacas::zodíacas
-::zurumbatico::zurumbático
-::zurumbaticos::zurumbáticos
-::pontifice::pontífece
-::putrido::pútrido
-::portico::pórtico
-::potasico::potásico
-::pirrico::pírrico
-::placido::plácido
-::prestamo::préstamo
-::xilofono::xilófono
-::xilofonos::xilófonos
-::pildora::píldora
-::octageno::octágono
-::sulfurico::sulfúrico
-::sulfuricos::sulfúricos
-::sulfurica::sulfúrica
-::sulfuricas::sulfúricas
-::subdito::súbdito
-::subditos::súbditos
-::subdita::súbdita
-::subditas::súbditas
-::timido::tímido
-::timidos::tímidos
-::timida::tímida
-::timidas::tímidas
-::triada::tríada
-::triadas::tríadas
-::septimo::séptimo
-::sordido::sórdido
-::sordidos::sórdidos
-::sordida::sórdida
-::sordidas::sórdidas
-::trigesima::trigésima
-::trigesimas::trigésimas
-::trigesimo::trigésimo
-::trigesimos::trigésimos
-::sabanas::sábanas
-::parametro::parámetro
-::parametros::parámetros
-::musculo::músculo
-::musculos::músculos
-::prostibulo::prostíbulo
-::prostibulos::prostíbulos
-::neoclasico::neoclásico
-::neoclasicos::neoclásicos
-::neoclasica::neoclásica
-::neoclasicas::neoclásicas
-::purpura::púrpura
-::rabano::rábano
-::ñacaro::ñácaro
-::parasintentica::parasinténtica
-::pildoras::píldoras
-::catodicos::catódicas
-::dialogos::diálogos
-::sucedio::sucedió
-::policia::policía
-::politica::política
-::politicas::políticas
-::politico::político
-::politicos::políticos
+::judio::judÃ­o
+::judios::judÃ­os
+::judia::judÃ­a
+::judias::judÃ­as
+::pajaro::pÃ¡jaro
+::acentuan::acentÃºan
+::demas::demÃ¡s
+::defensoria::defensorÃ­a
+::alla::allÃ¡
+::extasis::Ã©xtasis
+::via::vÃ­a
+::leyo::leyÃ³
+::mejoria::mejorÃ­a
+::mejorias::mejorÃ­as
+::empeoraria::empeorarÃ­a
+::empeorarias::empeorarÃ­as
+::mejoraria::mejorarÃ­a
+::mejorarias::mejorarÃ­as
+::pais::paÃ­s
+::aceptariamos::aceptarÃ­amos
+::concurrira::concurrirÃ¡
+::defendio::defendiÃ³
+::clasificacion::clasificaciÃ³n
+::desclasificacion::desclasificaciÃ³n
+::detencion::detenciÃ³n
+::atencion::atenciÃ³n
+::identificacion::identificaciÃ³n
+::muchisimo::muchÃ­simo
+::muchisimos::muchÃ­simos
+::muchisima::muchÃ­sima
+::muchisimas::muchÃ­simas
+::terminologia::terminologÃ­a
+::venia::venÃ­a
+::venias::venÃ­as
+::venian::venÃ­an
+::civico::cÃ­vico
+::civicos::cÃ­vicos
+::civica::cÃ­vica
+::civicas::cÃ­vicas
+::paises::paÃ­ses
+::terapeÃºtica::terapeÃºtica
+::terapeÃºticas::terapeÃºticas
+::terapeÃºtico::terapeÃºtico
+::terapeÃºticos::terapeÃºticos
+::moderacion::moderaciÃ³n
+::prescripcion::prescripciÃ³n
+::gestion::gestiÃ³n
+::administracion::administraciÃ³n
+::devaluacion::devaluaciÃ³n
+::mineria::minerÃ­a
+::orientacion::orientaciÃ³n
+::eliminacion::eliminaciÃ³n
+::aceptacion::aceptaciÃ³n
+::economia::economÃ­a
+::indice::Ã­ndice
+::aqui::aquÃ­
+::confiteria::confiterÃ­a
+::chocolateria::chocolaterÃ­a
+::union::uniÃ³n
+::sinonimo::sinÃ³nimo
+::sinonimos::sinÃ³nimos
+::antonimo::antÃ³nimo
+::antonimos::antÃ³nimos
+::leido::leÃ­do
+::leidos::leÃ­dos
+::leida::leÃ­da
+::leidas::leÃ­das
+::corionioca::coriÃ³nica 
+::ahi::ahÃ­
+::aun::aÃºn
+::comunicacion::comunicaciÃ³n
+::calculos::cÃ¡lculos
+::calculo::cÃ¡lculo
+::deberia::deberÃ­a
+::deberias::deberÃ­as
+::deberian::deberÃ­an
+::electronico::electrÃ³nico
+::ingenieria::ingenierÃ­a
+::decidio::decidiÃ³
+::ingenierias::ingenierÃ­as
+::contenia::contenÃ­a
+::contenian::contenÃ­an
+::contenias::contenÃ­as
+::murio::muriÃ³
+::debia::debÃ­a
+::debias::debÃ­as
+::debian::debÃ­an
+::eleccion::elecciÃ³n
+::rebeldia::rebeldÃ­a
+::rebeldias::rebeldÃ­as
+::rapidamente::rÃ¡pidamente
+::siguio::siguiÃ³
+::seguia::seguÃ­a
+::seguias::seguÃ­as
+::seguian::seguÃ­an
+::simbolo::sÃ­mbolo
+::simbolos::sÃ­mbolos
+::innovacion::innovaciÃ³n
+::instantanea::instantÃ¡nea
+::metodo::mÃ©todo
+::metodos::mÃ©todos
+::minimo::mÃ­nimo
+::minimos::mÃ­nimos
+::navegacion::navegaciÃ³n
+::permitia::permitÃ­a
+::permitias::permitÃ­as
+::permitian::permitÃ­an
+::podia::podÃ­a
+::podias::podÃ­as
+::podian::podÃ­an
+::tecnologias::tecnologÃ­as
+::psicotico::psicÃ³tico
+::movil::mÃ³vil
+::moviles::mÃ³viles
+::aseguro::asegurÃ³
+::codigo::cÃ³digo
+::codigos::cÃ³digos
+::circulo::cÃ­rculo
+::circulos::cÃ­rculos
+::conseguis::conseguÃ­s
+::reunen::reÃºnen
+::nadabamos::nadÃ¡bamos
+::lavabamos::lavÃ¡bamos
+::imagenes::imÃ¡genes
+::depresion::depresiÃ³n
+::represion::represiÃ³n
+::agresion::agresiÃ³n
+::desvio::devÃ­o
+::desvion::devÃ­on
+::desvian::devÃ­an
+::caracteristica::caracterÃ­stica
+::caracteristicas::caracterÃ­sticas
+::caracteristico::caracterÃ­stico
+::caracteristicos::caracterÃ­sticos
+::panhispÃ¡nico::panhispÃ¡nico
+::hispÃ¡nico::hispÃ¡nico
+::desvia::desvÃ­a
+::desvian::desvÃ­an
+::segun::segÃºn
+::podria::podrÃ­a
+::podrias::podrÃ­as
+::podrian::podrÃ­an
+::situacion::situaciÃ³n
+::asi::asÃ­
+::opcion::opciÃ³n
+::cotizacion::contizaciÃ³n
+::sanacion::sanaciÃ³n
+::convendria::convendrÃ­a
+::convendra::convendrÃ¡
+::sera::serÃ¡
+::extincion::extinciÃ³n
+::extension::extensiÃ³n
+::encantaria::encantarÃ­a
+::lio::lÃ­o
+::lio::lÃ­os
+::papi::papÃ­
+::papis::papÃ­s
+::hetero::hÃ©tero
+::heteros::hÃ©teros
+::hetera::hÃ©tera
+::heteras::hÃ©teras
+::segui::seguÃ­
+::pidio::pidiÃ³
+::revolvia::revolvÃ­a
+::revolvias::revolvÃ­as
+::revolvian::revolvÃ­an
+::afiambro::afiambrÃ³
+::civilizacion::civilizaciÃ³n
+::subi::subÃ­
+::reunio::reuniÃ³
+::reunion::reuniÃ³n
+::sucedio::sucediÃ³
+::decirselo::decÃ­rselo
+::decirselos::decÃ­rselos
+::deduccion::deducciÃ³n
+::direccion::direcciÃ³n
+::redaccion::redacciÃ³n
+::reaccion::reacciÃ³n
+::conduccion::conducciÃ³n
+::respondio::respondiÃ³
+::utopia::utopÃ­a
+::agresion::agresiÃ³n
+::vendia::vendÃ­a
+::vendian::vendÃ­an
+::periodistico::periodÃ­stico
+::parasito::parÃ¡sito
+::parasitos::parÃ¡sitos
+::locucion::locuciÃ³n
+::conexion::conexiÃ³n
+::programacion::programaciÃ³n
+::configuracion::configuraciÃ³n
+::analisis::anÃ¡lisis
+::caido::caÃ­do
+::caidos::caÃ­dos
+::caida::caÃ­da
+::caidas::caÃ­das
+::daltonico::daltÃ³nico
+::daltonicos::daltÃ³nicos
+::daltonica::daltÃ³nica
+::daltonicas::daltÃ³nicas
+::maquina::mÃ¡quina
+::maquinas::mÃ¡quinas
+::sorprenderia::sorprenderÃ­a
+::investigacion::investigaciÃ³n
+::organizacion::organizaciÃ³n
+::dialogo::diÃ¡logo
+::numeros::nÃºmeros
+::numerologia::numerologÃ­a
+::electroencefalografico::electroencefalogrÃ¡fico
+::electroencefalograficos::electroencefalogrÃ¡ficos
+::electroencefalografica::electroencefalogrÃ¡fica
+::electroencefalograficas::electroencefalogrÃ¡ficas
+::etcetera::etcÃ©tera
+::pusilanime::pusilÃ¡nime
+::catodico::catÃ³dico
+::catodicos::catÃ³dicos
+::catodica::catÃ³dica
+::decapodo::decÃ¡podo
+::algido::Ã¡lgido
+::aureo::Ã¡ureo
+::anibal::anÃ­bal
+::brotola::brÃ³tola
+::isoceles::isÃ³celes
+::gluteo::glÃºteo
+::gluteos::glÃºteos
+::muerdago::muÃ©rdago
+::nausea::nÃ¡usea
+::oleo::Ã³leo
+::oseo::Ã³seo
+::lugubre::lÃºgubre
+::lugubres::lÃºgubre
+::biologias::biologÃ­as
+::ciencilogia::cienciologÃ­a
+::ciencilogias::cienciologÃ­as
+::contaminacion::contaminaciÃ³n
+::tipologia::tipologÃ­a
+::delfin::delfÃ­n
+::tipologias::tipologÃ­as
+::tipologo::tipÃ³logo
+::tipologos::tipÃ³logos
+::tipologa::tipÃ³loga
+::tipologas::tipÃ³logas
+::parasintetica::parasintÃ©tica
+::parasinteticas::parasintÃ©ticas
+::prosodico::prosÃ³dico
+::prosodicos::prosÃ³dicos
+::tentaculos::tentÃ¡culos
+::acronimo::acrÃ³nimo
+::acronimos::acrÃ³nimos
+::ambito::Ã¡mbito
+::analitico::analÃ­tico
+::analiticos::analÃ­ticos
+::arabe::Ã¡rabe
+::antilope::antÃ­lope
+::baculo::bÃ¡culo
+::balsamo::bÃ¡lsamo
+::llegaramos::llegÃ¡ramos
+::britanico::britÃ¡nico
+::biologico::biolÃ³gico
+::biologicos::biolÃ³gicos
+::bipedo::bÃ­pedo
+::hace mas::hace mÃ¡s
+::bitacora::bitÃ¡cora
+::bitacoras::bitÃ¡coras
+::boligrafo::bolÃ­grafo
+::bulimico::bulÃ­mico
+::bulimicos::bulÃ­micos
+::bulimica::bulÃ­mica
+::bulimicas::bulÃ­micas
+::cabula::cÃ¡bula
+::candido::cÃ¡ndido
+::cantaro::cÃ¡ntaro
+::cantico::cÃ¡ntico
+::caÃ±amo::cÃ¡Ã±amo
+::veia::veÃ­a
+::bronceandome::bronceÃ¡ndome
+::reia::reÃ­a
+::carambanos::carÃ¡mbanos
+::catedratico::catedrÃ¡tico
+::catedraticos::catedrÃ¡ticos
+::catedratica::catedrÃ¡tica
+::catedraticas::catedrÃ¡ticas
+::cuspide::cÃºspide
+::cuspides::cÃºspides
+::cronico::crÃ³nico
+::cronicos::crÃ³nicos
+::cronica::crÃ³nica
+::cronicas::crÃ³nicas
+::cuantica::cuÃ¡ntica
+::hectometro::hectÃ³metro
+::idoneo::idÃ³neo
+::idoneos::idÃ³neos
+::idonea::idÃ³nea
+::idoneas::idÃ³neas
+::kilometro::kilÃ³metro
+::kilometros::kilÃ³metros
+::linguistica::lingÃ¼Ã­stica
+::linguÃ­stica::lingÃ¼Ã­stica
+::linguisticas::lingÃ¼isticas
+::linguÃ­sticas::lingÃ¼Ã­sticas
+::linguistico::lingÃ¼Ã­stico
+::linguÃ­stico::lingÃ¼Ã­stico
+::linguisticos::lingÃ¼isticos
+::linguÃ­sticos::lingÃ¼Ã­sticos
+::intimo::Ã­ntimo
+::intimos::Ã­ntimos
+::intrinsico::intrÃ­nsico
+::ironico::irÃ³nico
+::magnificio::magnÃ­fico
+::lapida::lÃ¡pida
+::utero::Ãºtero
+::salis::salÃ­s
+::vastago::vÃ¡stago
+::vastagos::vÃ¡stagos
+::vastaga::vÃ¡staga
+::vastagas::vÃ¡stagas
+::yambico::yÃ¡mbico
+::zingaro::zÃ­ngaro
+::zodiaco::zodÃ­aco
+::zodiacos::zodÃ­acos
+::zodiaca::zodÃ­aca
+::zodiacas::zodÃ­acas
+::zurumbatico::zurumbÃ¡tico
+::zurumbaticos::zurumbÃ¡ticos
+::pontifice::pontÃ­fece
+::putrido::pÃºtrido
+::portico::pÃ³rtico
+::potasico::potÃ¡sico
+::pirrico::pÃ­rrico
+::placido::plÃ¡cido
+::prestamo::prÃ©stamo
+::xilofono::xilÃ³fono
+::xilofonos::xilÃ³fonos
+::pildora::pÃ­ldora
+::octageno::octÃ¡gono
+::sulfurico::sulfÃºrico
+::sulfuricos::sulfÃºricos
+::sulfurica::sulfÃºrica
+::sulfuricas::sulfÃºricas
+::subdito::sÃºbdito
+::subditos::sÃºbditos
+::subdita::sÃºbdita
+::subditas::sÃºbditas
+::timido::tÃ­mido
+::timidos::tÃ­midos
+::timida::tÃ­mida
+::timidas::tÃ­midas
+::triada::trÃ­ada
+::triadas::trÃ­adas
+::septimo::sÃ©ptimo
+::sordido::sÃ³rdido
+::sordidos::sÃ³rdidos
+::sordida::sÃ³rdida
+::sordidas::sÃ³rdidas
+::trigesima::trigÃ©sima
+::trigesimas::trigÃ©simas
+::trigesimo::trigÃ©simo
+::trigesimos::trigÃ©simos
+::sabanas::sÃ¡banas
+::parametro::parÃ¡metro
+::parametros::parÃ¡metros
+::musculo::mÃºsculo
+::musculos::mÃºsculos
+::prostibulo::prostÃ­bulo
+::prostibulos::prostÃ­bulos
+::neoclasico::neoclÃ¡sico
+::neoclasicos::neoclÃ¡sicos
+::neoclasica::neoclÃ¡sica
+::neoclasicas::neoclÃ¡sicas
+::purpura::pÃºrpura
+::rabano::rÃ¡bano
+::Ã±acaro::Ã±Ã¡caro
+::parasintentica::parasintÃ©ntica
+::pildoras::pÃ­ldoras
+::catodicos::catÃ³dicas
+::dialogos::diÃ¡logos
+::sucedio::sucediÃ³
+::policia::policÃ­a
+::politica::polÃ­tica
+::politicas::polÃ­ticas
+::politico::polÃ­tico
+::politicos::polÃ­ticos
 ::putaso::putazo
-::sabias::sabías
-::sabian::sabían
+::sabias::sabÃ­as
+::sabian::sabÃ­an
 ::pelotudaso::pelotudazo
 ::boludaso::boludazo
 ::pelotudes::pelotudez
-::pelotudés::pelotudez
-::boludés::boludez
+::pelotudÃ©s::pelotudez
+::boludÃ©s::boludez
 ::boludes::boludez
-::perdio::perdió
-::sabado::sábado
-::musica::música
-::unico::único
-::unicos::únicos
-::unica::única
-::unicas::únicas
-::motivacion::motivación
-::ningun::ningún
-::magico::mágico
-::tambien::también
-::republica::república
-::republicas::repúblicas
-::publicacion::publicación
-::victima::víctima
-::victimas::víctimas
-::empezo::empezó
-::tipografia::tipografía
-::tipografias::tipografías
-::tipografica::tipográfica
-::tipografico::tipográfico
-::tipograficas::tipográficas
-::tipograficos::tipográficos
-::apurese::apúrese
-::apurense::apúrense
-::latin::latín
-::lagrima::lágrima
-::lagrimas::lágrimas
-::rapido::rápido
-::rapidos::rápidos
-::rapida::rápida
-::rapidas::rápidas
-::enciclopedico::enciclopédico
-::humoristico::humorístico
-::humoristicos::humorísticos
-::parentesis::paréntesis
-::comico::cómico
-::dermatologo::dermatólogo
-::dermatologos::dermatólogos
-::piramide::pirámide
-::plastico::plástico
-::geografico::geográfico
-::geologico::geológico
-::paleontologico::paleontológico
-::cupula::cúpula
-::hipodromo::hipódromo
-::metalurgico::metalúrgico
-::histerico::histérico
-::penultimo::penúltimo
-::cascara::cáscara
-::clasico::clásico
-::celula::célula
-::conyugue::cónyugue
-::centripeto::centrípeto
-::cubico::cúbico
-::economico::económico
-::economicos::económicos
-::monotono::monótono
-::oraculo::oráculo
-::sarcastico::sarcástico
-::tentaculo::tentáculo
-::satelite::satélite
-::semantico::semántico
-::carceles::cárceles
-::acerrimo::acérrimo
-::gargola::gárgola
-::gargolas::gárgolas
-::islamico::islámico
-::islamicos::islámicos
-::islamica::islámica
-::islamicas::islámicas}
-::jurasico::jurásico
-::jurasicos::jurásicos
-::heterogeneo::heterogéneo
-::higado::hígado
-::higados::hígados
-::calido::cálido
-::calidos::cálidos
-::calida::cálida
-::calidas::cálidas
-::insipido::insípido
-::valia::valía
-::valian::valían
-::egocentrico::egocéntrico
-::egocentricos::egocéntricos
-::egocentrica::egocéntrica
-::egocentricas::egocéntricas
-::engreido::engreído
-::engreidos::engreídos
-::engreida::engreída
-::engreidas::engreídas
-::tecnico::técnico
-::exageracion::exageración
-::tecnicos::técnicos
-::fosforo::fósforo
-::glandula::glándula
-::microfono::micrófono
-::microfonos::micrófonos
-::abaco::ábaco
-::abacos::ábacos
-::gotico::gótico
-::goticos::góticos
-::energico::enérgico
-::energicos::enérgicos
-::energica::enérgica
-::energicas::enérgicas
-::dentrifico::dentrífico
-::dentrificos::dentríficos
-::gotica::gótica
-::goticas::góticas
-::colera::cólera
-::fria::fría
-::frias::frías
-::ilegitimo::ilegítimo
-::rectangulo::rectángulo
-::rectangulos::rectángulos
-::aritmetica::aritmética
-::aritmeticas::aritméticas
-::aritmetico::aritmético
-::aritmeticos::aritméticos
-::telefonica::telefónica
-::telefonicas::telefónicas
-::ceramica::cerámica
-::ceramicas::cerámicas
-::ceramico::cerámico
-::ceramicos::cerámicos
-::antigona::antígona
-::didactico::didáctico
-::didacticos::didácticos
-::didactica::didáctica
-::didacticas::didácticas
-::agricola::agrícola
-::darsela::dársela
-::darselas::dárselas
-::darselo::dárselo
-::darselos::dárselos
-::tipico::típico
-::tipicos::típicos
-::tipica::típica
-::dramatico::dramático
-::dramaticos::dramáticos
-::dramatica::dramática
-::dramaticas::dramáticas
-::tipicas::típicas
-::vibora::víbora
-::aca::acá
-::energia::energía
-::recomendo::recomendó
-::bibliografia::bibliografía
-::vertice::vértice
-::vertices::vértices
-::cinematografico::cinematográfico
-::problematica::problemática
-::problematicas::problemáticas
-::problematico::problemático
-::problematicos::problemáticos
-::xenofobo::xenófobo
-::xenofobos::xenófobos
-::xenofoba::xenófoba
-::xenofobas::xenófobas
-::unisono::unísono
-::sabados::sábados
-::vandalo::vándalo
-::zangano::zángano
-::repercusion::repercusión
-::vandalos::vándalos
-::zanganos::zánganos
-::palido::pálido
-::palidos::pálidos
-::palida::pálida
-::palidas::pálidas
-::tenes::tenés
-::película::película
-::películas::películas
-::hispanico::hispánico
-::catastrofe::catástrofe
-::realizaran::realizarán
-::limite::límite
-::limites::límites
-::grafia::grafía
-::grafias::grafías
-::ordenes::órdenes
-::de mas::de más
-::ser mas::ser más
-::que mas::que más
-::lo mas::lo más
-::de mas::de más
-::la mas::la más
-::es mas::es más
-::pero mas::pero más
-::oido::oído
-::comoda::cómoda
-::comodas::cómodas
-::comodo::cómodo
-::comodos::cómodos
-::graficos::gráficos
-::comezon::comezón
-::todavia::todavía
-::aprobacion::aprobación
-::acordeon::acordeón
-::votacion::votación
-::volare::volaré
-::encontre::econtré
-::perdon::perdón
-::razon::razón
-::sabran::sabrán
-::tenia::tenía
-::tenian::tenían
-::tenias::tenías
-::bajon::bajón
-::velaria::velaría
-::dieresis::diéresis
-::ortografia::ortografía
-::quirurgica::quirúrgica
-::quirurgicos::quirúrgicos
-::monosilabo::monosílabo
-::decia::decía
-::parecio::pareció
-::simpatico::simpático
-::simpaticos::simpáticos
-::simpatica::simpática
-::simpaticas::simpáticas
-::categoria::categoría
-::categorias::categorías
-::biografia::biografía
-::biografias::biografías
-::silaba::sílaba
-::silabas::sílabas
-::autonomia::autonomía
-::autonomias::autonomías
-::atomica::atómica
-::atomicas::atómicas
-::contabamos::contábamos
-::deciamos::decíamos
-::hablabamos::hablábamos
-::tentacion::tentación
-::tentaria::tentaría
-::tentarias::tentarías
-::hipocresia::hipocresía
-::hipocresias::hipocresías
-::hipocrita::hipócrita
-::hipocritas::hipócritas
-::filosofia::filosofía
-::filosofo::filósofo
-::filosofa::filósofa
-::filosofos::filósofos
-::filosofas::filósofas
-::sociologia::sociología
-::psicologia::psicología
-::sociologo::sociólogo
-::psicologo::psicólogo
-::sociologos::sociólogos
-::psicologos::psicólogos
-::sociologa::socióloga
-::psicologa::psicóloga
-::sociologas::sociólogas
-::psicologas::psicólogas
-::entendi::entendí
-::traduccion::traducción
-::habia::había
-::habian::habían
-::habias::habías
-::corazon::corazón
-::idolo::ídolo
-::apostoles::apóstoles
-::super::súper
-::habran::habrán
-::habra::habrá
-::dia::día
-::dias::días
-::gustaria::gustaría
-::escandalo::escándalo
-::escandalos::escándalos
-::facilmente::fácilmente
-::utilizacion::utilización
-::queria::quería
-::querria::querría
-::estara::estará
-::estaría::estaría
-::tontamente::tóntamente
-::espectaculo::espectáculo
-::espectaculos::espectáculos
-::dequeismo::dequeísmo
-::laismo::laísmo
-::leismo::leísmo
-::loismo::loísmo
-::arbol::árbol
-::arboles::árboles
-::bateria::batería
-::baterias::baterías
-::insistio::insistió
-::jamas::jamás
-::leon::león
-::ordenele::ordénele
-::pacifico::pacífico
-::pacificos::pacíficos
-::pacificv::pacífica
-::pacificas::pacíficas
-::parecera::parecerá
-::parecere::pareceré
-::prosegui::proseguí
-::poniendome::poniéndome
-::quizas::quizás
-::senti::sentí
-::respondi::respondí
-::recorde::recordé
+::perdio::perdiÃ³
+::sabado::sÃ¡bado
+::musica::mÃºsica
+::unico::Ãºnico
+::unicos::Ãºnicos
+::unica::Ãºnica
+::unicas::Ãºnicas
+::motivacion::motivaciÃ³n
+::ningun::ningÃºn
+::magico::mÃ¡gico
+::tambien::tambiÃ©n
+::republica::repÃºblica
+::republicas::repÃºblicas
+::publicacion::publicaciÃ³n
+::victima::vÃ­ctima
+::victimas::vÃ­ctimas
+::empezo::empezÃ³
+::tipografia::tipografÃ­a
+::tipografias::tipografÃ­as
+::tipografica::tipogrÃ¡fica
+::tipografico::tipogrÃ¡fico
+::tipograficas::tipogrÃ¡ficas
+::tipograficos::tipogrÃ¡ficos
+::apurese::apÃºrese
+::apurense::apÃºrense
+::latin::latÃ­n
+::lagrima::lÃ¡grima
+::lagrimas::lÃ¡grimas
+::rapido::rÃ¡pido
+::rapidos::rÃ¡pidos
+::rapida::rÃ¡pida
+::rapidas::rÃ¡pidas
+::enciclopedico::enciclopÃ©dico
+::humoristico::humorÃ­stico
+::humoristicos::humorÃ­sticos
+::parentesis::parÃ©ntesis
+::comico::cÃ³mico
+::dermatologo::dermatÃ³logo
+::dermatologos::dermatÃ³logos
+::piramide::pirÃ¡mide
+::plastico::plÃ¡stico
+::geografico::geogrÃ¡fico
+::geologico::geolÃ³gico
+::paleontologico::paleontolÃ³gico
+::cupula::cÃºpula
+::hipodromo::hipÃ³dromo
+::metalurgico::metalÃºrgico
+::histerico::histÃ©rico
+::penultimo::penÃºltimo
+::cascara::cÃ¡scara
+::clasico::clÃ¡sico
+::celula::cÃ©lula
+::conyugue::cÃ³nyugue
+::centripeto::centrÃ­peto
+::cubico::cÃºbico
+::economico::econÃ³mico
+::economicos::econÃ³micos
+::monotono::monÃ³tono
+::oraculo::orÃ¡culo
+::sarcastico::sarcÃ¡stico
+::tentaculo::tentÃ¡culo
+::satelite::satÃ©lite
+::semantico::semÃ¡ntico
+::carceles::cÃ¡rceles
+::acerrimo::acÃ©rrimo
+::gargola::gÃ¡rgola
+::gargolas::gÃ¡rgolas
+::islamico::islÃ¡mico
+::islamicos::islÃ¡micos
+::islamica::islÃ¡mica
+::islamicas::islÃ¡micas}
+::jurasico::jurÃ¡sico
+::jurasicos::jurÃ¡sicos
+::heterogeneo::heterogÃ©neo
+::higado::hÃ­gado
+::higados::hÃ­gados
+::calido::cÃ¡lido
+::calidos::cÃ¡lidos
+::calida::cÃ¡lida
+::calidas::cÃ¡lidas
+::insipido::insÃ­pido
+::valia::valÃ­a
+::valian::valÃ­an
+::egocentrico::egocÃ©ntrico
+::egocentricos::egocÃ©ntricos
+::egocentrica::egocÃ©ntrica
+::egocentricas::egocÃ©ntricas
+::engreido::engreÃ­do
+::engreidos::engreÃ­dos
+::engreida::engreÃ­da
+::engreidas::engreÃ­das
+::tecnico::tÃ©cnico
+::exageracion::exageraciÃ³n
+::tecnicos::tÃ©cnicos
+::fosforo::fÃ³sforo
+::glandula::glÃ¡ndula
+::microfono::micrÃ³fono
+::microfonos::micrÃ³fonos
+::abaco::Ã¡baco
+::abacos::Ã¡bacos
+::gotico::gÃ³tico
+::goticos::gÃ³ticos
+::energico::enÃ©rgico
+::energicos::enÃ©rgicos
+::energica::enÃ©rgica
+::energicas::enÃ©rgicas
+::dentrifico::dentrÃ­fico
+::dentrificos::dentrÃ­ficos
+::gotica::gÃ³tica
+::goticas::gÃ³ticas
+::colera::cÃ³lera
+::fria::frÃ­a
+::frias::frÃ­as
+::ilegitimo::ilegÃ­timo
+::rectangulo::rectÃ¡ngulo
+::rectangulos::rectÃ¡ngulos
+::aritmetica::aritmÃ©tica
+::aritmeticas::aritmÃ©ticas
+::aritmetico::aritmÃ©tico
+::aritmeticos::aritmÃ©ticos
+::telefonica::telefÃ³nica
+::telefonicas::telefÃ³nicas
+::ceramica::cerÃ¡mica
+::ceramicas::cerÃ¡micas
+::ceramico::cerÃ¡mico
+::ceramicos::cerÃ¡micos
+::antigona::antÃ­gona
+::didactico::didÃ¡ctico
+::didacticos::didÃ¡cticos
+::didactica::didÃ¡ctica
+::didacticas::didÃ¡cticas
+::agricola::agrÃ­cola
+::darsela::dÃ¡rsela
+::darselas::dÃ¡rselas
+::darselo::dÃ¡rselo
+::darselos::dÃ¡rselos
+::tipico::tÃ­pico
+::tipicos::tÃ­picos
+::tipica::tÃ­pica
+::dramatico::dramÃ¡tico
+::dramaticos::dramÃ¡ticos
+::dramatica::dramÃ¡tica
+::dramaticas::dramÃ¡ticas
+::tipicas::tÃ­picas
+::vibora::vÃ­bora
+::aca::acÃ¡
+::energia::energÃ­a
+::recomendo::recomendÃ³
+::bibliografia::bibliografÃ­a
+::vertice::vÃ©rtice
+::vertices::vÃ©rtices
+::cinematografico::cinematogrÃ¡fico
+::problematica::problemÃ¡tica
+::problematicas::problemÃ¡ticas
+::problematico::problemÃ¡tico
+::problematicos::problemÃ¡ticos
+::xenofobo::xenÃ³fobo
+::xenofobos::xenÃ³fobos
+::xenofoba::xenÃ³foba
+::xenofobas::xenÃ³fobas
+::unisono::unÃ­sono
+::sabados::sÃ¡bados
+::vandalo::vÃ¡ndalo
+::zangano::zÃ¡ngano
+::repercusion::repercusiÃ³n
+::vandalos::vÃ¡ndalos
+::zanganos::zÃ¡nganos
+::palido::pÃ¡lido
+::palidos::pÃ¡lidos
+::palida::pÃ¡lida
+::palidas::pÃ¡lidas
+::tenes::tenÃ©s
+::pelÃ­cula::pelÃ­cula
+::pelÃ­culas::pelÃ­culas
+::hispanico::hispÃ¡nico
+::catastrofe::catÃ¡strofe
+::realizaran::realizarÃ¡n
+::limite::lÃ­mite
+::limites::lÃ­mites
+::grafia::grafÃ­a
+::grafias::grafÃ­as
+::ordenes::Ã³rdenes
+::de mas::de mÃ¡s
+::ser mas::ser mÃ¡s
+::que mas::que mÃ¡s
+::lo mas::lo mÃ¡s
+::de mas::de mÃ¡s
+::la mas::la mÃ¡s
+::es mas::es mÃ¡s
+::pero mas::pero mÃ¡s
+::oido::oÃ­do
+::comoda::cÃ³moda
+::comodas::cÃ³modas
+::comodo::cÃ³modo
+::comodos::cÃ³modos
+::graficos::grÃ¡ficos
+::comezon::comezÃ³n
+::todavia::todavÃ­a
+::aprobacion::aprobaciÃ³n
+::acordeon::acordeÃ³n
+::votacion::votaciÃ³n
+::volare::volarÃ©
+::encontre::encontrÃ©
+::perdon::perdÃ³n
+::razon::razÃ³n
+::sabran::sabrÃ¡n
+::tenia::tenÃ­a
+::tenian::tenÃ­an
+::tenias::tenÃ­as
+::bajon::bajÃ³n
+::velaria::velarÃ­a
+::dieresis::diÃ©resis
+::ortografia::ortografÃ­a
+::quirurgica::quirÃºrgica
+::quirurgicos::quirÃºrgicos
+::monosilabo::monosÃ­labo
+::decia::decÃ­a
+::parecio::pareciÃ³
+::simpatico::simpÃ¡tico
+::simpaticos::simpÃ¡ticos
+::simpatica::simpÃ¡tica
+::simpaticas::simpÃ¡ticas
+::categoria::categorÃ­a
+::categorias::categorÃ­as
+::biografia::biografÃ­a
+::biografias::biografÃ­as
+::silaba::sÃ­laba
+::silabas::sÃ­labas
+::autonomia::autonomÃ­a
+::autonomias::autonomÃ­as
+::atomica::atÃ³mica
+::atomicas::atÃ³micas
+::contabamos::contÃ¡bamos
+::deciamos::decÃ­amos
+::hablabamos::hablÃ¡bamos
+::tentacion::tentaciÃ³n
+::tentaria::tentarÃ­a
+::tentarias::tentarÃ­as
+::hipocresia::hipocresÃ­a
+::hipocresias::hipocresÃ­as
+::hipocrita::hipÃ³crita
+::hipocritas::hipÃ³critas
+::filosofia::filosofÃ­a
+::filosofo::filÃ³sofo
+::filosofa::filÃ³sofa
+::filosofos::filÃ³sofos
+::filosofas::filÃ³sofas
+::sociologia::sociologÃ­a
+::psicologia::psicologÃ­a
+::sociologo::sociÃ³logo
+::psicologo::psicÃ³logo
+::sociologos::sociÃ³logos
+::psicologos::psicÃ³logos
+::sociologa::sociÃ³loga
+::psicologa::psicÃ³loga
+::sociologas::sociÃ³logas
+::psicologas::psicÃ³logas
+::entendi::entendÃ­
+::traduccion::traducciÃ³n
+::habia::habÃ­a
+::habian::habÃ­an
+::habias::habÃ­as
+::corazon::corazÃ³n
+::idolo::Ã­dolo
+::apostoles::apÃ³stoles
+::super::sÃºper
+::habran::habrÃ¡n
+::habra::habrÃ¡
+::dia::dÃ­a
+::dias::dÃ­as
+::planteandose::planteÃ¡ndose
+::mejorandose::mejorÃ¡ndose
+::empeorandose::empeorÃ¡ndose
+::abronchandolo::abrochÃ¡ndolo
+::abronchandolos::abrochÃ¡ndolos
+::cinturon::cinturÃ³n
+::comilon::comilÃ³n
+::culpandose::culpÃ¡ndose
+::culpandome::culpÃ¡ndome
+::colaboracion::colaboraciÃ³n
+::emancipacion::emancipaciÃ³n
+::champiÃ±ion::champiÃ±iÃ³n
+::trayendole::trayÃ©ndole
+::trayendoles::trayÃ©ndoles
+::trayendose::trayÃ©ndose
+::cristalizacion::cristalizaciÃ³n
+::cristalizandose::cristlizÃ¡ndose
+::idolos::Ã­dolos
+::gustaria::gustarÃ­a
+::escandalo::escÃ¡ndalo
+::escandalos::escÃ¡ndalos
+::facilmente::fÃ¡cilmente
+::utilizacion::utilizaciÃ³n
+::queria::querÃ­a
+::querria::querrÃ­a
+::estara::estarÃ¡
+::estarÃ­a::estarÃ­a
+::tontamente::tÃ³ntamente
+::espectaculo::espectÃ¡culo
+::espectaculos::espectÃ¡culos
+::dequeismo::dequeÃ­smo
+::laismo::laÃ­smo
+::leismo::leÃ­smo
+::loismo::loÃ­smo
+::arbol::Ã¡rbol
+::arboles::Ã¡rboles
+::bateria::baterÃ­a
+::baterias::baterÃ­as
+::insistio::insistiÃ³
+::jamas::jamÃ¡s
+::leon::leÃ³n
+::ordenele::ordÃ©nele
+::pacifico::pacÃ­fico
+::pacificos::pacÃ­ficos
+::pacificv::pacÃ­fica
+::pacificas::pacÃ­ficas
+::parecera::parecerÃ¡
+::parecere::parecerÃ©
+::prosegui::proseguÃ­
+::poniendome::poniÃ©ndome
+::quizas::quizÃ¡s
+::senti::sentÃ­
+::respondi::respondÃ­
+::recorde::recordÃ©
 ::recordo::recordo
-::sentia::sentía
-::sentias::sentías
-::sentian::sentían
-::seras::serás
-::subitamente::súbitamente
-::tendras::tendrás
-::atraganteria::atragantaría
-::cancion::canción
-::lesion::lesión
-::leccion::lección
-::trasmision::trasmisión
-::sanguinea::sanguínea
-::sanguineas::sanguíneas
-::falto::faltó
-::sanguineo::sanguíneo
-::sanguineos::sanguíneos
-::tuberculo::tubérculo
-::tuberculo::tubérculos
-::masoneria::masonería
-::nitrogeno::nitrógeno
-::juga::jugá
-::veintidos::veintidós
-::liquido::líquido
-::espontaneamente::espontáneamente
-::espontaneo::espontáneo
-::definicion::definición
-::traves::través
-::volveria::volvería
-::transcurria::transcurría
-::tranvia::tranvía
-::travesía::travesía
-::travesías::travesías
-::gramatica::gramática
-::gramaticas::gramáticas
-::quimica::química
-::quimicas::químicas
-::quimico::químico
-::quimicos::químicos
-::ingles::inglés
-::aspero::áspero
-::titulo::título
-::titulos::títulos
-::aprobo::aprobó
-::biotecnologico::bioteconológico::
-::tecnologia::tecnología
-::tecnologica::tecnológica
-::tecnologicas::tecnológicas
-::tecnologico::tecnológico
-::tecnologicos::tecnológicos
-::masomenos::más o menos
-::hungaro::húngaro
-::region::región
-::renglon::renglón
-::testiculo::testículo
-::testiculos::testículos
-::inflacion::inflación
-::mintio::mintió
-::alli::allí
-::automatico::automático
-::automaticos::automáticos
-::automatica::automática
-::automaticas::automáticas
-::caserio::caserío
-::caserios::caseríos
-::coalicion::coalición
-::comenzo::comenzó
-::convirtio::convirtió
-::debera::deberá
-::decian::decían
-::discusion::discusión
-::discutia::discutía
-::discutias::discutías
-::discutian::discutían
-::electronica::electrónica
-::electronicas::electrónicas
-::emitiran::emitirán
-::encontro::encontró
-::expres::exprés
-::imbecil::imbécil
-::imbeciles::imbéciles
-::intencion::intención
-::nostalgica::nostálgica
-::guia::guía
-::guias::guías
-::guian::guían
-::límite::límite
-::límite::límites
-::formulas::fórmulas
-::interes::interés
-::accion::acción
-::inaccion::inacción
-::ecuacion::ecuación
-::adecuacion::adecuación
-::informacion::información
-::area::área
-::comun::común
-::sancion::sanción
-::oposicion::oposición
-::paraiso::paraíso
-::peleandose::peleándose
-::reunira::reunirá
-::tendra::tendrá
-::transaccion::transacción
-::votarian::votarían
-::compulsion::compulsión
-::propulsion::propulsión
-::combustion::combustión
-::ejeccion::ejección
-::cutanea::cutánea
-::cutaneas::cutáneas
-::genetica::genética
-::geneticas::genéticas
-::helicoptero::helicóptero
-::areas::áreas
-::seria::sería
-::metereologico::metereológico
-::ocasion::ocasión
-::mio::mío
-::mia::mía
-::mios::míos
-::mias::mías
-::logica::lógica
-::logico::lógico
-::logicas::lógicas
-::logicos::lógicos
-::dolar::dólar
-::dolares::dólares
-::revolucion::revolución
-::historico::histórico
-::historica::histórica
-::historicos::históricos
-::historicas::históricas
-::promocion::promoción
-::fraccion::fracción
-::division::división
-::miercoles::miércoles
-::fanatico::fanático
-::fanaticos::fanáticos
-::fanatica::fanática
-::fanaticas::fanáticas
-::pendulo::péndulo
-::linea::línea
-::molecula::molécula
-::moleculas::moléculas
-::lineas::líneas
+::sentia::sentÃ­a
+::sentias::sentÃ­as
+::sentian::sentÃ­an
+::seras::serÃ¡s
+::subitamente::sÃºbitamente
+::tendras::tendrÃ¡s
+::atraganteria::atragantarÃ­a
+::cancion::canciÃ³n
+::lesion::lesiÃ³n
+::leccion::lecciÃ³n
+::trasmision::trasmisiÃ³n
+::sanguinea::sanguÃ­nea
+::sanguineas::sanguÃ­neas
+;~ ::falto::faltÃ³
+::sanguineo::sanguÃ­neo
+::sanguineos::sanguÃ­neos
+::tuberculo::tubÃ©rculo
+::tuberculo::tubÃ©rculos
+::masoneria::masonerÃ­a
+::nitrogeno::nitrÃ³geno
+::juga::jugÃ¡
+::veintidos::veintidÃ³s
+;~ ::liquido::lÃ­quido
+::espontaneamente::espontÃ¡neamente
+::espontaneo::espontÃ¡neo
+::definicion::definiciÃ³n
+::traves::travÃ©s
+::volveria::volverÃ­a
+::transcurria::transcurrÃ­a
+::tranvia::tranvÃ­a
+::travesÃ­a::travesÃ­a
+::travesÃ­as::travesÃ­as
+::gramatica::gramÃ¡tica
+::gramaticas::gramÃ¡ticas
+::quimica::quÃ­mica
+::quimicas::quÃ­micas
+::quimico::quÃ­mico
+::quimicos::quÃ­micos
+::ingles::inglÃ©s
+::aspero::Ã¡spero
+::titulo::tÃ­tulo
+::titulos::tÃ­tulos
+::aprobo::aprobÃ³
+::biotecnologico::bioteconolÃ³gico::
+::tecnologia::tecnologÃ­a
+::tecnologica::tecnolÃ³gica
+::tecnologicas::tecnolÃ³gicas
+::tecnologico::tecnolÃ³gico
+::tecnologicos::tecnolÃ³gicos
+::masomenos::mÃ¡s o menos
+::hungaro::hÃºngaro
+::region::regiÃ³n
+::renglon::renglÃ³n
+::testiculo::testÃ­culo
+::testiculos::testÃ­culos
+::inflacion::inflaciÃ³n
+::mintio::mintiÃ³
+::alli::allÃ­
+::automatico::automÃ¡tico
+::automaticos::automÃ¡ticos
+::automatica::automÃ¡tica
+::automaticas::automÃ¡ticas
+::caserio::caserÃ­o
+::caserios::caserÃ­os
+::coalicion::coaliciÃ³n
+::comenzo::comenzÃ³
+::convirtio::convirtiÃ³
+::debera::deberÃ¡
+::decian::decÃ­an
+::discusion::discusiÃ³n
+::discutia::discutÃ­a
+::discutias::discutÃ­as
+::discutian::discutÃ­an
+::electronica::electrÃ³nica
+::electronicas::electrÃ³nicas
+::emitiran::emitirÃ¡n
+::encontro::encontrÃ³
+::expres::exprÃ©s
+::imbecil::imbÃ©cil
+::imbeciles::imbÃ©ciles
+::intencion::intenciÃ³n
+::nostalgica::nostÃ¡lgica
+::guia::guÃ­a
+::guias::guÃ­as
+::guian::guÃ­an
+::lÃ­mite::lÃ­mite
+::lÃ­mite::lÃ­mites
+::formulas::fÃ³rmulas
+::interes::interÃ©s
+::accion::acciÃ³n
+::inaccion::inacciÃ³n
+::ecuacion::ecuaciÃ³n
+::adecuacion::adecuaciÃ³n
+::informacion::informaciÃ³n
+::area::Ã¡rea
+::comun::comÃºn
+::sancion::sanciÃ³n
+::oposicion::oposiciÃ³n
+::paraiso::paraÃ­so
+::peleandose::peleÃ¡ndose
+::reunira::reunirÃ¡
+::tendra::tendrÃ¡
+::transaccion::transacciÃ³n
+::votarian::votarÃ­an
+::compulsion::compulsiÃ³n
+::propulsion::propulsiÃ³n
+::combustion::combustiÃ³n
+::ejeccion::ejecciÃ³n
+::cutanea::cutÃ¡nea
+::cutaneas::cutÃ¡neas
+::genetica::genÃ©tica
+::geneticas::genÃ©ticas
+::helicoptero::helicÃ³ptero
+::areas::Ã¡reas
+::seria::serÃ­a
+::metereologico::metereolÃ³gico
+::ocasion::ocasiÃ³n
+::mio::mÃ­o
+::mia::mÃ­a
+::mios::mÃ­os
+::mias::mÃ­as
+::logica::lÃ³gica
+::logico::lÃ³gico
+::logicas::lÃ³gicas
+::logicos::lÃ³gicos
+::dolar::dÃ³lar
+::dolares::dÃ³lares
+::revolucion::revoluciÃ³n
+::historico::histÃ³rico
+::historica::histÃ³rica
+::historicos::histÃ³ricos
+::historicas::histÃ³ricas
+::promocion::promociÃ³n
+::fraccion::fracciÃ³n
+::division::divisiÃ³n
+::miercoles::miÃ©rcoles
+::fanatico::fanÃ¡tico
+::fanaticos::fanÃ¡ticos
+::fanatica::fanÃ¡tica
+::fanaticas::fanÃ¡ticas
+::pendulo::pÃ©ndulo
+::linea::lÃ­nea
+::molecula::molÃ©cula
+::moleculas::molÃ©culas
+::lineas::lÃ­neas
 ::tv::TV
 ::dnu::DNU
 ::cuil::CUIL
-::tramite::trámite
-::tramites::trámites
-::telefonia::telefonía
-::eligio::eligió
-::complico::complicó
-::complice::cómplice
-::complice::cómplices
-::facil::fácil
-::faciles::fáciles
-::pagina::página
-::paginas::páginas
-::tecnica::técnica
-::tecnicas::técnicas
-::busqueda::búsqueda
-::busquedas::búsquedas
-::canción::canción
-::botanica::botánica
-::irrigacion::irrigación
-::congelación::congelación
-::barbaro::bárbaro
-::algun::algún
-::malisimo::malísimo
-::buenisimo::buenísimo
-::malisimos::malísimos
-::buenisimos::buenísimos
-::mismisimo::mismísimo
-::sintoma::síntoma
-::sintomas::síntomas
-::especimen::espécimen
-::jovenes::jóvenes
-::insolito::insólito
-::insolitos::insólitos
-::lei::leí
-::estupida::estúpida
-::estupidas::estúpidas
-::estupido::estúpido
-::estupidos::estúpidos
-::dislexica::disléxica
-::dislexicas::disléxicas
-::dislexico::disléxico
-::dislexicos::disléxicos
-::lexica::léxica
-::lexicas::léxicas
-::lexico::léxico
-::lexicos::léxicos
-::prorroga::prórroga
-::pelicula::película
-::peliculas::películas
-::proteccion::protección
-::cientifico::científico
-::cientificos::científicos
-::cientifica::científica
-::cientificas::científicas
-::futbolistico::futbolístico
-::especulacion::especulación
-::maritimo::marítimo
-::maritimos::marítimos
-::maritima::marítima
-::maritimas::marítimas
-::fantasia::fantasía
-::fantasticas::fantásticas
-::fantastica::fantástica
-::fantastico::fantástico
-::fantasticos::fantásticos
-::descubrio::descubrió
-::aleman::alemán
-::publicos::públicos
-::pesimo::pésimo
-::pesimos::pésimos
-::volco::volcó
-::advirtio::advirtió
-::mitico::mítico
-::miticos::míticos
-::centrico::céntrico
-::centricos::céntricos
-::centrica::céntrica
-::centricas::céntricas
-::aparicion::aparición
-::teorica::teórica
-::teoricas::teóricas
-::septimos::séptimos
-::septimas::séptimas
-::decimo::décimo
-::decimos::décimos
-::decima::décima
-::decimas::décimas
-::mitica::mítica
-::miticas::míticas
-::sesion::sesión
-::patetico::patético
-::pateticos::patéticos
-::patetica::patética
-::metia::metía
-::metias::metías
-::pateticas::patéticas
-::ultimo::último
-::ultimos::últimos
-::ultima::última
-::ultimas::últimas
-::podra::podrá
-::podran::podrán
-::articulo::artículo
-::articulos::artículos
-::mayoria::mayoría
-::mayorias::mayorías
-::minoria::minoría
-::minorias::minorías
-::polemica::polémica
-::polemicas::polémicas
-::polemico::polémico
-::polemicos::polémicos
-::perdi::perdí
-::frigorifico::frigorífico
-::frigorificos::frigoríficos
-::frigorifica::frigorífica
-::frigorificas::frigoríficas
-::ademas::además
-::edicion::edición
-::sobreedicion::sobreedición
-::mayuscula::mayúscula
-::mayusculas::mayúsculas
-::minuscula::minúscula
-::minusculas::minúsculas
-::cajon::cajón
-::boton::botón
-::etimologia::etimología
-::etimologico::etimológico
-::etimologicos::etimológicos
-::etimologica::etimológica
-::etimologicas::etimológicas
-::despues::después
-::camion::camión
-::natacion::natación
-::relación::relación
-::estándar::estándar
-::estándares::estándares
-::basico::básico
-::alegria::alegría
-::fisica::física
-::fisicas::físicas
-::fisico::físico
-::fisicos::físicos
-::conclusion::conclusión
-::introduccion::introducción
-::minima::mínima
-::minimas::mínimas
-::maxima::máxima
-::maximas::máximas
-::astrofisica::astrofísica
-::astrofisicas::astrofísicas
-::astrofisico::astrofísico
-::astrofisicos::astrofísicos
-::teoria::teoría
-::teorico::teóríco
-::práctico::práctico
-::prácticos::prácticos
-::proposito::propósito
-::propositos::propósitos
-::podes::podés
-::criptografia::criptografía
-::práctica::práctica
-::prácticas::prácticas
-::atletico::atlético
-::atleticos::atléticos
-::atletica::atlética
-::atleticas::atléticas
-::limon::limón
-::libreria::librería
-::librerias::librerías
-::criptico::críptico
-::cripticos::crípticos
-::criptica::críptica
-::cripticas::crípticas
-::revez::revés
-::reves::revés
-::transicion::transición
-::transision::transición
-::transisión::transición
-::parrafo::párrafo
-::parrafos::párrafos
-::camión::camión
-::tendria::tendría
-::hidrogeno::hidrógeno
-::petroleo::petróleo
-::molecula::molécula
-::moleculas::moléculas
-::provocacion::provocación
-::peroxido::peróxido
-::oxido::óxido
-::tendrias::tendrías
-::tendrian::tendrían
-::cardiaco::cardíaco
-::cardiacos::cardíacos
-::hibrido::híbrido
-::hibridos::híbridos
-::hibrida::híbrida
-::hibridas::híbridas
-::aflojaria::aflojaría
-::floreria::florería
-::estan::están
-::oracion::oración
-::tacito::tácito
-::mediterraneo::mediterráneo
-::artico::ártico
-::maximo::máximo
-::maximos::máximos
+::tramite::trÃ¡mite
+::tramites::trÃ¡mites
+::telefonia::telefonÃ­a
+::eligio::eligiÃ³
+::complico::complicÃ³
+::complice::cÃ³mplice
+::complice::cÃ³mplices
+::facil::fÃ¡cil
+::faciles::fÃ¡ciles
+::pagina::pÃ¡gina
+::paginas::pÃ¡ginas
+::tecnica::tÃ©cnica
+::tecnicas::tÃ©cnicas
+::busqueda::bÃºsqueda
+::busquedas::bÃºsquedas
+::canciÃ³n::canciÃ³n
+::botanica::botÃ¡nica
+::irrigacion::irrigaciÃ³n
+::congelaciÃ³n::congelaciÃ³n
+::barbaro::bÃ¡rbaro
+::algun::algÃºn
+::malisimo::malÃ­simo
+::buenisimo::buenÃ­simo
+::malisimos::malÃ­simos
+::buenisimos::buenÃ­simos
+::mismisimo::mismÃ­simo
+::sintoma::sÃ­ntoma
+::sintomas::sÃ­ntomas
+::especimen::espÃ©cimen
+::jovenes::jÃ³venes
+::insolito::insÃ³lito
+::insolitos::insÃ³litos
+::lei::leÃ­
+::estupida::estÃºpida
+::estupidas::estÃºpidas
+::estupido::estÃºpido
+::estupidos::estÃºpidos
+::dislexica::dislÃ©xica
+::dislexicas::dislÃ©xicas
+::dislexico::dislÃ©xico
+::dislexicos::dislÃ©xicos
+::lexica::lÃ©xica
+::lexicas::lÃ©xicas
+::lexico::lÃ©xico
+::lexicos::lÃ©xicos
+::prorroga::prÃ³rroga
+::pelicula::pelÃ­cula
+::peliculas::pelÃ­culas
+::proteccion::protecciÃ³n
+::cientifico::cientÃ­fico
+::cientificos::cientÃ­ficos
+::cientifica::cientÃ­fica
+::cientificas::cientÃ­ficas
+::futbolistico::futbolÃ­stico
+::especulacion::especulaciÃ³n
+::maritimo::marÃ­timo
+::maritimos::marÃ­timos
+::maritima::marÃ­tima
+::maritimas::marÃ­timas
+::fantasia::fantasÃ­a
+::fantasticas::fantÃ¡sticas
+::fantastica::fantÃ¡stica
+::fantastico::fantÃ¡stico
+::fantasticos::fantÃ¡sticos
+::descubrio::descubriÃ³
+::aleman::alemÃ¡n
+::publicos::pÃºblicos
+::pesimo::pÃ©simo
+::pesimos::pÃ©simos
+::volco::volcÃ³
+::advirtio::advirtiÃ³
+::mitico::mÃ­tico
+::miticos::mÃ­ticos
+::centrico::cÃ©ntrico
+::centricos::cÃ©ntricos
+::centrica::cÃ©ntrica
+::centricas::cÃ©ntricas
+::aparicion::apariciÃ³n
+::teorica::teÃ³rica
+::teoricas::teÃ³ricas
+::septimos::sÃ©ptimos
+::septimas::sÃ©ptimas
+::decimo::dÃ©cimo
+::leere::leerÃ©
+::decimos::dÃ©cimos
+::decima::dÃ©cima
+::decimas::dÃ©cimas
+::mitica::mÃ­tica
+::miticas::mÃ­ticas
+::sesion::sesiÃ³n
+::patetico::patÃ©tico
+::pateticos::patÃ©ticos
+::patetica::patÃ©tica
+::metia::metÃ­a
+::metias::metÃ­as
+::pateticas::patÃ©ticas
+::ultimo::Ãºltimo
+::ultimos::Ãºltimos
+::ultima::Ãºltima
+::ultimas::Ãºltimas
+::podra::podrÃ¡
+::podran::podrÃ¡n
+::articulo::artÃ­culo
+::articulos::artÃ­culos
+::mayoria::mayorÃ­a
+::mayorias::mayorÃ­as
+::minoria::minorÃ­a
+::minorias::minorÃ­as
+::polemica::polÃ©mica
+::polemicas::polÃ©micas
+::polemico::polÃ©mico
+::polemicos::polÃ©micos
+::perdi::perdÃ­
+::frigorifico::frigorÃ­fico
+::frigorificos::frigorÃ­ficos
+::frigorifica::frigorÃ­fica
+::frigorificas::frigorÃ­ficas
+::ademas::ademÃ¡s
+::edicion::ediciÃ³n
+::sobreedicion::sobreediciÃ³n
+::mayuscula::mayÃºscula
+::mayusculas::mayÃºsculas
+::minuscula::minÃºscula
+::minusculas::minÃºsculas
+::cajon::cajÃ³n
+::boton::botÃ³n
+::etimologia::etimologÃ­a
+::etimologico::etimolÃ³gico
+::etimologicos::etimolÃ³gicos
+::etimologica::etimolÃ³gica
+::etimologicas::etimolÃ³gicas
+::despues::despuÃ©s
+::camion::camiÃ³n
+::natacion::nataciÃ³n
+::relaciÃ³n::relaciÃ³n
+;~ ::estandar::estÃ¡ndar
+;~ ::estandares::estÃ¡ndares
+::basico::bÃ¡sico
+::alegria::alegrÃ­a
+::fisica::fÃ­sica
+::fisicas::fÃ­sicas
+::fisico::fÃ­sico
+::fisicos::fÃ­sicos
+::conclusion::conclusiÃ³n
+::introduccion::introducciÃ³n
+::minima::mÃ­nima
+::minimas::mÃ­nimas
+::maxima::mÃ¡xima
+::maximas::mÃ¡ximas
+::astrofisica::astrofÃ­sica
+::astrofisicas::astrofÃ­sicas
+::astrofisico::astrofÃ­sico
+::astrofisicos::astrofÃ­sicos
+::teoria::teorÃ­a
+::teorico::teÃ³rÃ­co
+::prÃ¡ctico::prÃ¡ctico
+::prÃ¡cticos::prÃ¡cticos
+::proposito::propÃ³sito
+::propositos::propÃ³sitos
+::podes::podÃ©s
+::criptografia::criptografÃ­a
+::prÃ¡ctica::prÃ¡ctica
+::prÃ¡cticas::prÃ¡cticas
+::atletico::atlÃ©tico
+::atleticos::atlÃ©ticos
+::atletica::atlÃ©tica
+::atleticas::atlÃ©ticas
+::limon::limÃ³n
+::libreria::librerÃ­a
+::librerias::librerÃ­as
+::criptico::crÃ­ptico
+::cripticos::crÃ­pticos
+::criptica::crÃ­ptica
+::cripticas::crÃ­pticas
+::revez::revÃ©s
+::reves::revÃ©s
+::transicion::transiciÃ³n
+::transision::transiciÃ³n
+::transisiÃ³n::transiciÃ³n
+::parrafo::pÃ¡rrafo
+::parrafos::pÃ¡rrafos
+::camiÃ³n::camiÃ³n
+::tendria::tendrÃ­a
+::hidrogeno::hidrÃ³geno
+::petroleo::petrÃ³leo
+::molecula::molÃ©cula
+::moleculas::molÃ©culas
+::provocacion::provocaciÃ³n
+::peroxido::perÃ³xido
+::oxido::Ã³xido
+::tendrias::tendrÃ­as
+::tendrian::tendrÃ­an
+::cardiaco::cardÃ­aco
+::cardiacos::cardÃ­acos
+::hibrido::hÃ­brido
+::hibridos::hÃ­bridos
+::hibrida::hÃ­brida
+::hibridas::hÃ­bridas
+::aflojaria::aflojarÃ­a
+::floreria::florerÃ­a
+::estan::estÃ¡n
+::oracion::oraciÃ³n
+::tacito::tÃ¡cito
+::mediterraneo::mediterrÃ¡neo
+::artico::Ã¡rtico
+::maximo::mÃ¡ximo
+::maximos::mÃ¡ximos
 ::maxima::maxima
 ::maximas::maximas
-::incomodos::incómodos
-::incomodas::incómodas
-::lamentosisimo::lamentosísimo
-::lamentosisimos::lamentosísimos
-::lamentosisima::lamentosísima
-::lamentosisimas::lamentosísimas
-::respondio::respondió
-::version::versión
-::campeon::campeón
-::personalizacion::personalización
-::opinion::opinión
-::azucar::azúcar
-::azucares::azúcares
-::regimen::régimen
-::regimenes::regímenes
-::cabalistica::cabalística
-::cabalistico::cabalístico
-::unicamente::únicamente
-::seguis::seguís
-::inscripcion::inscripción
-::formula::fórmula
-::guardarselo::guardárselo
-::conservarselo::conservárselo
-::comision::comisión
-::creyendose::creyéndose
-::estupidamente::estúpidamente
-::desafio::desafío
-::desafios::desafíos
-::incorrectamente::incorréctamente
-::correctamente::corréctamente
-::arepentis::arrepentís
-::seguira::seguirá
-::reproduccion::reproducción
-::carton::cartón
-::aristocrata::aristócrata
-::chupon::chupón
-::demografia::demografía
-::rectilineo::rectilíneo
-::sabiduria::sabiduría
-::jugueton::juguetón
-::homografo::homógrafo
-::sazon::sazón
-::conjugacion::conjugación
-::obstruccion::obstrucción
-::seudonimo::seudónimo
+::incomodos::incÃ³modos
+::incomodas::incÃ³modas
+::lamentosisimo::lamentosÃ­simo
+::lamentosisimos::lamentosÃ­simos
+::lamentosisima::lamentosÃ­sima
+::lamentosisimas::lamentosÃ­simas
+::respondio::respondiÃ³
+::version::versiÃ³n
+::campeon::campeÃ³n
+::personalizacion::personalizaciÃ³n
+::opinion::opiniÃ³n
+::azucar::azÃºcar
+::azucares::azÃºcares
+::regimen::rÃ©gimen
+::regimenes::regÃ­menes
+::cabalistica::cabalÃ­stica
+::cabalistico::cabalÃ­stico
+::unicamente::Ãºnicamente
+::seguis::seguÃ­s
+::inscripcion::inscripciÃ³n
+::formula::fÃ³rmula
+::guardarselo::guardÃ¡rselo
+::conservarselo::conservÃ¡rselo
+::comision::comisiÃ³n
+::creyendose::creyÃ©ndose
+::estupidamente::estÃºpidamente
+::desafio::desafÃ­o
+::desafios::desafÃ­os
+::incorrectamente::incorrÃ©ctamente
+::correctamente::corrÃ©ctamente
+::arepentis::arrepentÃ­s
+::seguira::seguirÃ¡
+::reproduccion::reproducciÃ³n
+::carton::cartÃ³n
+::aristocrata::aristÃ³crata
+::chupon::chupÃ³n
+::demografia::demografÃ­a
+::rectilineo::rectilÃ­neo
+::sabiduria::sabidurÃ­a
+::jugueton::juguetÃ³n
+::homografo::homÃ³grafo
+::sazon::sazÃ³n
+::conjugacion::conjugaciÃ³n
+::obstruccion::obstrucciÃ³n
+::seudonimo::seudÃ³nimo
 ::acordeon::acordeon
-::adiccion::adicción
-::admiracion::admiración
-::cafe::café
-::bebera::beberá
-::calzon::calzón
-::camaron::camarón
-::caminara::caminará
-::comprension::comprensión
-::confirmacion::confirmación
-::exclamacion::exclamación
-::explicacion::explicación
-::justificacion::justificación
-::expresion::expresión
-::guion::guión
-::ilustracion::ilustración
-::japones::japonés
-::mani::maní
-::maricon::maricón
-::medicacion::medicación
-::poblacion::población
-::porton::portón
-::carcel::cárcel
-::bursatil::bursátil
-::chofer::chófer
-::futbol::fútbol
-::dificil::difícil
-::fosil::fósil
-::inverosimil::inverosímil
-::lider::líder
-::marmol::mármol
-::retractil::retráctil
-::sueter::suéter
-::volatil::volátil
-::raiz::raíz
-::conoci::conocí
-::rebelion::rebelión
-::recibio::recibió
-::rotacion::rotación
-::salmon::salmón
-::sastifaccion::sastifacción
-::sofa::sofá
-::solucion::solución
-::sustraccion::sustracción
-::tiburon::tiburón
-::television::televisión
-::terminacion::terminación
-::determinacion::determinación
-::religion::religión
-::cabelleria::caballería
-::matematica::matemática
-::matematicas::matemáticas
-::util::útil
-::etica::ética
-::eticas::éticas
-::conjuncion::conjunción
-::obsesion::obsesión
-::me entro::me entró
-::dolia::dolía
-::vision::visión
-::aguila::águila
-::zoologia::zoología
-::perfeccion::perfección
-::anonimo::anónimo
-::anonimos::anónimos
-::pasandola::pasándola
-::pasandole::pasándole
-::pasandoles::pasándoles
-::anonima::anónima
-::anonimas::anónimas
-::estadistica::estadística
-::estadisticas::estadísticas
-::estadistico::estadístico
-::estadisticos::estadísticos
-::periodo::período
-::sotano::sótano
-::carbon::carbón
-::querras::querrás
-::queria::quería
-::pasaria::pasaría
-::suspenderia::suspendería
-::almorzaria::almorzaría
-::comeria::comería
-::comia::comía
-::veni::vfení
-::mostro::mostró
-::solucionaria::solucionaría
-::el es::él es
-::el esta::él está
-::el está::él está
-::el.::él.
-::el"::él"
-::el,::él,
-::el;::él;
-::existia::existía
-::existias::existías
-::existian::existían
-::escribiendote::escribiéndote
+::adiccion::adicciÃ³n
+::admiracion::admiraciÃ³n
+::cafe::cafÃ©
+::bebera::beberÃ¡
+::calzon::calzÃ³n
+::camaron::camarÃ³n
+::caminara::caminarÃ¡
+::comprension::comprensiÃ³n
+::confirmacion::confirmaciÃ³n
+::exclamacion::exclamaciÃ³n
+::explicacion::explicaciÃ³n
+::justificacion::justificaciÃ³n
+::expresion::expresiÃ³n
+::guion::guiÃ³n
+::ilustracion::ilustraciÃ³n
+::japones::japonÃ©s
+::mani::manÃ­
+::maricon::maricÃ³n
+::medicacion::medicaciÃ³n
+::poblacion::poblaciÃ³n
+::porton::portÃ³n
+::carcel::cÃ¡rcel
+::bursatil::bursÃ¡til
+::futbol::fÃºtbol
+::dificil::difÃ­cil
+::fosil::fÃ³sil
+::inverosimil::inverosÃ­mil
+::lider::lÃ­der
+::marmol::mÃ¡rmol
+::retractil::retrÃ¡ctil
+::sueter::suÃ©ter
+::volatil::volÃ¡til
+::raiz::raÃ­z
+::conoci::conocÃ­
+::rebelion::rebeliÃ³n
+::recibio::recibiÃ³
+::rotacion::rotaciÃ³n
+::salmon::salmÃ³n
+::sastifaccion::sastifacciÃ³n
+::sofa::sofÃ¡
+::solucion::soluciÃ³n
+::sustraccion::sustracciÃ³n
+::tiburon::tiburÃ³n
+::television::televisiÃ³n
+::terminacion::terminaciÃ³n
+::determinacion::determinaciÃ³n
+::religion::religiÃ³n
+::cabelleria::caballerÃ­a
+::matematica::matemÃ¡tica
+::matematicas::matemÃ¡ticas
+::util::Ãºtil
+::etica::Ã©tica
+::eticas::Ã©ticas
+::conjuncion::conjunciÃ³n
+::obsesion::obsesiÃ³n
+::me entro::me entrÃ³
+::dolia::dolÃ­a
+::vision::visiÃ³n
+::aguila::Ã¡guila
+::zoologia::zoologÃ­a
+::perfeccion::perfecciÃ³n
+::anonimo::anÃ³nimo
+::anonimos::anÃ³nimos
+::pasandola::pasÃ¡ndola
+::pasandole::pasÃ¡ndole
+::pasandoles::pasÃ¡ndoles
+::anonima::anÃ³nima
+::anonimas::anÃ³nimas
+::estadistica::estadÃ­stica
+::estadisticas::estadÃ­sticas
+::estadistico::estadÃ­stico
+::estadisticos::estadÃ­sticos
+::periodo::perÃ­odo
+::sotano::sÃ³tano
+::carbon::carbÃ³n
+::querras::querrÃ¡s
+::queria::querÃ­a
+::pasaria::pasarÃ­a
+::suspenderia::suspenderÃ­a
+::almorzaria::almorzarÃ­a
+::comeria::comerÃ­a
+::comia::comÃ­a
+::veni::vfenÃ­
+::mostro::mostrÃ³
+::solucionaria::solucionarÃ­a
+::el es::Ã©l es
+::el esta::Ã©l estÃ¡
+::el estÃ¡::Ã©l estÃ¡
+::el.::Ã©l.
+::el"::Ã©l"
+::el,::Ã©l,
+::el;::Ã©l;
+::existia::existÃ­a
+::existias::existÃ­as
+::existian::existÃ­an
+::escribiendote::escribiÃ©ndote
 ;============================
-::¿como::¿Cómo
-::¿por que::¿Por qué
-::por que::por qué
-::¿Y como::¿Y cómo
-::¿que::¿Qué
-::¿cual::¿Cuál
-::¿cuales::¿Cuáles
-::¿donde::¿Dónde
-::¿quien::¿Quién
-::¿quienes::¿Quiénes
-::¿cuando::¿Cúando
-::¿cuanto::¿Cuánto
-::¿cuantos::¿Cuántos
-::¿cuanta::¿Cuánta
-::¿cuantas::¿Cuántas
-::¿De que::¿De qué
-::¿De cual::¿De cuál
-::¿De cuales::¿De cuáles
-::¿De donde::¿De dónde
-::¿De quien::¿De quién
-::¿De quienes::¿De quiénes
-::¿De cuando::¿De cúando
-::¿De cuanto::¿De cuánto
-::¿De cuanta::¿De cuánta
-::¿De cuantos::¿De cuántos
-::¿De cuantas::¿De cuántas
-::¿Y que::¿Y qué
-::¿Y cual::¿Y cuál
-::¿Y cuales::¿Y cuáles
-::¿Y donde::¿Y dónde
-::¿Y quien::¿Y quién
-::¿Y quienes::¿Y quiénes
-::¿Y cuando::¿Y cúando
-::¿Y cuanto::¿Y cuánto
-::¿Y cuanta::¿Y cuánta
-::¿Y cuantos::¿Y cuántos
-::¿Y cuantas::¿Y cuántas
-::¿Y de que::¿Y de qué
-::¿Y de cual::¿Y de cuál
-::¿Y de cuales::¿Y de cuáles
-::¿Y de donde::¿Y de dónde
-::¿Y de quien::¿Y de quién
-::¿Y de quienes::¿Y de quiénes
-::¿Y de cuando::¿Y de cúando
-::¿Y de cuanto::¿Y de cuánto
-::¿Y de cuanta::¿Y de cuánta
-::¿Y de cuantos::¿Y de cuántos
-::¿Y de cuantas::¿Y de cuántas
-::¿Y a que::¿Y a qué
-::¿Y a cual::¿Y a cuál
-::¿Y a cuales::¿Y a cuáles
-::¿Y a donde::¿Y a dónde
-::¿Y a quien::¿Y a quién
-::¿Y a quienes::¿Y a quiénes
-::¿Y a cuanto::¿Y a cuánto
-::¿Y a cuanta::¿Y a cuánta
-::¿Y a cuantos::¿Y a cuántos
-::¿Y a cuantas::¿Y a cuántas
-::¿a que::¿A qué
-::¿a cual::¿A cuál
-::¿a cuales::¿A cuáles
-::¿a donde::¿A dónde
-::¿a quien::¿A quién
-::¿a quienes::¿A quiénes
-::¿a cuanto::¿A cuánto
-::¿a cuanta::¿A cuánta
-::¿a cuantos::¿A cuántos
-::¿a cuantas::¿A cuántas
-::¡que::¡Qué
-::¡cual::¡Cuál
-::¡cuales::¡Cuáles
-::¡donde::¡Dónde
-::¡quien::¡Quién
-::¡quienes::¡Quiénes
-::¡cuando::¡Cúando
-::¡cuanto::¡Cuánto
-::¡cuantos::¡Cuántos
-::¡cuanta::¡Cuánta
-::¡cuantas::¡Cuántas
-::¡De que::¡De qué
-::¡De cual::¡De cuál
-::¡De cuales::¡De cuáles
-::¡De donde::¡De dónde
-::¡De quien::¡De quién
-::¡De quienes::¡De quiénes
-::¡De cuando::¡De cúando
-::¡De cuanto::¡De cuánto
-::¡De cuantos::¡De cuántos
-::¡De cuanta::¡De cuánta
-::¡De cuántas::¡De cuántas
-::¡Y que::¡Y qué
-::¡Y cual::¡Y cuál
-::¡Y cuales::¡Y cuáles
-::¡Y donde::¡Y dónde
-::¡Y quien::¡Y quién
-::¡Y quienes::¡Y quiénes
-::¡Y cuando::¡Y cúando
-::¡Y cuanto::¡Y cuánto
-::¡Y cuantos::¡Y cuántos
-::¡Y cuanta::¡Y cuánta
-::¡Y cuántas::¡Y cuántas
-::¡Y de que::¡Y de qué
-::¡Y de cual::¡Y de cuál
-::¡Y de cuales::¡Y de cuáles
-::¡Y de donde::¡Y de dónde
-::¡Y de quien::¡Y de quién
-::¡Y de quienes::¡Y de quiénes
-::¡Y de cuando::¡Y de cúando
-::¡Y de cuanto::¡Y de cuánto
-::¡Y de cuantos::¡Y de cuántos
-::¡Y de cuanta::¡Y de cuánta
-::¡Y de cuántas::¡Y de cuántas
-::¡Y a que::¡Y a qué
-::¡Y a cual::¡Y a cuál
-::¡Y a cuales::¡Y a cuáles
-::¡Y a donde::¡Y a dónde
-::¡Y a quien::¡Y a quién
-::¡Y a quienes::¡Y a quiénes
-::¡Y a cuanto::¡Y a cuánto
-::¡Y a cuantos::¡Y a cuántos
-::¡Y a cuanta::¡Y a cuánta
-::¡Y a cuántas::¡Y a cuántas
-::¡a que::¡A qué
-::¡a cual::¡A cuál
-::¡a cuales::¡A cuáles
-::¡a donde::¡A dónde
-::¡a quien::¡A quién
-::¡a quienes::¡A quiénes
-::¡a cuanto::¡A cuánto
-::¡a cuanta::¡A cuánta
-::¡a cuantos::¡A cuántos
-::¡a cuantas::¡A cuántas
-::¡como::¡Cómo
-::¡por que::¡Por qué
+::Â¿como::Â¿CÃ³mo
+::Â¿por que::Â¿Por quÃ©
+::por que::por quÃ©
+::Â¿Y como::Â¿Y cÃ³mo
+::Â¿que::Â¿QuÃ©
+::Â¿cual::Â¿CuÃ¡l
+::Â¿cuales::Â¿CuÃ¡les
+::Â¿donde::Â¿DÃ³nde
+::Â¿quien::Â¿QuiÃ©n
+::Â¿quienes::Â¿QuiÃ©nes
+::Â¿cuando::Â¿CÃºando
+::Â¿cuanto::Â¿CuÃ¡nto
+::Â¿cuantos::Â¿CuÃ¡ntos
+::Â¿cuanta::Â¿CuÃ¡nta
+::Â¿cuantas::Â¿CuÃ¡ntas
+::Â¿De que::Â¿De quÃ©
+::Â¿De cual::Â¿De cuÃ¡l
+::Â¿De cuales::Â¿De cuÃ¡les
+::Â¿De donde::Â¿De dÃ³nde
+::Â¿De quien::Â¿De quiÃ©n
+::Â¿De quienes::Â¿De quiÃ©nes
+::Â¿De cuando::Â¿De cÃºando
+::Â¿De cuanto::Â¿De cuÃ¡nto
+::Â¿De cuanta::Â¿De cuÃ¡nta
+::Â¿De cuantos::Â¿De cuÃ¡ntos
+::Â¿De cuantas::Â¿De cuÃ¡ntas
+::Â¿Y que::Â¿Y quÃ©
+::Â¿Y cual::Â¿Y cuÃ¡l
+::Â¿Y cuales::Â¿Y cuÃ¡les
+::Â¿Y donde::Â¿Y dÃ³nde
+::Â¿Y quien::Â¿Y quiÃ©n
+::Â¿Y quienes::Â¿Y quiÃ©nes
+::Â¿Y cuando::Â¿Y cÃºando
+::Â¿Y cuanto::Â¿Y cuÃ¡nto
+::Â¿Y cuanta::Â¿Y cuÃ¡nta
+::Â¿Y cuantos::Â¿Y cuÃ¡ntos
+::Â¿Y cuantas::Â¿Y cuÃ¡ntas
+::Â¿Y de que::Â¿Y de quÃ©
+::Â¿Y de cual::Â¿Y de cuÃ¡l
+::Â¿Y de cuales::Â¿Y de cuÃ¡les
+::Â¿Y de donde::Â¿Y de dÃ³nde
+::Â¿Y de quien::Â¿Y de quiÃ©n
+::Â¿Y de quienes::Â¿Y de quiÃ©nes
+::Â¿Y de cuando::Â¿Y de cÃºando
+::Â¿Y de cuanto::Â¿Y de cuÃ¡nto
+::Â¿Y de cuanta::Â¿Y de cuÃ¡nta
+::Â¿Y de cuantos::Â¿Y de cuÃ¡ntos
+::Â¿Y de cuantas::Â¿Y de cuÃ¡ntas
+::Â¿Y a que::Â¿Y a quÃ©
+::Â¿Y a cual::Â¿Y a cuÃ¡l
+::Â¿Y a cuales::Â¿Y a cuÃ¡les
+::Â¿Y a donde::Â¿Y a dÃ³nde
+::Â¿Y a quien::Â¿Y a quiÃ©n
+::Â¿Y a quienes::Â¿Y a quiÃ©nes
+::Â¿Y a cuanto::Â¿Y a cuÃ¡nto
+::Â¿Y a cuanta::Â¿Y a cuÃ¡nta
+::Â¿Y a cuantos::Â¿Y a cuÃ¡ntos
+::Â¿Y a cuantas::Â¿Y a cuÃ¡ntas
+::Â¿a que::Â¿A quÃ©
+::Â¿a cual::Â¿A cuÃ¡l
+::Â¿a cuales::Â¿A cuÃ¡les
+::Â¿a donde::Â¿A dÃ³nde
+::Â¿a quien::Â¿A quiÃ©n
+::Â¿a quienes::Â¿A quiÃ©nes
+::Â¿a cuanto::Â¿A cuÃ¡nto
+::Â¿a cuanta::Â¿A cuÃ¡nta
+::Â¿a cuantos::Â¿A cuÃ¡ntos
+::Â¿a cuantas::Â¿A cuÃ¡ntas
+::Â¡que::Â¡QuÃ©
+::Â¡cual::Â¡CuÃ¡l
+::Â¡cuales::Â¡CuÃ¡les
+::Â¡donde::Â¡DÃ³nde
+::Â¡quien::Â¡QuiÃ©n
+::Â¡quienes::Â¡QuiÃ©nes
+::Â¡cuando::Â¡CÃºando
+::Â¡cuanto::Â¡CuÃ¡nto
+::Â¡cuantos::Â¡CuÃ¡ntos
+::Â¡cuanta::Â¡CuÃ¡nta
+::Â¡cuantas::Â¡CuÃ¡ntas
+::Â¡De que::Â¡De quÃ©
+::Â¡De cual::Â¡De cuÃ¡l
+::Â¡De cuales::Â¡De cuÃ¡les
+::Â¡De donde::Â¡De dÃ³nde
+::Â¡De quien::Â¡De quiÃ©n
+::Â¡De quienes::Â¡De quiÃ©nes
+::Â¡De cuando::Â¡De cÃºando
+::Â¡De cuanto::Â¡De cuÃ¡nto
+::Â¡De cuantos::Â¡De cuÃ¡ntos
+::Â¡De cuanta::Â¡De cuÃ¡nta
+::Â¡De cuÃ¡ntas::Â¡De cuÃ¡ntas
+::Â¡Y que::Â¡Y quÃ©
+::Â¡Y cual::Â¡Y cuÃ¡l
+::Â¡Y cuales::Â¡Y cuÃ¡les
+::Â¡Y donde::Â¡Y dÃ³nde
+::Â¡Y quien::Â¡Y quiÃ©n
+::Â¡Y quienes::Â¡Y quiÃ©nes
+::Â¡Y cuando::Â¡Y cÃºando
+::Â¡Y cuanto::Â¡Y cuÃ¡nto
+::Â¡Y cuantos::Â¡Y cuÃ¡ntos
+::Â¡Y cuanta::Â¡Y cuÃ¡nta
+::Â¡Y cuÃ¡ntas::Â¡Y cuÃ¡ntas
+::Â¡Y de que::Â¡Y de quÃ©
+::Â¡Y de cual::Â¡Y de cuÃ¡l
+::Â¡Y de cuales::Â¡Y de cuÃ¡les
+::Â¡Y de donde::Â¡Y de dÃ³nde
+::Â¡Y de quien::Â¡Y de quiÃ©n
+::Â¡Y de quienes::Â¡Y de quiÃ©nes
+::Â¡Y de cuando::Â¡Y de cÃºando
+::Â¡Y de cuanto::Â¡Y de cuÃ¡nto
+::Â¡Y de cuantos::Â¡Y de cuÃ¡ntos
+::Â¡Y de cuanta::Â¡Y de cuÃ¡nta
+::Â¡Y de cuÃ¡ntas::Â¡Y de cuÃ¡ntas
+::Â¡Y a que::Â¡Y a quÃ©
+::Â¡Y a cual::Â¡Y a cuÃ¡l
+::Â¡Y a cuales::Â¡Y a cuÃ¡les
+::Â¡Y a donde::Â¡Y a dÃ³nde
+::Â¡Y a quien::Â¡Y a quiÃ©n
+::Â¡Y a quienes::Â¡Y a quiÃ©nes
+::Â¡Y a cuanto::Â¡Y a cuÃ¡nto
+::Â¡Y a cuantos::Â¡Y a cuÃ¡ntos
+::Â¡Y a cuanta::Â¡Y a cuÃ¡nta
+::Â¡Y a cuÃ¡ntas::Â¡Y a cuÃ¡ntas
+::Â¡a que::Â¡A quÃ©
+::Â¡a cual::Â¡A cuÃ¡l
+::Â¡a cuales::Â¡A cuÃ¡les
+::Â¡a donde::Â¡A dÃ³nde
+::Â¡a quien::Â¡A quiÃ©n
+::Â¡a quienes::Â¡A quiÃ©nes
+::Â¡a cuanto::Â¡A cuÃ¡nto
+::Â¡a cuanta::Â¡A cuÃ¡nta
+::Â¡a cuantos::Â¡A cuÃ¡ntos
+::Â¡a cuantas::Â¡A cuÃ¡ntas
+::Â¡como::Â¡CÃ³mo
+::Â¡por que::Â¡Por quÃ©
+::alfabetica::alfabÃ©tica
+::alfabetico::alfabÃ©tico
+::alfabeticos::alfabÃ©ticos
+::cambiaria::cambiarÃ­a
+::cambiarias::cambiarÃ­as
+::cambiarian::cambiarÃ­an
+::vertigo::vÃ©rtigo
+::vertigos::vÃ©rtigos
+::cupulas::cÃºpulas
+::vetaria::vetarÃ­a
+::vetarias::vetarÃ­as
+::vetarian::vetarÃ­an
+::mistica::mÃ­stica
+::mistico::mÃ­stico
+::misticas::mÃ­sticas
+::misticos::mÃ­sticos
+::hermetico::hermÃ©tico
+::hermeticos::hermÃ©tico
+::hermetica::hermÃ©tica
+::hermeticas::hermÃ©ticas
+::panico::pÃ¡nico
+::panicos::pÃ¡nicos
+::traeria::traerÃ­a
+::traerias::traerÃ­as
+::traerian::traerÃ­an
+::rehabilitacion::rehabilitaciÃ³n
+::homunculo::homÃºnculo
+::homunculos::homÃºnculos
+::habilitacion::habilitaciÃ³n
+::sintomas::sÃ­ntomas
+::rufian::rufÃ­an
+::helicopteros::helicÃ³pteros
+::egoistas::egoÃ­stas
+::egoista::egoÃ­sta
+::egoismo::egoÃ­smo
+::sistematicamente::sistemÃ¡ticamente
+::colico::cÃ³lico
+::colicos::cÃ³licos
+::alcoholico::alcohÃ³lico
+::alcoholicos::alcohÃ³licos
+::alcoholica::alcohÃ³lica
+::alcoholicas::alcohÃ³licas
+::anonimo::anÃ³nimo
+::anonimos::anÃ³nimos
+::anonima::anÃ³nima
+::anonimas::anÃ³nimas
+::patrullabamos::patrullÃ¡bamos
+::caballeria::caballerÃ­a
+::caballerias::caballerÃ­as
+::ofreci::ofrecÃ­
+::eramos::Ã©ramos
+::tratabamos::tratÃ¡bamos
+::comunicabamos::comunicÃ¡bamos
+::tirania::tiranÃ­a
+::tiranias::tiranÃ­as
+::esqui::esquÃ­
+::arresteme::arrÃ©steme
+::agarrabamos::agarrÃ¡bamos
+::neumatico::neumÃ¡tico
+::neumaticos::neumÃ¡ticos
+::caotico::caÃ³tico
+::caoticos::caÃ³ticos
+::caotica::caÃ³tica
+::caoticas::caÃ³ticas
+::traiganlo::traÃ­ganlo
+::traiganlos::traÃ­ganlos
+::sufri::sufrÃ­
+::crimenes::crÃ­menes
+::matandome::matÃ¡ndome
+::matandose::matÃ¡ndose
+::matandonos::matÃ¡ndonos
+::sucidandome::matÃ¡ndome
+::queria::querÃ­a
+::querias::querÃ­as
+::querian::querÃ­an
+::provocacion::provocaciÃ³n
+::sabiamos::sabÃ­amos
+::oirlo::oÃ­rlo
+::opresion::opresiÃ³n
+::bendicion::bendiciÃ³n
+::tartaro::tÃ¡rtaro
+::tartaros::tÃ¡rtaros
+::temia::temÃ­a
+::temian::temÃ­an
+::recogia::recogÃ­a
+::recogian::recogÃ­an
+::recogias::recogÃ­as
+::espiritu::espÃ­ritu
+::espiritus::espÃ­ritus
+::segui::seguÃ­
+::seguis::seguÃ­s
+::seguia::seguÃ­a
+::seguian::seguÃ­an
+::seguias::seguÃ­as
+::ultimamente::Ãºltimamente
+::momentaneamente::momentÃ¡neamente
+::necesitaria::necesitarÃ­a
+::necesitarias::necesitarÃ­as
+::necesitarian::necesitarÃ­an
+::fundacion::fundaciÃ³n
+::fundicion::fundiciÃ³n
+::millon::millÃ³n
+::billon::billÃ³n
+::recordabamos::recordÃ¡bamos
+::recodaria::recordarÃ­a
+::ibamos::Ã­bamos
+::lacrimogenos::lacrimÃ³genos
+::lacrimogeno::lacrimÃ³geno
+::autonoma::autÃ³noma
+::autonomas::autÃ³nomas
+::empece::empecÃ©
+::espontanea::espontÃ¡nea
+::espontaneas::espontÃ¡neas
+::pongase::pÃ³ngase
+::ponganse::pÃ³nganse
+::diplomatica::diplomÃ¡tica
+::diplomaticas::diplomÃ¡ticas
+::diplomatico::diplomÃ¡tico
+::diplomaticos::diplomÃ¡ticos
+::salon::salÃ³n
+::hazmerreir::hazmerreÃ­r
+::naci::nacÃ­
+::creera::creerÃ¡
+::hare::harÃ©
+::relacionandome::relacionÃ¡ndome
+::relacionandose::relacionÃ¡ndose
+::anfitrion::anfitriÃ³n
+::tendre::tendrÃ©
+::simpatias::simpatÃ­as
+::autografo::autÃ³grafo
+::autografos::autÃ³grafos
+::autografia::autografÃ­a
+::autografias::autografÃ­as
+::hay mas::hay mÃ¡s
+::Â¡Estas::Â¡EstÃ¡s
+::Â¿Estas::Â¿EstÃ¡s
+::ocurrio::ocurriÃ³
+::diversion::diversiÃ³n
+::cansarias::cansarÃ­as
+::mi.::mÃ­.
+::mi,::mÃ­,
+::mi?::mÃ­?
+::mi!::mÃ­!
+::mi"::mÃ­"
+::psicopata::psicÃ³pata
+::psicopatas::psicÃ³patas
+::psicopatia::psicopatÃ­a
+::psicopatias::psicopatÃ­as
+::fotografo::fotÃ³grafo
+::fotografos::fotÃ³grafo
+::fotografa::fotÃ³grafa
+::fotografas::fotÃ³grafas
+::fotografia::fotografÃ­a
+::fotografias::fotografÃ­as
+::permitame::permÃ­tame
+::bifurcacion::bifuraciÃ³n
+::movera::moverÃ¡
+::salio::saliÃ³
+::pudieramos::pudiÃ©ramos
+::solia::solÃ­a
+::solias::solÃ­as
+::solian::solÃ­an
+::salia::salÃ­a
+::salias::salÃ­as
+::salian::salÃ­an
+::policias::policÃ­as
+::parasita::parÃ¡sita
+::parasitas::parÃ¡sitas
+::crei::creÃ­
+::autobiografia::autobiografÃ­a
+::autobiografias::autobiografÃ­as
+::menu::menÃº
+::presion::presiÃ³n
+::huerfano::huÃ©rfano
+::huerfanos::huÃ©rfanos
+::deberiamos::deberÃ­amos
+::haciamos::hacÃ­amos
+::sarcastica::sarcÃ¡stica
+::sarcasticas::sarcÃ¡sticas
+::sarcasticos::sarcÃ¡sticos
+::caloria::calorÃ­a
+::calorias::calorÃ­as
+::velacion::velaciÃ³n
+::tecnicamente::tÃ©cnicamente
+::jardin::jardÃ­n
+::periodico::periÃ³dico
+::periodicos::periÃ³dicos
+::algodon::algodÃ³n
+::buscare::buscarÃ©
+::comio::comiÃ³
+::bebio::bebiÃ³
+::crecio::creciÃ³
+::diselo::dÃ­selo
+::diselos::dÃ­selos
+::vendias::vendÃ­as
+::comiamos::comÃ­amos
+::bebiamos::bebÃ­amos
+::cenabamos::cenÃ¡bamos
+::almorzabamos::almorzÃ¡bamos
+::desayunabamos::desayunÃ¡bamos
+::increible::increÃ­ble
+::increibles::increÃ­bles
+::camaras::cÃ¡maras
+::solia::solÃ­as
+::solian::solÃ­an
+::salia::salÃ­a
+::salias::salÃ­as
+::solias::solÃ­an
+::salian::salÃ­an
+::meterian::meterÃ­an
+::meterias::meterÃ­as
+::meteria::meterÃ­a
+::desearia::desearÃ­a
+::desearias::desearÃ­as
+::desearian::desearÃ­n
+::cerre::cerrÃ©
+::escribio::escribiÃ³
+::energias::energÃ­as
+::cogia::cogÃ­a
+::cojia::cojÃ­a
+::cojias::cojÃ­as
+::cogias::cogÃ­as
+::cogian::cogÃ­an
+::cojian::cojÃ­an
+::cogiamos::cogÃ­amos
+::cojiamos::cojÃ­amos
+::superheroe::superhÃ©roe
+::superheroes::superhÃ©roes
+::adonde::adÃ³nde
+::quiza::quizÃ¡
+::quizas::quizÃ¡s
+::subire::subirÃ©
+::establecera::establecerÃ¡
+::estableceras::establecerÃ¡s
+::estableceran::establecerÃ¡n
+::mirabamos::mirÃ¡bamos
+::tocaria::tocarÃ­a
+::tocarias::tocarÃ­as
+::tocarian::tocarÃ­an
+::elegi::elegÃ­
+::tocariamos::tocarÃ­amos
+::naci::nacÃ­
+::Maidan::MaidÃ¡n
+::Siovetica::SiovÃ©tica
+::manifestacion::manifestaciÃ³n
+::perdia::perdÃ­a
+::perdias::perdÃ­as
+::perdian::perdÃ­an
+::entendia::entendÃ­a
+::conocias::conocÃ­as
+::conocian::conocÃ­an
+::entendias::entendÃ­as
+::entendian::entendÃ­an
+::fijaria::fijarÃ­a
+::fijarias::fijarÃ­as
+::fijarian::fijarÃ­an
+::juridica::jurÃ­dica
+::juridicas::jurÃ­dicas
+::prometio::prometiÃ³
+::apocaliptica::apocalÃ­ptica
+::apocaliptico::apocalÃ­ptico
+::apocalipticas::apocalÃ­pticas
+::apocalipticos::apocalÃ­pticos
+::inspiracion::inspiraciÃ³n
+::plasticos::plÃ¡sticos
+::plastica::plÃ¡stica
+::plasticas::plÃ¡sticas
+::traumatico::traumÃ¡tico
+::traumaticos::traumÃ¡ticos
+::traumaticas::traumÃ¡ticas
 ;============================
 ::rr hh::RR. HH.
 ::rrhh::RR. HH.
@@ -1382,7 +2571,7 @@
 ::hablastes::hablaste
 ::dejastes::dejaste
 ;============================
-::todavía::todavía
+::todavÃ­a::todavÃ­a
 ::mensajesito::mensajecito
 ::ratonsito::ratoncito
 ::nubesita::nubecita
@@ -1393,662 +2582,663 @@
 ::geniesillo::geniecillo
 ::piesito::piecito
 ::pecesito::pececito
-::lunatico::lunático
-::lunaticos::lunáticos
-::lunatica::lunática
-::lunaticas::lunáticas
-::antidoto::antídoto
-::antidotos::antídotos
-::monosilaba::monosílaba
-::monosilabas::monosílabas
-::obstaculo::obstáculo
-::obstaculos::obstáculos
-::cadaver::cadáver
-::cadaveres::cadáveres
-::fragil::frágil
-::fragiles::frágiles
-::polvoras::pólvoras
-::frivolo::frívolo
-::frivolos::frívolos
-::hectarea::hectárea
-::hectareas::hectáreas
-::evaporacion::evaporación
-::helice::hélice
-::helices::hélices
-::huracan::huracán
-::violin::violín
-::cojin::cojín
-::sabana::sábana
-::autobus::autobús
-::avion::avión
-::embarcacion::embarcación
-::educacion::educación
-::epoca::época
-::cuestion::cuestión
-::encontrare::encontraré
-::relampago::relámpago
-::formacion::formación
-::cirugia::cirguía
-::sente::senté
-::capitalizacion::capitalazación
-::multiple::múltiple
-::multiples::múltiples
-::estacion::estación
-::convencion::convención
-::gestacion::gestación
-::germinacion::germinación
-::apreciacion::apreciación
-::despreciacion::despreciación
-::amortizacion::amortización
-::reducira::reducirá
-::sistematico::sistemático
-::sistematica::sistemática
-::sistematicos::sistemáticos
-::sistematicas::sistemáticas
-::valuacion::valuación
-::renumeracion::renumeración
-::emision::emisión
-::explicitamente::explícitamente
-::cupon::cupón
-::circulacion::circulación
-::corporacion::corporación
-::despreciaria::despreciaría
-::apreciaria::apreciaría
-::estrategico::estratégico
-::estrategica::estratégica
-::estrategicas::estratégicas
-::estrategicos::estratégicos 
-::tactico::táctico
-::tactica::táctica
-::tacticas::tácticas
-::tacticos::tácticos
-::inversion::inversión
-::compañias::compañias
-::juridico::jurídico
-::juridicos::jurídicos
-::dinamico::dinámico
-::dinamicos::dinámicos
-::dinamica::dinámica
-::dinamicas::dinámicas
-::exitos::éxitos
-::exito::éxito
-::comparacion::comparación
-::economica::económica
-::economicas::económicas
-::economia::economía
-::economias::economías 
-::metodologia::metodología
-::metodologias::metodologías
-::liquidacion::liquidación
-::padecia::padecía
-::padecias::padecías
-::padecian::padecían
-::existian::existían
-::comercializacion::comercialización 
-::regulacion::regulación
-::desregulacion::desregulación
-::capacitacion::capacitación
-::epica::épica
-::epicas::épicas
-::epico::épico
-::epicos::épicos 
-::epocas::épocas 
-::transmision::trasmisión
-::metodologico::metodólogico
-::metodologicos::metodólogicos
-::metodologica::metodólogica
-::metodologicas::metodólogicas
-::encarnacion::encarnación
-::edificacion::edificación
-::nacion::nación
-::oir::oír
-::buzon::buzón
-::brujula::brújula
-::telefono::teléfono
-::telefonos::teléfonos
-::formacion::formación
-::posicion::posición
-::inclinacion::inclinación
-::camara::cámara
-::tabano::tábano
-::teologia::teología
-::biologia::biología
-::tetrico::tétrico
-::hermofiloco::hermofílico
-::estabamos::estábamos
-::teniamos::teníamos
-::eramos::éramos
-::podiamos::podíamos
-::realizacion::realización
-::inhibicion::inhibición
-::capacitacion::capacitación
-::teneria::tenería
-::panaderia::panadería
-::vinateria::vinatería
-::zapateria::zapatería
-::raton::ratón
-::maton::matón
-::tason::tasón
-::mandandome::mandándome
-::enviandome::enviándome
-::costelacion::costelación
-::computacion::computación
-::epilogo::epílogo
-::elaboracion::elaboración
-::diacono::diácono
-::anecdota::anéctoda
-::anecdotas::anéctodas
-::mensajeria::mensajería
-::sensacion::sensación
-::diacritico::diacrítico
-::tempano::témpano
-::principe::príncipe
-::principes::príncipes
-::cesped::césped
-::subterraneo::subterráneo
-::betun::betún
-::acuatico::acuático
-::acuaticos::acuáticos
-::acuatica::acuática
-::acuaticas::acuáticas
-::vehiculo::vehículo
-::vehiculos::vehículos
-::atmosfera::atmósfera
-::lapiz::lápiz
-::atmosferas::atmósferas
-::baston::bastón
+::lunatico::lunÃ¡tico
+::lunaticos::lunÃ¡ticos
+::lunatica::lunÃ¡tica
+::lunaticas::lunÃ¡ticas
+::antidoto::antÃ­doto
+::antidotos::antÃ­dotos
+::monosilaba::monosÃ­laba
+::monosilabas::monosÃ­labas
+::obstaculo::obstÃ¡culo
+::obstaculos::obstÃ¡culos
+::cadaver::cadÃ¡ver
+::cadaveres::cadÃ¡veres
+::fragil::frÃ¡gil
+::fragiles::frÃ¡giles
+::polvoras::pÃ³lvoras
+::frivolo::frÃ­volo
+::frivolos::frÃ­volos
+::hectarea::hectÃ¡rea
+::hectareas::hectÃ¡reas
+::evaporacion::evaporaciÃ³n
+::helice::hÃ©lice
+::helices::hÃ©lices
+::huracan::huracÃ¡n
+::violin::violÃ­n
+::cojin::cojÃ­n
+::sabana::sÃ¡bana
+::autobus::autobÃºs
+::avion::aviÃ³n
+::embarcacion::embarcaciÃ³n
+::educacion::educaciÃ³n
+::epoca::Ã©poca
+::cuestion::cuestiÃ³n
+::encontrare::encontrarÃ©
+::relampago::relÃ¡mpago
+::formacion::formaciÃ³n
+::cirugia::cirguÃ­a
+::sente::sentÃ©
+::capitalizacion::capitalazaciÃ³n
+::multiple::mÃºltiple
+::multiples::mÃºltiples
+::estacion::estaciÃ³n
+::convencion::convenciÃ³n
+::gestacion::gestaciÃ³n
+::germinacion::germinaciÃ³n
+::apreciacion::apreciaciÃ³n
+::despreciacion::despreciaciÃ³n
+::amortizacion::amortizaciÃ³n
+::reducira::reducirÃ¡
+::sistematico::sistemÃ¡tico
+::sistematica::sistemÃ¡tica
+::sistematicos::sistemÃ¡ticos
+::sistematicas::sistemÃ¡ticas
+::valuacion::valuaciÃ³n
+::renumeracion::renumeraciÃ³n
+::emision::emisiÃ³n
+::explicitamente::explÃ­citamente
+::cupon::cupÃ³n
+::circulacion::circulaciÃ³n
+::corporacion::corporaciÃ³n
+::despreciaria::despreciarÃ­a
+::apreciaria::apreciarÃ­a
+::estrategico::estratÃ©gico
+::estrategica::estratÃ©gica
+::estrategicas::estratÃ©gicas
+::estrategicos::estratÃ©gicos 
+::tactico::tÃ¡ctico
+::tactica::tÃ¡ctica
+::tacticas::tÃ¡cticas
+::tacticos::tÃ¡cticos
+::inversion::inversiÃ³n
+::compaÃ±ias::compaÃ±ias
+::juridico::jurÃ­dico
+::juridicos::jurÃ­dicos
+::dinamico::dinÃ¡mico
+::dinamicos::dinÃ¡micos
+::dinamica::dinÃ¡mica
+::dinamicas::dinÃ¡micas
+::exitos::Ã©xitos
+::exito::Ã©xito
+::comparacion::comparaciÃ³n
+::economica::econÃ³mica
+::economicas::econÃ³micas
+::economia::economÃ­a
+::economias::economÃ­as 
+::metodologia::metodologÃ­a
+::metodologias::metodologÃ­as
+::liquidacion::liquidaciÃ³n
+::padecia::padecÃ­a
+::padecias::padecÃ­as
+::padecian::padecÃ­an
+::existian::existÃ­an
+::comercializacion::comercializaciÃ³n 
+::regulacion::regulaciÃ³n
+::desregulacion::desregulaciÃ³n
+::capacitacion::capacitaciÃ³n
+::epica::Ã©pica
+::epicas::Ã©picas
+::epico::Ã©pico
+::epicos::Ã©picos 
+::epocas::Ã©pocas 
+::transmision::trasmisiÃ³n
+::metodologico::metodÃ³logico
+::metodologicos::metodÃ³logicos
+::metodologica::metodÃ³logica
+::metodologicas::metodÃ³logicas
+::encarnacion::encarnaciÃ³n
+::edificacion::edificaciÃ³n
+::nacion::naciÃ³n
+::oir::oÃ­r
+::buzon::buzÃ³n
+::brujula::brÃºjula
+::telefono::telÃ©fono
+::telefonos::telÃ©fonos
+::formacion::formaciÃ³n
+::posicion::posiciÃ³n
+::inclinacion::inclinaciÃ³n
+::camara::cÃ¡mara
+::tabano::tÃ¡bano
+::teologia::teologÃ­a
+::biologia::biologÃ­a
+::tetrico::tÃ©trico
+::hermofiloco::hermofÃ­lico
+::estabamos::estÃ¡bamos
+::teniamos::tenÃ­amos
+::eramos::Ã©ramos
+::podiamos::podÃ­amos
+::realizacion::realizaciÃ³n
+::inhibicion::inhibiciÃ³n
+::capacitacion::capacitaciÃ³n
+::teneria::tenerÃ­a
+::panaderia::panaderÃ­a
+::vinateria::vinaterÃ­a
+::zapateria::zapaterÃ­a
+::raton::ratÃ³n
+::maton::matÃ³n
+::tason::tasÃ³n
+::mandandome::mandÃ¡ndome
+::enviandome::enviÃ¡ndome
+::costelacion::costelaciÃ³n
+::computacion::computaciÃ³n
+::epilogo::epÃ­logo
+::elaboracion::elaboraciÃ³n
+::diacono::diÃ¡cono
+::anecdota::anÃ©cdota
+::anecdotas::anÃ©cdotas
+::mensajeria::mensajerÃ­a
+::sensacion::sensaciÃ³n
+::diacritico::diacrÃ­tico
+::tempano::tÃ©mpano
+::principe::prÃ­ncipe
+::principes::prÃ­ncipes
+::cesped::cÃ©sped
+::subterraneo::subterrÃ¡neo
+::betun::betÃºn
+::acuatico::acuÃ¡tico
+::acuaticos::acuÃ¡ticos
+::acuatica::acuÃ¡tica
+::acuaticas::acuÃ¡ticas
+::vehiculo::vehÃ­culo
+::vehiculos::vehÃ­culos
+::atmosfera::atmÃ³sfera
+::lapiz::lÃ¡piz
+::atmosferas::atmÃ³sferas
+::baston::bastÃ³n
 ::corazonsito::corazoncito
 ::lucesita::lucecita
 ::redesilla::redecilla
-::fonetico::fonético
-::foneticos::fonéticos
-::fonetica::fonética
-::foneticas::fonéticas
-::ortografico::ortográfico
-::ortograficos::ortográficos
-::ortografica::ortográfica
-::ortograficas::ortográficas
-::esdrujula::esdrújula
-::esdrujulas::esdrújulas
+::fonetico::fonÃ©tico
+::foneticos::fonÃ©ticos
+::fonetica::fonÃ©tica
+::foneticas::fonÃ©ticas
+::ortografico::ortogrÃ¡fico
+::ortograficos::ortogrÃ¡ficos
+::ortografica::ortogrÃ¡fica
+::ortograficas::ortogrÃ¡ficas
+::esdrujula::esdrÃºjula
+::esdrujulas::esdrÃºjulas
 ::tasita::tacita
-::proxima::próxima
-::proximas::próximas
-::proximo::próximo
-::proximos::próximos
-::electrica::eléctrica
-::electricas::eléctricas
-::electrico::eléctrico
-::electricos::eléctricos
-::redaccion::redacción::
-::volvio::volvió
-::volvia::volvía
-::situacion::situación
-::angel::ángel
-::idolo::ídolo
-::chabon::chabón
-::cancer::cáncer
-::erotico::erótico
-::eroticos::eróticos
-::solido::sólido
-::solidos::sólidos
-::solida::sólida
-::solidas::sólidas
-::pedofilo::pedófilo
-::pedofilos::pedófilos
-::pedofila::pedófila
-::pedofilas::pedófilas
-::humillacion::humillación
-::preguntandole::preguntándole
-::respondiendole::respondiéndole
-::contestandole::contestándole
-::comprometiendose::comprometiéndose
-::ayudandose::ayudándose
-::comiendose::comiéndose
-::pajeandose::pajeándose
-::distribuyendose::distribuyéndose
-::pidio::pidió
-::ideologia::idelogía
-::relajese::relájese
-::comprobo::comprobó
-::biblico::bíblico
-::biblicos::bíblicos
-::biblica::bíblica
-::biblicas::bíblicas
-::galan::galán
-::explicitamente::explícitamente
-::dicipulo::dicípulo
-::debil::débil
-::debiles::débiles
-::bendicion::bendición
-::mastil::mástil
-::habil::hábil
-::aerodromo::aeródromo
-::cabala::cábala
-::ductil::dúctil
-::atras::atrás
-::condor::cóndor
-::oceano::océano
-::sindrome::síndrome
-::diacritica::diacrítica
-::comera::comerá
-::escorpion::escorpión
-::decada::década
-::oxigeno::oxígeno
-::sovietico::soviético
-::triangulo::triángulo
-::sabra::sabrá
-::queria::quería
-::conocia::conocía
-::mismisimo::mismísimo
-::polemica::polémica
-::polemicas::polémicas
-::cagon::cagón
-::tonteria::tontería
-::tonterias::tonterías
-::caimos::caímos
-::austero::aústero
-::austeros::aústeros
-::soñe::soñé
-::escribire::escribiré
-::escribira::escribirá
-::escribiras::escribirás
-::caratula::carátula
-::ateismo::ateísmo
-::mimesis::mímesis
-::sarcasticamente::sarcásticamente
-::retorico::retórico
-::retoricos::retóricos
-::retorica::retórica
-::retoricas::retóricas
-::haciendose::haciéndose
-::mandibula::mandíbula
-::mandibulas::mandíbulas
-::ejercito::ejército
-::ejercitos::ejércitos
-::hipnotico::hipnótico
-::hipnoticos::hipnóticos
-::hipnotica::hipnótica
-::hipnoticas::hipnóticas
-::platonico::platónico
-::platonicos::platónicos
-::platonica::platónica
-::platonicas::platónicas
-::escobillon::escobillón
-::extraida::extraída
-::adaptacion::adaptación
-::tiponimo::tipónimo
-::instruccion::instrucción
-::alegoria::alegoría
-::metafora::metáfora
-::metaforas::metáforas
-::negacion::negación
-::hiperbole::hipérbole
-::hiperboles::hipérboles
-::ironia::ironía
-::ironias::ironías
-::preoracion::preoración
-::epilogos::epílogos
-::manten::mantén
-::tiponimos::tipónimos
-::recien::recién
-::frances::francés
-::teton::tetón
-::angulo::ángulo
-::angulos::ángulos
-::enfasis::énfasis
-::boligrafos::bolígrafos
-::decadas::décadas
-::asociacion::asociación
-::se empleo::se empleó
-::se presento::se presentó
-::haciendole::haciéndole
-::humedo::húmedo
-::humedos::húmedos
-::humeda::húmeda
-::humedas::húmedas
-::adios::adiós
-::aparecian::aparecían
+::proxima::prÃ³xima
+::proximas::prÃ³ximas
+::proximo::prÃ³ximo
+::proximos::prÃ³ximos
+::electrica::elÃ©ctrica
+::electricas::elÃ©ctricas
+::electrico::elÃ©ctrico
+::electricos::elÃ©ctricos
+::redaccion::redacciÃ³n::
+::volvio::volviÃ³
+::volvia::volvÃ­a
+::situacion::situaciÃ³n
+::angel::Ã¡ngel
+::idolo::Ã­dolo
+::chabon::chabÃ³n
+::cancer::cÃ¡ncer
+::erotico::erÃ³tico
+::eroticos::erÃ³ticos
+::solido::sÃ³lido
+::solidos::sÃ³lidos
+::solida::sÃ³lida
+::solidas::sÃ³lidas
+::pedofilo::pedÃ³filo
+::pedofilos::pedÃ³filos
+::pedofila::pedÃ³fila
+::pedofilas::pedÃ³filas
+::humillacion::humillaciÃ³n
+::preguntandole::preguntÃ¡ndole
+::respondiendole::respondiÃ©ndole
+::contestandole::contestÃ¡ndole
+::comprometiendose::comprometiÃ©ndose
+::ayudandose::ayudÃ¡ndose
+::comiendose::comiÃ©ndose
+::pajeandose::pajeÃ¡ndose
+::distribuyendose::distribuyÃ©ndose
+::pidio::pidiÃ³
+::ideologia::idelogÃ­a
+::relajese::relÃ¡jese
+::comprobo::comprobÃ³
+::biblico::bÃ­blico
+::biblicos::bÃ­blicos
+::biblica::bÃ­blica
+::biblicas::bÃ­blicas
+::galan::galÃ¡n
+::explicitamente::explÃ­citamente
+::dicipulo::dicÃ­pulo
+::debil::dÃ©bil
+::debiles::dÃ©biles
+::bendicion::bendiciÃ³n
+::mastil::mÃ¡stil
+::habil::hÃ¡bil
+::aerodromo::aerÃ³dromo
+::cabala::cÃ¡bala
+::ductil::dÃºctil
+::atras::atrÃ¡s
+::condor::cÃ³ndor
+::oceano::ocÃ©ano
+::sindrome::sÃ­ndrome
+::diacritica::diacrÃ­tica
+::comera::comerÃ¡
+::escorpion::escorpiÃ³n
+::decada::dÃ©cada
+::oxigeno::oxÃ­geno
+::sovietico::soviÃ©tico
+::triangulo::triÃ¡ngulo
+::sabra::sabrÃ¡
+::queria::querÃ­a
+::conocia::conocÃ­a
+::mismisimo::mismÃ­simo
+::polemica::polÃ©mica
+::polemicas::polÃ©micas
+::cagon::cagÃ³n
+::tonteria::tonterÃ­a
+::tonterias::tonterÃ­as
+::caimos::caÃ­mos
+::austero::aÃºstero
+::austeros::aÃºsteros
+::soÃ±e::soÃ±Ã©
+::escribire::escribirÃ©
+::escribira::escribirÃ¡
+::escribiras::escribirÃ¡s
+::caratula::carÃ¡tula
+::ateismo::ateÃ­smo
+::mimesis::mÃ­mesis
+::sarcasticamente::sarcÃ¡sticamente
+::retorico::retÃ³rico
+::retoricos::retÃ³ricos
+::retorica::retÃ³rica
+::retoricas::retÃ³ricas
+::haciendose::haciÃ©ndose
+::mandibula::mandÃ­bula
+::mandibulas::mandÃ­bulas
+::ejercito::ejÃ©rcito
+::ejercitos::ejÃ©rcitos
+::hipnotico::hipnÃ³tico
+::hipnoticos::hipnÃ³ticos
+::hipnotica::hipnÃ³tica
+::hipnoticas::hipnÃ³ticas
+::platonico::platÃ³nico
+::platonicos::platÃ³nicos
+::platonica::platÃ³nica
+::platonicas::platÃ³nicas
+::escobillon::escobillÃ³n
+::extraida::extraÃ­da
+::adaptacion::adaptaciÃ³n
+::tiponimo::tipÃ³nimo
+::instruccion::instrucciÃ³n
+::alegoria::alegorÃ­a
+::metafora::metÃ¡fora
+::metaforas::metÃ¡foras
+::negacion::negaciÃ³n
+::hiperbole::hipÃ©rbole
+::hiperboles::hipÃ©rboles
+::ironia::ironÃ­a
+::ironias::ironÃ­as
+::preoracion::preoraciÃ³n
+::epilogos::epÃ­logos
+::manten::mantÃ©n
+::tiponimos::tipÃ³nimos
+::recien::reciÃ©n
+::frances::francÃ©s
+::teton::tetÃ³n
+::angulo::Ã¡ngulo
+::angulos::Ã¡ngulos
+::enfasis::Ã©nfasis
+::boligrafos::bolÃ­grafos
+::decadas::dÃ©cadas
+::asociacion::asociaciÃ³n
+::se empleo::se empleÃ³
+::se presento::se presentÃ³
+::haciendole::haciÃ©ndole
+::humedo::hÃºmedo
+::humedos::hÃºmedos
+::humeda::hÃºmeda
+::humedas::hÃºmedas
+::adios::adiÃ³s
+::aparecian::aparecÃ­an
 ::aprendi::aprendi
-::astronomia::astronomía
-::bosqueje::bosquejé
-::comprendi::comprendí
-::conocere::conoceré
-::creia::creía
-::deshollino::deshollinó
-::dirigio::dirigió
-::dirigi::dirigí
-::divise::divisé
-::elegia::elegía
-::elejia::elegía
-::elejía::elegía
-::examinenlo::examínenlo
-::abrio::abrió
-::aconsejo::aconsejó
-::vinculo::vínculo
-::vinculos::vínculos
-::tratandose::tratándose
-::timidamente::tímidamente
-::tratare::trataré
-::tosio::tosío
-::toseria::tosería
-::sorprendio::sorprendió
-::sintio::sintió
-::simularia::simularía
-::sere::seré
-::seran::serán
-::abrire::abriré
-::pajaros::pájaros
-::holistico::holístico
-::holisticos::holísticos
-::holistica::holística
-::holisticas::holísticas
-::oyo::oyó
-::oia::oía
-::oias::oías
-::oian::oían
-::oceanos::océanos
-::oidos::oídos
-::perdera::perderá
-::metalico::metálico
-::metalicos::metálicos
-::metalica::metálica
-::lapices::lápices
-::lampara::lámpara
-::lamparas::lámparas
-::impresion::impresión
-::indultaras::indultarás
-::geografia::geografía
-::esten::estén
-::excepcion::excepción
-::diciendome::diciéndome
-::diciendole::diciéndole
-::diciendoles::diciéndoles
-::digestion::digestión
-::dibuje::dibujé
-::diran::dirán
-::diria::diría
-::dirian::dirían
-::dirias::dirías
-::daria::daría
-::aprendi::aprendí
-::creyo::creyó
-::concedio::concedió
-::concedia::concedía
-::concedias::concedías
-::concedian::concedían
-::comprendera::comprenderá
-::jupiter::júpiter
-::daran::darán
-::daria::daría
-::darias::darías
-::darian::darían
-::cumplia::cumplía
-::cumplias::cumplías
-::cumplian::cumplían
-::cumplio::cumplió
-::comprendio::compredió
-::añadi::añadí
-::estes::estés
-::estare::estaré
-::escurrio::escurrió
-::esforce::esforcé
-::encubrio::encubrío
-::encubrio::encubría
-::geografias::geografías
-::geografo::geógrafo
-::geografos::geógrafos
-::geografa::geógrafa
-::geografas::geógrafas
-::habre::habré
-::conducia::conducía
-::conducian::conducían
-::conducias::conducías
-::tension::tensión
-::cumulo::cúmulo
-::merito::mérito
-::meritos::méritos
-::sentire::sentiré
-::comere::comeré
-::sexologo::sexólogo
-::operacion::operación
-::frustacion::frustación
-::circuncision::circuncisión
-::conformandose::conformándose
-::llamandose::llamándose
-::comprendiendose::comprendiéndose
-::estrogeno::estrógeno
-::estrogenos::estrógenos
-::deteriorandose::deteriorándose
-::faloplastia::faloplastía
-::faloplastias::faloplastías
-::inyecto::inyectó
-::frio::frío
-::frios::fríos
-::cubriria::cubriría
-::estaras::estarás
-::varia::varía
-::caia::caía
-::estaria::estaría
-::traumatica::traumática
-::terapeutica::terapeútica
-::esplendido::espléndido
-::metalicas::metálicas
-::preambuulo::preámbulo
-::preambuulos::preámbulos
-::provision::provisión
-::petalo::pétalo
-::petalos::pétalos
-::regalare::regalaré
-::rie::ríe
-::rien::ríen
-::servirian::servirían
-::serviria::serviría
-::servirias::servirías
-::adivinaran::adivinarán
-::habria::habría
-;~ ::hacia::hacía
-::hacian::hacían
-::hacias::hacías
-::imageginense::imagínense
-::informese::infórmese
-::encendia::encendía
-::encendias::encendías
-::encendian::encendían
-::haciendolo::haciéndolo
-::haciendolos::haciéndolos
-::compartis::compartís
-::haciendola::haciéndola
-::haciendolas::haciéndolas
-::mostrandole::mostrándole
-::mostrandola::mostrándola
-::mostrandola::mostrándolo
-::mostrandoles::mostrándoles
-::mostrandolas::mostrándolas
-::mostrandolas::mostrándolos
-::simpatia::simpatía
-::decision::decisión
-::darsela::dársela
-::darselas::dárselas
-::generacion::generación
-::consideracion::consideración
-::implementacion::implementación
-::formulacion::formulación
-::evaluacion::evaluación
-::sociologias::sociologías
-::vinculacion::vinculación
-::bibliografias::bibliografías
-::seleccion::selección
-::coordinacion::coordinación
-::revision::revisión
-::podras::podrás
-::ejecucion::ejecución
-::deberas::deberás
-::deberan::deberán
-::confirmaria::confirmaría
-::confirmarias::confirmarías
-::confirmarian::confirmarían
-::renunciaria::renunciaría
-::renunciarias::renunciarías
-::terminos::términos
-::renunciarian::renunciarían
-::presentacion ::presentación
-::conformacion::conformación
-::instrumentacion::instrumentación
-::calificacion::calificación
-::tomaria::tomaría
-::tomarias::tomarías
-::alineacion::alineación
-::tomarian::tomarían
-::correccion::corrección
-::microeconomia::microeconomía
-::macroeconomia::macroeconomía
-::microeconomico::microeconómico
-::microeconomica::microeconómica
-::microeconomicas::microeconómicas
-::microeconomicos::microeconómicos
-::macroeconomico::macroeconómico
-::macroeconomica::macroeconómica
-::macroeconomicas::macroeconómicas
-::macroeconomicos::macroeconómicos
-::demografica::demográfica
-::demograficas::demográficas
-::demografico::demográfico
-::demograficos::demográficos
-::generico::genérico
-::genericos::genéricos
-::generica::genérica
-::genericas::genéricas
-::integracion::integración
-::margenes::márgenes
-::obtencion::obtención
-::produccion::producción
-::adicion::adición
-::aumentaria::aumentaría
-::aumentarias::aumentarías
-::aumentarian::aumentarían
-::estarias::estarías
-::estarian::estarían
-::concentrica::concéntrica
-::concentricas::concéntricas
-::diversificacion::diversificación
-::variacion::variación
-::basica::basicá
-::basicas::basicás
-::basicos::basicós
-::reduccion::reducción
-::intuicion::intuición
+::astronomia::astronomÃ­a
+::bosqueje::bosquejÃ©
+::comprendi::comprendÃ­
+::conocere::conocerÃ©
+::creia::creÃ­a
+::deshollino::deshollinÃ³
+::dirigio::dirigiÃ³
+::dirigi::dirigÃ­
+::divise::divisÃ©
+::elegia::elegÃ­a
+::elejia::elegÃ­a
+::elejÃ­a::elegÃ­a
+::examinenlo::examÃ­nenlo
+::abrio::abriÃ³
+::aconsejo::aconsejÃ³
+::vinculo::vÃ­nculo
+::vinculos::vÃ­nculos
+::tratandose::tratÃ¡ndose
+::timidamente::tÃ­midamente
+::tratare::tratarÃ©
+::tosio::tosÃ­o
+::toseria::toserÃ­a
+::sorprendio::sorprendiÃ³
+::sintio::sintiÃ³
+::simularia::simularÃ­a
+::sere::serÃ©
+::seran::serÃ¡n
+::abrire::abrirÃ©
+::pajaros::pÃ¡jaros
+::holistico::holÃ­stico
+::holisticos::holÃ­sticos
+::holistica::holÃ­stica
+::holisticas::holÃ­sticas
+::oyo::oyÃ³
+::oia::oÃ­a
+::oias::oÃ­as
+::oian::oÃ­an
+::oceanos::ocÃ©anos
+::oidos::oÃ­dos
+::perdera::perderÃ¡
+::metalico::metÃ¡lico
+::metalicos::metÃ¡licos
+::metalica::metÃ¡lica
+::lapices::lÃ¡pices
+::lampara::lÃ¡mpara
+::lamparas::lÃ¡mparas
+::impresion::impresiÃ³n
+::indultaras::indultarÃ¡s
+::geografia::geografÃ­a
+::esten::estÃ©n
+::excepcion::excepciÃ³n
+::diciendome::diciÃ©ndome
+::diciendole::diciÃ©ndole
+::diciendoles::diciÃ©ndoles
+::digestion::digestiÃ³n
+::dibuje::dibujÃ©
+::diran::dirÃ¡n
+::diria::dirÃ­a
+::dirian::dirÃ­an
+::dirias::dirÃ­as
+::daria::darÃ­a
+::aprendi::aprendÃ­
+::creyo::creyÃ³
+::concedio::concediÃ³
+::concedia::concedÃ­a
+::concedias::concedÃ­as
+::concedian::concedÃ­an
+::comprendera::comprenderÃ¡
+::jupiter::jÃºpiter
+::daran::darÃ¡n
+::daria::darÃ­a
+::darias::darÃ­as
+::darian::darÃ­an
+::cumplia::cumplÃ­a
+::cumplias::cumplÃ­as
+::cumplian::cumplÃ­an
+::cumplio::cumpliÃ³
+::comprendio::comprediÃ³
+::aÃ±adi::aÃ±adÃ­
+::estes::estÃ©s
+::estare::estarÃ©
+::escurrio::escurriÃ³
+::esforce::esforcÃ©
+::encubrio::encubrÃ­o
+::encubrio::encubrÃ­a
+::geografias::geografÃ­as
+::geografo::geÃ³grafo
+::geografos::geÃ³grafos
+::geografa::geÃ³grafa
+::geografas::geÃ³grafas
+::habre::habrÃ©
+::conducia::conducÃ­a
+::conducian::conducÃ­an
+::conducias::conducÃ­as
+::tension::tensiÃ³n
+::cumulo::cÃºmulo
+::merito::mÃ©rito
+::meritos::mÃ©ritos
+::sentire::sentirÃ©
+::comere::comerÃ©
+::sexologo::sexÃ³logo
+::operacion::operaciÃ³n
+::frustacion::frustaciÃ³n
+::circuncision::circuncisiÃ³n
+::conformandose::conformÃ¡ndose
+::llamandose::llamÃ¡ndose
+::comprendiendose::comprendiÃ©ndose
+::estrogeno::estrÃ³geno
+::estrogenos::estrÃ³genos
+::deteriorandose::deteriorÃ¡ndose
+::faloplastia::faloplastÃ­a
+::faloplastias::faloplastÃ­as
+::frio::frÃ­o
+::frios::frÃ­os
+::cubriria::cubrirÃ­a
+::estaras::estarÃ¡s
+::varia::varÃ­a
+::caia::caÃ­a
+::estaria::estarÃ­a
+::traumatica::traumÃ¡tica
+::terapeutica::terapeÃºtica
+::esplendido::esplÃ©ndido
+::metalicas::metÃ¡licas
+::preambuulo::preÃ¡mbulo
+::preambuulos::preÃ¡mbulos
+::provision::provisiÃ³n
+::petalo::pÃ©talo
+::petalos::pÃ©talos
+::regalare::regalarÃ©
+::rie::rÃ­e
+::rien::rÃ­en
+::servirian::servirÃ­an
+::serviria::servirÃ­a
+::servirias::servirÃ­as
+::adivinaran::adivinarÃ¡n
+::habria::habrÃ­a
+;~ ::hacia::hacÃ­a
+::hacian::hacÃ­an
+::hacias::hacÃ­as
+::imageginense::imagÃ­nense
+::informese::infÃ³rmese
+::encendia::encendÃ­a
+::encendias::encendÃ­as
+::encendian::encendÃ­an
+::haciendolo::haciÃ©ndolo
+::haciendolos::haciÃ©ndolos
+::compartis::compartÃ­s
+::haciendola::haciÃ©ndola
+::haciendolas::haciÃ©ndolas
+::mostrandole::mostrÃ¡ndole
+::mostrandola::mostrÃ¡ndola
+::mostrandola::mostrÃ¡ndolo
+::mostrandoles::mostrÃ¡ndoles
+::mostrandolas::mostrÃ¡ndolas
+::mostrandolas::mostrÃ¡ndolos
+::simpatia::simpatÃ­a
+::decision::decisiÃ³n
+::darsela::dÃ¡rsela
+::darselas::dÃ¡rselas
+::generacion::generaciÃ³n
+::consideracion::consideraciÃ³n
+::implementacion::implementaciÃ³n
+::formulacion::formulaciÃ³n
+::evaluacion::evaluaciÃ³n
+::sociologias::sociologÃ­as
+::vinculacion::vinculaciÃ³n
+::bibliografias::bibliografÃ­as
+::seleccion::selecciÃ³n
+::coordinacion::coordinaciÃ³n
+::revision::revisiÃ³n
+::podras::podrÃ¡s
+::ejecucion::ejecuciÃ³n
+::deberas::deberÃ¡s
+::deberan::deberÃ¡n
+::confirmaria::confirmarÃ­a
+::confirmarias::confirmarÃ­as
+::confirmarian::confirmarÃ­an
+::renunciaria::renunciarÃ­a
+::renunciarias::renunciarÃ­as
+::terminos::tÃ©rminos
+::renunciarian::renunciarÃ­an
+::presentacion ::presentaciÃ³n
+::conformacion::conformaciÃ³n
+::instrumentacion::instrumentaciÃ³n
+::calificacion::calificaciÃ³n
+::tomaria::tomarÃ­a
+::tomarias::tomarÃ­as
+::alineacion::alineaciÃ³n
+::tomarian::tomarÃ­an
+::correccion::correcciÃ³n
+::microeconomia::microeconomÃ­a
+::macroeconomia::macroeconomÃ­a
+::microeconomico::microeconÃ³mico
+::microeconomica::microeconÃ³mica
+::microeconomicas::microeconÃ³micas
+::microeconomicos::microeconÃ³micos
+::macroeconomico::macroeconÃ³mico
+::macroeconomica::macroeconÃ³mica
+::macroeconomicas::macroeconÃ³micas
+::macroeconomicos::macroeconÃ³micos
+::demografica::demogrÃ¡fica
+::demograficas::demogrÃ¡ficas
+::demografico::demogrÃ¡fico
+::demograficos::demogrÃ¡ficos
+::generico::genÃ©rico
+::genericos::genÃ©ricos
+::generica::genÃ©rica
+::genericas::genÃ©ricas
+::integracion::integraciÃ³n
+::margenes::mÃ¡rgenes
+::obtencion::obtenciÃ³n
+::produccion::producciÃ³n
+::adicion::adiciÃ³n
+::aumentaria::aumentarÃ­a
+::aumentarias::aumentarÃ­as
+::aumentarian::aumentarÃ­an
+::estarias::estarÃ­as
+::estarian::estarÃ­an
+::concentrica::concÃ©ntrica
+::concentricas::concÃ©ntricas
+::diversificacion::diversificaciÃ³n
+::variacion::variaciÃ³n
+::basica::basicÃ¡
+::basicas::basicÃ¡s
+::basicos::basicÃ³s
+::reduccion::reducciÃ³n
+::intuicion::intuiciÃ³n
 ::participacion::participacivn
-::dimension::dimensión
-::distribucion::distribución
-::tio::tío
-::tios::tíos
-::tia::tía
-::tias::tías
-::utiles::útiles
-::actuan::actúan
-::buscarsela::buscársela
-::bancarsela::bancársela
-::dandose::dándose
-::realizandose::realizándose
-::meditacion::meditación
-::creiste::creíste
-::inutil::inútil
-::inutiles::inútiles
-::psicologico::psicológico
-::psicologicos::psicológicos
-::psicologica::psicológica
-::psicologicas::psicológicas
-::creersela::creérsela
-::creerselo::creérselo
-::gigolo::gígolo
-::gigolos::gígolos
-::ojala::ojalá
-::pendulo::péndulo
-::pendulos::péndulos
-::ridiculo::ridículo
-::ridiculos::ridículos
-::ridicula::ridícula
-::ridiculas::ridículas
-::picardia::picardía
-::picardias::picardías
-::virgenes::vírgenes
-::vacio::vacío
-::vacios::vacíos
-::vacia::vacía
-::vacias::vacías
-::monton::montón
-::tontin::tontín
-::xilofon::xilofón
-::sifon::sifón
-::subtitulo::subtítulo
-::subtitulos::subtítulos
-::convertis::convertís
-::heroe::héroe
-::heroes::héroes
-::projimo::prójimo
-::projimos::prójimos
-::projima::prójima
-::projimas::prójimas
-::odiandolo::odiándolo
-::odiandolos::odiándolos
-::compañia::compañía
-::compania::compañía
-::companía::compañía
-::dietetica::dietética
-::dieteticas::dietéticas
-::dietetico::dietético
-::dieteticos::dietéticos
-::sintetico::sintético
-::sinteticos::sintéticos
-::sitentica::sintética
-::sinteticas::sintéticas
-::camison::camisón
-::cancelaria::cancelaría
-::cancelarias::cancelarías
-::aceptaria::aceptaría
-::aceptarias::aceptarías
-::existira::existirá
-::existiran::existirán
-::icono::ícono
-::iconos::íconos
-::traere::traeré
-::pronunciacion::pronunciación
-::espiritu::espíritu
-::espiritus::espíritus
-::decis::decís
-::encontras::encontrás
-::semaforo::semáforo
-::semaforos::semáforos
-::autentico::auténtico
-::autenticos::auténticos
-::autentica::auténtica
-::autenticas::auténticas
-::tene::tené
-::alimentandome::alimentándome
-::comiendome::comiéndome
-::comiendole::comiéndole
-::alimentandolo::alimentándolo
-::alimentandolos::alimentándolos
-::preparandonos::preparándonos
-::preparandome::preparándome
-::preparandole::preparándole
-::preparandoles::preparándoles
-::acuerdese::acuérdese
-::acuerdense::acuérdense
-::impediran::impedirán
-::interrupiran::interrupirán
-::amedentro::amedrentó
-::denunciamos::denuncíamos
-::armonia::armonía
-::armonias::armonías
-::caratula::carátula
-::caratulas::carátulas
-::erroneo::erróneo
-::erroneos::erróneos
-::erronea::errónea
-::erroneas::erróneas
-::creacion::creación
-::mediodia::mediodía
+::dimension::dimensiÃ³n
+::distribucion::distribuciÃ³n
+::tio::tÃ­o
+::tios::tÃ­os
+::tia::tÃ­a
+::tias::tÃ­as
+::utiles::Ãºtiles
+::actuan::actÃºan
+::buscarsela::buscÃ¡rsela
+::bancarsela::bancÃ¡rsela
+::dandose::dÃ¡ndose
+::realizandose::realizÃ¡ndose
+::meditacion::meditaciÃ³n
+::creiste::creÃ­ste
+::inutil::inÃºtil
+::inutiles::inÃºtiles
+::psicologico::psicolÃ³gico
+::psicologicos::psicolÃ³gicos
+::psicologica::psicolÃ³gica
+::psicologicas::psicolÃ³gicas
+::creersela::creÃ©rsela
+::creerselo::creÃ©rselo
+::gigolo::gÃ­golo
+::gigolos::gÃ­golos
+::ojala::ojalÃ¡
+::pendulo::pÃ©ndulo
+::pendulos::pÃ©ndulos
+::ridiculo::ridÃ­culo
+::ridiculos::ridÃ­culos
+::ridicula::ridÃ­cula
+::ridiculas::ridÃ­culas
+::picardia::picardÃ­a
+::picardias::picardÃ­as
+::virgenes::vÃ­rgenes
+::vacio::vacÃ­o
+::vacios::vacÃ­os
+::vacia::vacÃ­a
+::vacias::vacÃ­as
+::monton::montÃ³n
+::tontin::tontÃ­n
+::xilofon::xilofÃ³n
+::sifon::sifÃ³n
+::subtitulo::subtÃ­tulo
+::subtitulos::subtÃ­tulos
+::convertis::convertÃ­s
+::heroe::hÃ©roe
+::heroes::hÃ©roes
+::projimo::prÃ³jimo
+::projimos::prÃ³jimos
+::projima::prÃ³jima
+::projimas::prÃ³jimas
+::odiandolo::odiÃ¡ndolo
+::odiandolos::odiÃ¡ndolos
+::compaÃ±ia::compaÃ±Ã­a
+::compania::compaÃ±Ã­a
+::companÃ­a::compaÃ±Ã­a
+::dietetica::dietÃ©tica
+::dieteticas::dietÃ©ticas
+::dietetico::dietÃ©tico
+::dieteticos::dietÃ©ticos
+::sintetico::sintÃ©tico
+::sinteticos::sintÃ©ticos
+::sitentica::sintÃ©tica
+::sinteticas::sintÃ©ticas
+::camison::camisÃ³n
+::cancelaria::cancelarÃ­a
+::cancelarias::cancelarÃ­as
+::aceptaria::aceptarÃ­a
+::aceptarias::aceptarÃ­as
+::existira::existirÃ¡
+::existiran::existirÃ¡n
+::icono::Ã­cono
+::iconos::Ã­conos
+::traere::traerÃ©
+::jesus::JesÃºs
+::move::movÃ©
+::pronunciacion::pronunciaciÃ³n
+::espiritu::espÃ­ritu
+::espiritus::espÃ­ritus
+::decis::decÃ­s
+::encontras::encontrÃ¡s
+::semaforo::semÃ¡foro
+::semaforos::semÃ¡foros
+::autentico::autÃ©ntico
+::autenticos::autÃ©nticos
+::autentica::autÃ©ntica
+::autenticas::autÃ©nticas
+::tene::tenÃ©
+::alimentandome::alimentÃ¡ndome
+::comiendome::comiÃ©ndome
+::comiendole::comiÃ©ndole
+::alimentandolo::alimentÃ¡ndolo
+::alimentandolos::alimentÃ¡ndolos
+::preparandonos::preparÃ¡ndonos
+::preparandome::preparÃ¡ndome
+::preparandole::preparÃ¡ndole
+::preparandoles::preparÃ¡ndoles
+::acuerdese::acuÃ©rdese
+::acuerdense::acuÃ©rdense
+::impediran::impedirÃ¡n
+::interrupiran::interrupirÃ¡n
+::amedentro::amedrentÃ³
+::denunciamos::denuncÃ­amos
+::armonia::armonÃ­a
+::armonias::armonÃ­as
+::caratula::carÃ¡tula
+::caratulas::carÃ¡tulas
+::erroneo::errÃ³neo
+::erroneos::errÃ³neos
+::erronea::errÃ³nea
+::erroneas::errÃ³neas
+::creacion::creaciÃ³n
+::mediodia::mediodÃ­a
 ;============================
 ::cacita::casita
 ::camicita::camisita
@@ -2059,35 +3249,34 @@
 ::cocita::cosita
 ::rocita::rosita
 ;============================
-::benitez::Benítez
-::bolivar::Bolívar
-::cristobal::Cristóbal
-::dominguez::Domínguez
-::estevez::Estévez
-::gomez::Gómez
-::martinez::Martínez
-::martínez::Martínez
-::mendez::Méndez
-::méndez::Méndez
-::tunez::Túnez
-::túnez::Túnez
-::velazquez::Velázquez
-::velázquez::Velázquez
-::ramirez::Ramírez
-::ramírez::Ramírez
-::suarez::Suárez
-::vélez::Vélez
-::julian::Julián
-::julio::Julio
+::benitez::BenÃ­tez
+::bolivar::BolÃ­var
+::cristobal::CristÃ³bal
+::dominguez::DomÃ­nguez
+::estevez::EstÃ©vez
+::gomez::GÃ³mez
+::martinez::MartÃ­nez
+::martÃ­nez::MartÃ­nez
+::mendez::MÃ©ndez
+::mÃ©ndez::MÃ©ndez
+::tunez::TÃºnez
+::tÃºnez::TÃºnez
+::velazquez::VelÃ¡zquez
+::velÃ¡zquez::VelÃ¡zquez
+::ramirez::RamÃ­rez
+::ramÃ­rez::RamÃ­rez
+::suarez::SuÃ¡rez
+::vÃ©lez::VÃ©lez
+::julian::JuliÃ¡n
 ::omar::Omar
-::sanchez::Sánchez
-::sánchez::Sánchez
+::sanchez::SÃ¡nchez
+::sÃ¡nchez::SÃ¡nchez
 ::silvio::Silvio
 ::rodriguez::Rodrigez
 ::pamela::Pamela
 ::richard::Richard
-::jose::José
-::maria::María
+::jose::JosÃ©
+::maria::MarÃ­a
 ::enzo::Enzo
 ::pablo::Pablo
 ::bergoglio::Bergoglio
@@ -2095,33 +3284,33 @@
 ::ramona::Ramona
 ::danel::Danel
 ::javier::Javier
-::martin::Martín
+::martin::MartÃ­n
 ::rodrigo::Rodrigo
 ::antonio::Antonio
 ::antonia::Antonia
-::hernan::Hernán
-::hernán::Hernán
+::hernan::HernÃ¡n
+::hernÃ¡n::HernÃ¡n
 ::daniel::Daniel
 ::mariano::Mariano
 ::mariana::Mariana
 ::florencia::Florencia
 ::ezequiel::Ezequiel
 ::camila::Camila
-::aguero::Agüero
+::aguero::AgÃ¼ero
 ::kun::Kun
-::sofia::Sofía
+::sofia::SofÃ­a
 ::peres::Peres
 ::ricardo::Ricardo
 ::lilian::Lilian
 ::liliana::Liliana
 ::alejandro::Alejandro
-::alejandría::Alejandría
-::alejandria::Alejandría
+::alejandrÃ­a::AlejandrÃ­a
+::alejandria::AlejandrÃ­a
 ::alejandra::Alejandra
-::veronica::Verónica
-::verónica::Verónica
-::yesica::Yésica
-::yésica::Yésica
+::veronica::VerÃ³nica
+::verÃ³nica::VerÃ³nica
+::yesica::YÃ©sica
+::yÃ©sica::YÃ©sica
 ::luisana::Luisana
 ::sabrina::Sabrina
 ::zaira::Zaira
@@ -2137,22 +3326,22 @@
 ::evangelina::Evangelina
 ::jimena::Jimena
 ::nicole::Nicole
-::monica::Mónica
-::mónica::Mónica
+::monica::MÃ³nica
+::mÃ³nica::MÃ³nica
 ::jenny::Jenny
 ::carla::Carla
 ::mercedes::Mercedes
 ::cecilia::Cecilia
 ::agustina::Agustina
 ::noelia::Noelia
-::jesica::Jésica
-::jésica::Jésica
+::jesica::JÃ©sica
+::jÃ©sica::JÃ©sica
 ::julie::Julie
 ::vanesa::Vanesa
-::pia::Pía
-::pía::Pía
-::fatima::Fátima
-::fátima::Fátima
+::pia::PÃ­a
+::pÃ­a::PÃ­a
+::fatima::FÃ¡tima
+::fÃ¡tima::FÃ¡tima
 ::guillermina::Guillermina
 ::erica::Erica
 ::ximena::Ximena
@@ -2163,7 +3352,7 @@
 ::solange::Solange
 ::evangelina::Evangelina
 ::liz::Liz
-::alexandra::Añexamdra
+::alexandra::AÃ±examdra
 ::erika::Erica
 ::lourdes::Lourdes
 ::calu::Calu
@@ -2179,14 +3368,14 @@
 ::iris::Iris
 ::lionel::Lionel
 ::barack::Barack
-::alfonsin::Alfonsín
-::alfonsín::Alfonsín
+::alfonsin::AlfonsÃ­n
+::alfonsÃ­n::AlfonsÃ­n
 ::nelson::nelson
 ::ernesto::Ernesto
 ::charly::Charly
 ::alberto::Alberto
-::adrian::Adrían
-::adrían::Adrían
+::adrian::AdrÃ­an
+::adrÃ­an::AdrÃ­an
 ::vilas::Vilas
 ::hermes::Hermes
 ::aaron::Aaron
@@ -2194,8 +3383,8 @@
 ::suar::Suar
 ::alfredo::Alfredo
 ::alfreda::Alfreda
-::cristobal::Cristóbal
-::cristóbal::Cristóbal
+::cristobal::CristÃ³bal
+::cristÃ³bal::CristÃ³bal
 ::florencio::Florencio
 ::adolfo::Adolfo
 ::justin::Justin
@@ -2215,11 +3404,11 @@
 ::mirta::Mirta
 ::mirtha::Mirtha
 ::fontanarrosa::Fontanarrosa
-::ramon::Ramón
-::ramón::Ramón
+::ramon::RamÃ³n
+::ramÃ³n::RamÃ³n
 ::gilda::Gilda
-::bartolome::Bartolomé
-::bartolomé::Bartolomé
+::bartolome::BartolomÃ©
+::bartolomÃ©::BartolomÃ©
 ::prat gay::Prat Gay
 ::eugenia::Eugenia
 ::vidal::Vidal
@@ -2232,14 +3421,14 @@
 ::hitler::Hitler
 ::charly::Charly
 ::jorge::Jorge
-::lopez::López
-::lópez::López
+::lopez::LÃ³pez
+::lÃ³pez::LÃ³pez
 ::Susana::Susana
 ::fito::Fito
-::paez::Páez
-::páez::Páez
+::paez::PÃ¡ez
+::pÃ¡ez::PÃ¡ez
 ::thomas::Thomas
-::hector::Héctor
+::hector::HÃ©ctor
 ::emma::Emma
 ::watson::Watson
 ::griesa::Griesa
@@ -2247,8 +3436,8 @@
 ::michetti::Michetti
 ::gabriela::Gabriela
 ::gabriel::Gabriel
-::fenandez::Fernández
-::fenández::Fernández
+::fenandez::FernÃ¡ndez
+::fenÃ¡ndez::FernÃ¡ndez
 ::moyano::Moyano
 ::banco central::Banco Central
 ::amado boudou::Amado Boudou
@@ -2257,41 +3446,41 @@
 ::milagro salas::Milagro Sala
 ::milagros sala::Milagro Sala
 ::milagros salas::Milagro Sala
-::victor::Víctor
-::víctor::Víctor
+::victor::VÃ­ctor
+::vÃ­ctor::VÃ­ctor
 ::hugo morales::Hugo Morales
 ::hugo::Hugo
 ::guillermo::Guillermo
 ::nielsen::Nielsen
 ::einstein::Einstein
-::gonzalez::González
-::gonzález::González
-::nestor::Néstor
-::jimenez::Jiménez
+::gonzalez::GonzÃ¡lez
+::gonzÃ¡lez::GonzÃ¡lez
+::nestor::NÃ©stor
+::jimenez::JimÃ©nez
 ::ortigoza::Ortigoza
 ::kim::Kim
-::cromañon::Cromañon
+::cromaÃ±on::CromaÃ±on
 ::osvaldo::Osvaldo
 ::gordon::Gordon
-::darin::Darín
-::darín::Darín
+::darin::DarÃ­n
+::darÃ­n::DarÃ­n
 ::freeman::Freeman
-::peron::Perón
-::perón::Perón
+::peron::PerÃ³n
+::perÃ³n::PerÃ³n
 ::belgrano::Belgrano
 ::rivadavia::Rivadavia
-::chavez::Chávez
+::chavez::ChÃ¡vez
 ::miguel::Miguel
 ::luis::Luis
 ::juan::Juan
 ::ignacio::Ignacio
-::nicolas::Nicolás
-::nicolás::Nicolás
+::nicolas::NicolÃ¡s
+::nicolÃ¡s::NicolÃ¡s
 ::alberto::alberto
-::maria::María
-::maría::María
-::belen::Belén
-::belén::Belén
+::maria::MarÃ­a
+::marÃ­a::MarÃ­a
+::belen::BelÃ©n
+::belÃ©n::BelÃ©n
 ::fernando::Fernando
 ::fernanda::Fernanda
 ::laura::Laura
@@ -2302,8 +3491,8 @@
 ::valentino::Valentina
 ::martina::Martina
 ::santiago::Santiago
-::lucia::lucía
-::lucía::Lucía
+::lucia::lucÃ­a
+::lucÃ­a::LucÃ­a
 ::catalina::Catalina
 ::elena::Elena
 ::emilia::Emilia
@@ -2312,12 +3501,12 @@
 ::alonso::Alonso
 ::bautista::Bautista
 ::rafael::Rafael
-::andres::Andrés
-::andrés::Andrés
+::andres::AndrÃ©s
+::andrÃ©s::AndrÃ©s
 ::oliver::Oliver
 ::pedro::Pedro
-::julian::Julían
-::julían::Julían
+::julian::JulÃ­an
+::julÃ­an::JulÃ­an
 ::alexander::Alexander
 ::sergio::Sergio
 ::lorenzo::Lorenzo
@@ -2325,8 +3514,8 @@
 ::antonia::Antonia
 ::rosina::Rosian
 ::anabella::Anabella
-::ayelen::Ayelén
-::ayelén::Ayelén
+::ayelen::AyelÃ©n
+::ayelÃ©n::AyelÃ©n
 ::beatriz::Beatriz
 ::isabel::Isabel
 ::sara::Sara
@@ -2340,39 +3529,39 @@
 ::axel::Axel
 ::angela::Angela
 ::jonathan::Jonathan
-::jonatan::Jonatán
-::jonatán::Jonatán
+::jonatan::JonatÃ¡n
+::jonatÃ¡n::JonatÃ¡n
 ::esteban::Esteban
 ::luciano::Luciano
 ::eric::Eric
 ::jonathan::Jonathan
 ::luciana::Luciana
-::ivan::Iván
-::iván::Iván
+::ivan::IvÃ¡n
+::ivÃ¡n::IvÃ¡n
 ::alan::Alan
 ::ciro::Ciro
 ::paula::Paula
-::benjamin::Benjamín
-::damian::damían
-::damian::Damían
+::benjamin::BenjamÃ­n
+::damian::damÃ­an
+::damian::DamÃ­an
 ::thiago::Thiago
 ::diego::Diego
 ::samuel::Samuel
-::sebastian::Sebastían
-::sebastían::Sebastían
+::sebastian::SebastÃ­an
+::sebastÃ­an::SebastÃ­an
 ::bruno::Bruno
 ::lucas::Lucas
-::joaquin::Joaquín
-::joaquín::Joaquín
+::joaquin::JoaquÃ­n
+::joaquÃ­n::JoaquÃ­n
 ::david::David
 ::gilmour::Gilmour
-::agustin::Agustín
-::agustín::Agustín
+::agustin::AgustÃ­n
+::agustÃ­n::AgustÃ­n
 ::susano::Susano
 ::ofelia::Ofelia
 ::yaro::Yaro
 ::vanina::Vanina
-::estefania::Estefanía
+::estefania::EstefanÃ­a
 ::natalie::Natalie
 ::marina::Marina
 ::janah::Janah
@@ -2384,14 +3573,14 @@
 ::natacha::Natacha
 ::magali::Magali
 ::griselda::Griselda
-::garcia::García
+::garcia::GarcÃ­a
 ::denise::Denise
 ::denise::Denis
 ::victorio::Victorio
 ::michel::Michel
 ::leandro::Leandro
-::raul::Raúl
-::raúl::Raúl
+::raul::RaÃºl
+::raÃºl::RaÃºl
 ::ivo::Ivo
 ::batistuta::Batistuta
 ::aimar::Aimar
@@ -2406,7 +3595,7 @@
 ::ian::Ian
 ::hugo::Hugo
 ::rodrigo::Rodrigo
-::simon::Simón
+::simon::SimÃ³n
 ::isaac::Isaac
 ::emanuel::Emanuel
 ::vicente::Vicente
@@ -2468,8 +3657,8 @@
 ::andrea::Andrea
 ::marcelo::Marcelo
 ::marcela::Marcela
-::moises::Moisés
-::moisés::Moisés
+::moises::MoisÃ©s
+::moisÃ©s::MoisÃ©s
 ::facunda::Facunda
 ::virginia::Virginia
 ::octavio::Octavio
@@ -2479,8 +3668,8 @@
 ::agostina::Agostina
 ::ivana::Ivana
 ::fabio::Fabio
-::fabian::Fabían
-::fabían::Fabían
+::fabian::FabÃ­an
+::fabÃ­an::FabÃ­an
 ::michael::Michael
 ::melina::Melina
 ::samantha::Samantha
@@ -2489,27 +3678,27 @@
 ::cinthia::Cinthia
 ::facundo::Facundo
 ::federico::Federico
-::germán::Germán
-::german::Germán
+::germÃ¡n::GermÃ¡n
+::german::GermÃ¡n
 ::giancarlo::Giancalo
 ::dana::Dana
 ::kevin::Kevin
 ::xoan::Xoan
-::gaston::Gastón
-::gastón::Gastón
+::gaston::GastÃ³n
+::gastÃ³n::GastÃ³n
 ::guido::guido
 ::renzo::Renzo
 ::ramiro::Ramiro
 ::gustavo::Gustavo
 ::lucrecia::Lucrecia
-::ines::Inés
-::inés::Inés
-::matias::Matías
-::matías::Matías
+::ines::InÃ©s
+::inÃ©s::InÃ©s
+::matias::MatÃ­as
+::matÃ­as::MatÃ­as
 ::ethel::Ethel
 ::giampaolo::Giampaolo
-::adrian::Adrían
-::adrían::Adrían
+::adrian::AdrÃ­an
+::adrÃ­an::AdrÃ­an
 ::daiana::Daiana
 ::ruben::Ruben
 ::ferreyra::Ferreyra
@@ -2532,8 +3721,8 @@
 ::spain::Spain
 ::united states::United States
 ;============================
-::Cancún::Cancún
-::Cancun::Cancún
+::CancÃºn::CancÃºn
+::Cancun::CancÃºn
 ::Bariloche::Bariloche
 ::Catamarca::Catamarca
 ::Chubut::Chubut
@@ -2542,14 +3731,14 @@
 ::La Pampa::La Pampa
 ::La Rioja::La Rioja
 ::Mendonza::Mendonza
-::Nuequen::Nuequén
-::Nuequén::Nuequén
+::Nuequen::NuequÃ©n
+::NuequÃ©n::NuequÃ©n
 ::Santa Cruz::Santa Cruz
 ::Santa Fe::Santa Fe
 ::Tierra del Fuego::Tierra del Fuego
 ::Tucuman::Tucuman
-::rios::ríos
-::Afganistan::Afganistán
+::rios::rÃ­os
+::Afganistan::AfganistÃ¡n
 ::Albania::Albania
 ::Angola::Angola
 ::Armenia::Armenia
@@ -2565,8 +3754,8 @@
 ::Dinamarca::Dinamarca
 ::Croacia::Croacia
 ::Colombia::Colombia
-::Camerun::Camerún
-::Camerún::Camerún
+::Camerun::CamerÃºn
+::CamerÃºn::CamerÃºn
 ::Croacia::Croacia
 ::Dominica::Dominica
 ::Corea::Corea
@@ -2583,12 +3772,12 @@
 ::Ghana::Ghana
 ::Indonesia::Indonesia
 ::Iraq::Iraq
-::Iran::Irán
-::Irán::Irán
+::Iran::IrÃ¡n
+::IrÃ¡n::IrÃ¡n
 ::Honduras::Honduras
 ::Hong Kong::Hong Kong
-::Hungría::Hungría
-::Hungria::Hungría
+::HungrÃ­a::HungrÃ­a
+::Hungria::HungrÃ­a
 ::Haiti::Haiti
 ::Guyana::Guyana
 ::Guinea::Guinea
@@ -2639,15 +3828,15 @@
 ::Zimbabue::Zimbabue
 ::Yemen::Yemen
 ::india::India
-::latinoamérica::Latinoamérica
-::latinoamerica::Latinoamérica
-::america::América
-::américa::América
+::latinoamÃ©rica::LatinoamÃ©rica
+::latinoamerica::LatinoamÃ©rica
+::america::AmÃ©rica
+::amÃ©rica::AmÃ©rica
 ::argentina::Argentina
-::japon::Japón
-::japón::Japón
-::finlandia::Finlandía
-::finlandía::Finlandía
+::japon::JapÃ³n
+::japÃ³n::JapÃ³n
+::finlandia::FinlandÃ­a
+::finlandÃ­a::FinlandÃ­a
 ::brasil::Brasil
 ::rusia::Rusia
 ::francia::Francia
@@ -2657,44 +3846,44 @@
 ::paraguay::Paraguay
 ::bolivia::Bolivia
 ::uruguay::Uruguay
-::mexico::México
-::megico::México
-::mejico::Méjico
-::áfrica::África
-::africa::África
-::berlin::Berlín
-::berlín::Berlín
-::moscu::Moscú
+::mexico::MÃ©xico
+::megico::MÃ©xico
+::mejico::MÃ©jico
+::Ã¡frica::Ãfrica
+::africa::Ãfrica
+::berlin::BerlÃ­n
+::berlÃ­n::BerlÃ­n
+::moscu::MoscÃº
 ::inglaterra::Inglaterra
 ::estados unidos::Estados Unidos
 ::real madrid::Real Madrid
 ::madrid::Madrid
-::Belgica::Bélgica
-::españa::España
+::Belgica::BÃ©lgica
+::espaÃ±a::EspaÃ±a
 ::buenos aires::Buenos Aires
 ::bariloche::Bariloche
-::hungria::Hungría
-::cordoba::Córdoba
+::hungria::HungrÃ­a
+::cordoba::CÃ³rdoba
 ::santa fe::Santa Fe
-::rio negro::Río Negro
-::río negro::Río Negro
+::rio negro::RÃ­o Negro
+::rÃ­o negro::RÃ­o Negro
 ::canada::Canada
 ::mar chiquita::Mar Chiquita
 ::nueva zelanda::Nueva Zelanda
 ::italia::Italia
-::antartida::Antártida
-::antártida::Antártida
+::antartida::AntÃ¡rtida
+::antÃ¡rtida::AntÃ¡rtida
 ::copenhague::Copenhague
-::morón::Morón
-::moron::Morón
+::morÃ³n::MorÃ³n
+::moron::MorÃ³n
 ;============================
-::san valentin::San Valentín
+::san valentin::San ValentÃ­n
 ::infobae::Infobae
 ::unicef::Unicef
 ::nike::Nike
 ::coca cola::Coca Cola
-::telam::Télam
-::télam::Télam
+::telam::TÃ©lam
+::tÃ©lam::TÃ©lam
 ::universidad de palermo::Universidad de Palermo
 ::dni::DNI
 ::afip::AFIP
@@ -2702,13 +3891,13 @@
 ::taringa::Taringa
 ::poringa::Poringa
 ::wikipedia::Wikipedia
-::clarin::Clarín
+::clarin::ClarÃ­n
 ::autohotkey::AutoHotkey
 ::scite::SciTE
 ::scite4autohotkey::SciTE4AutoHotkey
 ::whatsapp::WhatsApp
 ::identi::Identi
-::fundeu::Feundéu
+::fundeu::FeundÃ©u
 ::warez::Warez
 ::rae::RAE
 ::bbva::BBVA
@@ -2725,31 +3914,29 @@
 ::coto::Coto
 ::acrobat::Acrobat
 ::ascci::ASCCI
-::fb::FB
 ::nsfw::NSFW
 ::seo::SEO
 ::rss::RSS
 ::api::API
-::url::URL
 ::dmca::DMCA
 ::uocra::UOCRA
-::la campora::La Cámpora
+::la campora::La CÃ¡mpora
 ;============================
 ::demaciado::demasiado
 ::berruga::verruga
 ::preven::preveen
-::prevén::preveen
+::prevÃ©n::preveen
 ::llendo::yendo
 ::elejir::elegir
 ::eligan::elijan
 ::eliga::elija
 ::automatisidad::automaticidad
 ;============================
-::fé::fe
-::fuí::fui
-::dió::dio
-::fué::fue
-::vió::vio
+::fÃ©::fe
+::fuÃ­::fui
+::diÃ³::dio
+::fuÃ©::fue
+::viÃ³::vio
 ;============================
 ::flicka::Flicka
 ::flickas::Flickas
