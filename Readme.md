@@ -20,5 +20,7 @@ Ej -> Todas las palabras terminadas en:
 - ción
 
 Llevan siempre acento. y de tal manera, así (en parte) buscando y agregando más patrones.
+-------
+[Mirar las últimas líneas de Palabras en Español.ahk]
 
 --------------------------------------------------
