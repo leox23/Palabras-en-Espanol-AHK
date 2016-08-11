@@ -1,3 +1,10 @@
+;#############################################################
+;################### HotStrings Español ######################
+;#############################################################
+/* #### Notas ####
+Que no se permitan palabras en inglés y español una siendo capaz de escribirse con acento y otra si. Excepto nombres especiales, paises, etc. O bien si agregarlas pero con mucho OJO 
+*/
+; ================================================================
 ::¿a donde::¿A dónde
 ::¿como::¿Cómo
 ::¿cual::¿Cuál
@@ -1109,6 +1116,115 @@
 ::afiambro::afiambró
 ::civilizacion::civilización
 ::subi::subí
+::erotizacion::erotización
+::odontologo::odontólogo
+::odontologia::odontología
+::odontologias::odontologías
+::diabolico::diabólico
+::llevartelo::llevártelo
+::diabolicos::diabólicos
+::diciendose::diciendose
+::diciendome::diciéndome
+::diciendonos::diciéndonos
+::diciendole::dicíéndole
+::diciendoles::diciéndoles
+::contandole::contándole
+::contandome::contándome
+::contandoles::contándoles
+::odontologa::odontóloga
+::odontologas::odontólogas
+::odontologos::odontólogos
+::diabolico::diabolico
+::diabolicos::diabólicos
+::diabolica::diabólica
+::diabolicas::diabólicas
+::pasantia::pasantía
+::pasantias::pasantías
+::funcion::función
+::definiendose::definiéndose
+::relacion::relación
+::politicamente::políticamente
+::solucionandose::solúcionandose
+::solucionandome::solúcionandome
+::mason::masón
+::masonerias::masonerías
+::judaismo::judaísmo
+::leiste::leíste
+::olvidaria::olvidaría
+::olvidarian::olvidarían
+::craneo::cráneo
+::sadico::sádico
+::sadica::sádica
+::repitiendose::repitiéndose
+::repitiendome::repitiéndome
+::repitiendonos::repitiéndonos
+::apareandose::apareándose
+::apareandome::apareándome
+::frenetico::frenético
+::frenetica::frenética
+::freneticos::frenéticos
+::freneticas::frenéticas
+::sadicos::sádicos
+::sadicas::sádicas
+::apologetica::apologética
+::apologeticas::apologéticas
+::apologetico::apologético
+::apologeticos::apologéticos
+::apologia::apología
+::apologias::apologías
+::resignandose::resignándose
+::reesignandome::reesignándome
+::pegandole::pegándole
+::pegandoles::pegándoles
+::tributacion::tributación
+::Farmacity::Farmacity
+::desorganizacion::desorganización
+::prevencion::prevención
+::monografia::monografía
+::monografico::monográfico
+::monografias::monografías
+::migrandose::migrándose
+::migrandome::migrándome
+::migrandote::migrándote
+::matemoslo::matémoslo
+::matemoslos::matémoslos
+::psicologicamente::psicológicamente
+::prostituyendose::prostituyéndose
+::prostituyendote::prostituyéndote
+::prostituyendome::prostituyendome
+::prostituyendonos::prostituyéndonos
+::quisieramos::quisiéramos
+::sobreactuacion::sobreactuación
+::actuacion::actuación
+::volves::volvés
+::tolerandolo::tolerándolo
+::tolerandolos::tolerandolos
+::tolerandola::tolerándola
+::tolerandolas::tolerandolas
+::tolerandose::tolerándose
+::tolerandome::tolerándome
+::tolerandonos::tolerándonos
+::significaria::significaría
+::significarias::significarías
+::significarian::significarían
+::experimentandole::experimentándole
+::experimentandolo::experimentándolo
+::experimentandome::experimentándome
+::experimentandonos::experimentándonos
+::drasticamente::drásticamente
+::drastico::drástico
+::drastica::drástica
+::drasticos::drásticos
+::drasticas::drásticas
+::destildacion::destildación
+::tildacion::tildación
+::desprevencion::desprevención
+::Tarzan::Tarzan
+::Tarzán::Tarzán
+::sincerizacion::sincerización
+::contandonos::contándonos
+::neuquen::Neuquén
+::neuquén::Neuqué
 ::reunio::reunió
 ::reunion::reunión
 ::sucedio::sucedió
@@ -1202,6 +1318,26 @@
 ::biologicos::biológicos
 ::bipedo::bípedo
 ::hace mas::hace más
+:?:uno mas::1 más
+::dos mas::dos más
+::tres mas::tres más
+:?:cuatro mas::1 más
+:?:cinco mas::1 más
+::seis mas::seis más
+:?:siete mas::siete más
+:?:ocho mas::ocho más
+:?:nueve mas::nueve más
+:?:cero mas::cero más
+:?:1 mas::1 más
+:?:2 mas::2 más
+:?:3 mas::3 más
+:?:4 mas::4 más
+:?:5 mas::5 más
+:?:6 mas::9 más
+:?:7 mas::7 más
+:?:8 mas::8 más
+:?:9 mas::9 más
+:?:0 mas::0 más
 ::bitacora::bitácora
 ::bitacoras::bitácoras
 ::boligrafo::bolígrafo
@@ -1335,6 +1471,9 @@
 ::sabado::sábado
 ::musica::música
 ::unico::único
+::suprimio::suprimió
+::escribia::escribía
+::escribias::escribías
 ::unicos::únicos
 ::unica::única
 ::unicas::únicas
@@ -1345,6 +1484,8 @@
 ::republica::república
 ::republicas::repúblicas
 ::publicacion::publicación
+::toallon::toallón
+
 ::victima::víctima
 ::victimas::víctimas
 ::empezo::empezó
@@ -1388,6 +1529,9 @@
 ::cubico::cúbico
 ::economico::económico
 ::economicos::económicos
+::desaprobo::desaprobó
+::vere::veré
+::lechon::lechón
 ::monotono::monótono
 ::oraculo::oráculo
 ::sarcastico::sarcástico
@@ -1431,6 +1575,7 @@
 ::microfonos::micrófonos
 ::abaco::ábaco
 ::abacos::ábacos
+::geneos::géneos
 ::gotico::gótico
 ::goticos::góticos
 ::energico::enérgico
@@ -1758,6 +1903,7 @@
 ::peleandose::peleándose
 ::reunira::reunirá
 ::tendra::tendrá
+::pipon::pipón
 ::transaccion::transacción
 ::votarian::votarían
 ::compulsion::compulsión
@@ -1900,6 +2046,8 @@
 ::metia::metía
 ::metias::metías
 ::pateticas::patéticas
+::sillon::sillón
+::moreton::moretón
 ::ultimo::último
 ::ultimos::últimos
 ::ultima::última
@@ -2033,7 +2181,7 @@
 ::unicamente::únicamente
 ::seguis::seguís
 ::inscripcion::inscripción
-::formula::fórmula
+::formula::formula
 ::guardarselo::guardárselo
 ::conservarselo::conservárselo
 ::comision::comisión
@@ -2077,6 +2225,7 @@
 ::japones::japonés
 ::mani::maní
 ::maricon::maricón
+::con mas::con más
 ::medicacion::medicación
 ::poblacion::población
 ::porton::portón
@@ -2104,6 +2253,22 @@
 ::tiburon::tiburón
 ::television::televisión
 ::terminacion::terminación
+::Comprar mas::comprar más
+::querer mas::querer más
+::tener mas::tener más
+::conseguir mas::conseguir más
+::alcanzar mas::alcanzar más
+::encontrar mas::encontrar más
+::saber mas::saber más
+::mas plata::más plata
+::mas dinero::más dinero
+::mas cosas::más cosas
+::mas felicidad::más felicidad
+::mas salud::más salud
+::mas amor::más amor
+::se mudo::se mudó
+::lo mudo::lo mudó
+::son mas::son más
 ::determinacion::determinación
 ::religion::religión
 ::cabelleria::caballería
@@ -2584,6 +2749,7 @@
 ::pecesito::pececito
 ::lunatico::lunático
 ::lunaticos::lunáticos
+::acordas::acordás
 ::lunatica::lunática
 ::lunaticas::lunáticas
 ::antidoto::antídoto
@@ -2879,6 +3045,7 @@
 ::epilogos::epílogos
 ::manten::mantén
 ::tiponimos::tipónimos
+::resolves::resolvés
 ::recien::recién
 ::frances::francés
 ::teton::tetón
@@ -2963,12 +3130,15 @@
 ::creyo::creyó
 ::concedio::concedió
 ::concedia::concedía
+::cordobes::cordobés
 ::concedias::concedías
 ::concedian::concedían
 ::comprendera::comprenderá
 ::jupiter::júpiter
+::tohalla::toalla
 ::daran::darán
 ::daria::daría
+::husar::húsar
 ::darias::darías
 ::darian::darían
 ::cumplia::cumplía
@@ -3197,6 +3367,7 @@
 ::aceptarias::aceptarías
 ::existira::existirá
 ::existiran::existirán
+::calento::calentó
 ::icono::ícono
 ::iconos::íconos
 ::traere::traeré
@@ -3239,6 +3410,7 @@
 ::erroneas::erróneas
 ::creacion::creación
 ::mediodia::mediodía
+::observacion::observación
 ;============================
 ::cacita::casita
 ::camicita::camisita
@@ -3289,10 +3461,15 @@
 ::antonio::Antonio
 ::antonia::Antonia
 ::hernan::Hernán
+::higuain::Higüaín
+::higuaín::Higüaín
+::higüain::Higüaín
+::higüaín::Higüaín
 ::hernán::Hernán
 ::daniel::Daniel
 ::mariano::Mariano
 ::mariana::Mariana
+::gisela::Gisela
 ::florencia::Florencia
 ::ezequiel::Ezequiel
 ::camila::Camila
@@ -3388,6 +3565,7 @@
 ::florencio::Florencio
 ::adolfo::Adolfo
 ::justin::Justin
+::bieber::Bieber
 ::gandhi::Gandhi
 ::marley::Marley
 ::karl::Karl
@@ -3399,7 +3577,7 @@
 ::fangio::Fangio
 ::eduardo::Eduardo
 ::faustino::Faustino
-::rene::Rene
+::rene::René
 ::florencio::Florencio
 ::mirta::Mirta
 ::mirtha::Mirtha
@@ -3650,6 +3828,7 @@
 ::micaela::Micaela
 ::elisa::elisa
 ::nahuel::Nahuel
+::Franz::Franz
 ::rodolfo::Rodolfo
 ::walter::Walter
 ::salem::Salem
@@ -3860,6 +4039,8 @@
 ::madrid::Madrid
 ::Belgica::Bélgica
 ::españa::España
+::panama::Panamá
+::Panama::Panamá
 ::buenos aires::Buenos Aires
 ::bariloche::Bariloche
 ::hungria::Hungría
@@ -3902,6 +4083,7 @@
 ::rae::RAE
 ::bbva::BBVA
 ::steam::Steam
+::youtube::Youtube
 ::pepsi::Pepsi
 ::amazon::Amazon
 ::wikia::Wikia
@@ -3915,12 +4097,16 @@
 ::acrobat::Acrobat
 ::ascci::ASCCI
 ::nsfw::NSFW
-::seo::SEO
 ::rss::RSS
 ::api::API
 ::dmca::DMCA
 ::uocra::UOCRA
 ::la campora::La Cámpora
+::netflix::Netflix
+::VideoMatch::VideoMatch
+::ShowMatch::ShowMatch
+::escoces::escocés
+::sali::salí
 ;============================
 ::demaciado::demasiado
 ::berruga::verruga
@@ -3930,13 +4116,348 @@
 ::elejir::elegir
 ::eligan::elijan
 ::eliga::elija
+::yoga::Yoga
 ::automatisidad::automaticidad
+::desbordadamente::desbordádamente
 ;============================
+:?*:STMP::SMTP
+:?*:SMPT::SMTP
 ::fé::fe
 ::fuí::fui
 ::dió::dio
+::tu eres::tú eres
 ::fué::fue
 ::vió::vio
+::damela::dámela
+::ataudes::ataúdes
+::se que::se qué
+::lo se::lo sé
+::usted esta::usted está
+::el esta::él está
+::abrelo::ábrelo
+::abrela::ábrela
+::creido::creído
+::creida::creída
+::abrelos::ábrelos
+::abrelas::ábrelas
+::chimpance::chimpancé
+::chimpances::chimpancés
 ;============================
 ::flicka::Flicka
 ::flickas::Flickas
+;~ #IfWinActive, Nada
+; http://buscapalabras.com.ar/buscarpalabras.php
+; http://www.palabrasque.com/buscador.php?
+;=================================
+;=== Sin Complicación a Inglés ===
+;=================================
+::manipulo::manipulo
+::estipulo::estipulo
+::tripulo::tripulo
+:?:ipulo::ípulo
+:?:ipulos::ípulos
+:?:osforo::ósforo
+:?:osforos::ósforos
+:?:irmelo::írmelo
+:?:irmela::írmela
+:?:goria::goría
+::cimeria::cimeria
+::sumeria::sumeria
+:?:meria::mería
+:?:ercitos::ércitos
+:?:imica::ímica
+:?:imicas::ímicas
+:?:imico::ímico 
+:?:imicos::ímicos
+:?:eisico::eísico
+:?:eisicos::eísicos
+:?:eisica::eísica
+:?:eisicas::eísicas
+:?:unculo::únculo
+:?:unculos::únculos
+:?:uncula::úncula
+:?:unculas::únculas
+:?:uncule::úncule
+:?:uncules::úncules
+:?:arbon::arbón
+:?:isico::ísico ; Muy Raro || gnéisico, néisico
+:?:isicos::ísicos ; Muy Raro || gnéisicos
+:?:isica::ísica ; Muy Raro || gnéisica, risica
+:?:isicas::ísicas ; Muy Raro || gnéisicas
+:?:ogico::ógico
+:?:anguche::ánguche
+:?:ogicos::ógicos
+:?:ogica::ógica
+:?:ogicas::ógicas
+:?:onton::ontón
+;~ :?:anica::ánica ; Raro || mañanica, sananica, artanica, abanica, canica. Además de Agudas
+;~ :?:anicas::ánicas ; Raro || mañanicas, sananicas, abanicas, canicas. Además de Agudas
+;~ :?:anicos::ánicos ; Raro || ventanico, abanico. Además de Agudas
+;~ :?:anicos::ánicos ; Raro || ventanicos, abanicos.
+:?:ografo::ógrafo
+:?:ografos::ógrafos
+:?:agrafo::ógrafa
+:?:agrafos::ógrafas
+;~ :?:erdida::érdida ; Imposible de Ponerlo || perdida
+;~ :?:izas::izás ; Imposible de Ponerlo  || factorizas, caricaturizas. 
+:?:ercule::ércule
+:?:ercules::ércules
+:?:erculo::érculo
+:?:erculos::érculos
+:?:ercula::ércula
+:?:erculas::érculas
+:?:indroma::índroma
+:?:indromas::índromas
+:?:indromo::índromo
+:?:indromos::índromos
+:?:indrome::índrome
+:?:indromes::índromes
+:?:isimo::ísimo
+::episedio::episedio
+:?:cedio::cedió
+;~ :?:isimos::ísimos ; || Raro desquisimos, malquisimos, bienquisimos, quisimos,
+;~ :?:eria::ería ; Raro || Miseria o bien Eria que solo significa un género de orquidea.
+::materias::materias
+:?:erias::erías
+;~ :?:enero::énero ; Imposible de Ponerlo  || Enero, Genero
+::antinomia::antinomia
+::anomia::anomia
+:?:nomia::nomía ; Raro || antinomia, anomia
+:?:erdon::erdón
+:?:ografo::ógrafo
+:?:dicil::ícil
+;~ :?:omodo::ómodo ; Difícil || Incomodo, Acomodo, desacomodo, Incomodó, Acomodó, desacomodó
+;~ :?:omoda::ómoda ; Difícil  || Incomoda, Acomoda, desacomoda, Incomodá, Acomodá, desacomodá
+:?:osofo::ósofo ; Raro || Filosofó (Palabra mal escrita)
+:?:agora::ágora
+:?:agoras::ágoras
+:?:agoro::ágoro
+:?:agoros::ágoros
+;~ :?:abamos::ábamos ; ✖ alabamos, encabamos, acabamos, grabamos, trabamos
+:?:andome::ándome
+:?:andose::ándose
+::endose::endose ; Raro || Endose
+:?:endose::éndose ; Raro || Endose
+:?:azon::azón
+:?:ason::asón
+:?:aton::atón
+:?:azin::azín
+:?:asin::asín
+:?:atin::atín
+;~ :?:abran::abrán ; Raro || descalabran, escalabran, entreabran, apalabran, desabran, relabran, ejabran, reabran, labran, jabran, abran
+;~ :?:abra::ábra ; Imposible de Ponerlo || Abracadabra
+:?:andome::ándome
+:?:endome::éndome
+::pues::pues
+:?:pues::pués
+:?:ilabo::ílabos
+:?:utire::utiré
+:?:ilabo::ílabos
+:?:andose::ándose
+:?:andola::ándola ; || bandola gandola
+:?:andolas::ándolas 
+:?:andole::ándole
+:?:andoles::ándoles
+:?:andolo::ándolo
+:?:andolos::ándolos
+:?:endole::éndole
+:?:endoles::éndoles
+:?:endola::éndola
+:?:endolas::éndolas
+:?:iguio::iguió
+:?:edira::edirá
+:?:iaco::íaco
+:?:iaco::íacos
+:?:ediras::edirás
+:?:edire::ediré
+;~ ::despendolo::despendolo
+:?:endolo::éndolo
+:?:endolos::éndolos
+:?:arsela::ársela
+:?:arselos::árselas
+:?:arselos::árselos
+:?:odromo::ódromo
+:?:odromos::ódromo
+:?:agrima::ágrima
+:?:agrimas::ágrimas
+:?:iticos::íticos
+:?:ertis::ertís
+:?:arron::arrón
+:?:irtelo::írtelo
+:?:irtelos::írtelos
+:?:irron::irrón
+:?:erron::errón
+:?:ogicamente::ógicamente
+:?:vertelo::vértelo
+:?:vertelos::vértelos
+;~ :?:atica::ática  ; Raro || mastica. Voseo
+;~ :?:aticas::áticas ; Raro || masticas, masticás. Voseo
+:?:atico::ático
+:?:aticos::áticos
+:?:etico::ético
+:?:eticos::éticos
+;~ :?:astico::ástico ; Raro || mastico. Además de Agudas
+:?:asticos::ásticos
+:?:orica::órica
+:?:óricas::óricas
+:?:ilogo::ílogo
+:?:ilogos::ílogos
+;~ :?:ologo::ólogo ; Difícil de Ponerlo || Monologo, prologo, homologo. Además Agudas
+:?:ologos::ólogos ; Factible
+;~ :?:ineo::íneo Imposible de Ponerlo || Muchas palabras Flandereadas: Harineo, latineo, chineo, guineo. Además de muchas en terminación aguda
+::faunicos::fáunicos
+:?:unicos::únicos
+:?*:ibrido::íbrido
+:?*:ibrida::íbrida
+:?*:ibridos::íbridos
+:?*:ibridas::íbridas
+:?*:aximo::áximo
+:?*:aximos::áximos
+:?*:axima::áxima
+:?*:aximas::áximas
+:?*:onimo::ónimo
+:?*:onimos::ónimos
+;~ :?*:animo::ánimo ; animo
+:?*:animos::ánimos
+:?*:icil::ícil
+:?*:ertigo::értigo
+:?*:ertigos::értigos
+:?*:ertiga::értiga
+:?*:ertigas::értigas
+; ===============================
+:?*:istico:ístico
+:?*:isticos:ísticos
+:?*:istica:ística
+:?*:isticas:ísticas
+:?*:ingun:ingún
+:?*:optero::óptero
+:?*:opteros::ópteros
+:?*:optera::óptera
+:?*:opteras::ópteras
+:?*:aptero::áptero
+:?*:aptera::áptera
+:?*:apteros::ápteros
+:?*:apteras::ápteras
+::prion::prion
+::ion::ion
+::minion::minion
+::option::option
+:?:ion::ión ; ✖ excepto minion de League of Legends
+:?:ertis::vertís
+:?:andomela::ándomela
+:?:arsela::ársela 
+:?:usculo::úscula
+:?:usculos::úsculos
+:?:asimo::ásimo 
+:?:frios::fríos
+:?:frio::frío
+:?:frias::frías
+:?:fria::fría
+:?:ichon::ichón
+:?:ujula::újula
+:?:ujulas::újulas 
+:?:ujulo::újulo 
+:?:ieramos::
+:?:ujulos::újulos 
+:?:andano::ándano
+:?:austica::aústica
+:?:usica::úsica
+:?:usicas::úsicas
+:?:usico::úsico
+:?:usicos::úsicos
+:?:alon::alón
+:?:ezon::ezón
+:?:apido::ápido ; || Excepto algunas rarezas
+:?:apidos::ápidos ; || Excepto algunas rarezas
+:?:apida::ápida ; || Excepto algunas rarezas
+:?:apidas::ápidas ; || Excepto algunas rarezas
+:?:epido::épido ; || Excepto algunas rarezas
+:?:epidos::épidos ; || Excepto algunas rarezas
+:?:epida::épida ; || Excepto algunas rarezas
+:?:epidas::épidas ; || Excepto algunas rarezas
+:?:ufon::ufón
+:?:fimeros::fímeros
+:?:fimero::fímero
+:?:fimeras::fímeras
+:?:fimera::fímera
+::chiton::chiton
+:?:iton::itón
+:?:ulon::ulón
+:?:xion::xión
+::tetragramaton::tetrágramaton
+::hiperbaton::hipérbaton
+:?:aton:atón
+::poliptoton::poliptoton
+:?:oton:otón
+:?:amon::amón
+:?:ampu::ampú
+:?:udin::udín
+:?:adin::adín
+:?:olico::ólico
+:?:olicos::ólicos
+:?:olica::ólica
+:?:olicas::ólicas
+::polisindenton::polisíndenton
+::asidenton::asídenton
+:?:eton:etón
+:?:andote::ándote
+:?:sartelo::sártelo
+:?:dartelo::dártelo
+:?:rartelo::rártelo
+:?:ardin::ardín
+::épsilon::épsilon
+::ípsilon::ípsilon
+:?:ilon::ilón
+::pleon::pleon
+::íleon::íleon
+:?:eon::eón
+:?:arton::árton
+::vidajeneo::vidajeneo
+::verbeneo::verbeneo
+::cireneo::cireneo
+::himeneo::himeneo
+::remeneo::remeneo
+::ateneo::ateneo
+::meneo::meneo
+:?:eneo::éneo
+:?:eneos::éneos
+/*
+### Extras ###
+unica ✖ comunica incomunica fáunica
+unicas ✖ comunicas incomunicas fáunicas
+unico ✖ comunico incomunici fáunico cataláunico
+eter ✖ entremeter meter comprometer
+eria ✖ periferia jocoseria miseria enseria
+erian ✖ serian 
+erio ✖ serio
+erios ✖ serios
+afio ✖ desafio
+afios ✖ desafios
+afia ✖ desafia
+afias ✖ desafias
+ecula ✖ especula recula
+eculas ✖ especulas reculas
+eculo ✖ especulo reculo lambeculo
+eculos ✖ lameculos lambeculos reculos
+iaco ✖ celiaco cariaco siriaco
+iacos ✖ siriacos cariacos
+iaca ✖ atriaca
+iacas ✖ heliacas
+aria ✖ Imposible igualitaria, sinlenciaria, regionaria
+arias ✖ Empresarias, mercedarias, adversarias, proletarias, cimbalarias, precuiniaria, fiduciarias
+arian ✖ contrarian comisaria asalarian escarian salarian
+asimos ✖ desasimos asimos
+usculas ✖ musculas
+uscula ✖ muscula
+itico ✖ critico además de agudas
+◘◘◘ Posibles ◘◘◘
+◘◘◘ Bastante Dificiles ◘◘◘
+- ian gian 
+◘◘◘ Imposibles ◘◘◘
+- ia ias omio
+*/
+;=================================
+;=== Con Complicación a Inglés ===
+;=================================
+:?:sion::sión ; Complicación sabida con el Inglés.
+:?:cion::ción ; Complicación sabida con el Inglés. [Decision, Circumcision]
