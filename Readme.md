@@ -8,6 +8,8 @@ Muchas gracias.
 Contacto
 -------
 @Pink_floyd (T!)
+@Pinkfloydd (AHK Forums)
+@Pinkfloydd (GitHub)
 
 --------------------------------------------------
 
