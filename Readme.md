@@ -31,7 +31,7 @@ De tal manera si es que no encuentra palabras terminadas en imon, significa que 
 
 Por lo tanto agregaríamos al Script:
 
-:?:imon::imón
+- :?:imon::imón
 
 [ Mirar las últimas líneas de Palabras en Español.ahk ]
 
