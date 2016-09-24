@@ -25,7 +25,7 @@ Ej -> Todas las palabras terminadas en:
 
 Llevan siempre acento. y de tal manera, así (en parte) buscando y agregando más patrones.
 
-Ej 2 -> Sabemos que las palabras Limón y Timón siempre llevan acento. Entonces nos suponemos en realiadad que el patrón siempre terminado en imón lo tiene. Por lo tanto vamos a esa página y colocamos "imon" (sin acento)
+Ej 2 -> Sabemos que las palabras Limón y Timón siempre llevan acento. Entonces nos suponemos que el patrón siempre terminado en imón lo tiene. Por lo tanto vamos a esa página a comprobarlo y colocamos "imon" (sin acento)
 
 De tal manera si es que no encuentra palabras terminadas en imon, significa que todos estos casos de palabras que la contengan, siempre cuentan con acento.
 
