@@ -5,6 +5,25 @@
 Que no se permitan palabras en inglés y español una siendo capaz de escribirse con acento y otra si. Excepto nombres especiales, paises, etc. O bien si agregarlas pero con mucho OJO 
 */
 ; ================================================================
+; ================================================================
+; #####################
+; ### Inglés CANCEL ###
+; #####################
+:?:itation::itation ; Invitation
+:?:sation::sation
+:?:dation::dation
+:?:question::question ; Ojo con gestión
+:?:dition::dition ; Condition
+:?:ssion::ssion ; session
+:?:venttion::venttion ; intervention
+:?:ttion::ttion ; intervention
+:?:cution::cution ; execution
+::season::season
+:?:nction::nction ; function
+:?:ration::operation
+; ================================================================
+; ================================================================
+::llorica::llorica
 ::¿a donde::¿A dónde
 ::¿como::¿Cómo
 ::¿cual::¿Cuál
@@ -259,6 +278,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::dispocicion::disposición
 ::distorción::distorsión
 ::duodecimo::duodécimo
+::pianto::piantó
 ::y hija::e hija
 ::y hijas::e hijas
 ::y hijo::e hijo
@@ -1134,6 +1154,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::odontologa::odontóloga
 ::odontologas::odontólogas
 ::odontologos::odontólogos
+::prostituis::prostituís
 ::diabolico::diabolico
 ::diabolicos::diabólicos
 ::diabolica::diabólica
@@ -1159,6 +1180,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::repitiendome::repitiéndome
 ::repitiendonos::repitiéndonos
 ::apareandose::apareándose
+::truchin::truchín
 ::apareandome::apareándome
 ::frenetico::frenético
 ::frenetica::frenética
@@ -1578,8 +1600,10 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::geneos::géneos
 ::gotico::gótico
 ::goticos::góticos
+::cerra::cerrá
 ::energico::enérgico
 ::energicos::enérgicos
+::hubieron::hubo
 ::energica::enérgica
 ::energicas::enérgicas
 ::dentrifico::dentrífico
@@ -1839,6 +1863,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::quimicas::químicas
 ::quimico::químico
 ::quimicos::químicos
+::portugues::portugués
 ::ingles::inglés
 ::aspero::áspero
 ::titulo::título
@@ -1956,7 +1981,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::eligio::eligió
 ::complico::complicó
 ::complice::cómplice
-::complice::cómplices
+::complices::cómplices
 ::facil::fácil
 ::faciles::fáciles
 ::pagina::página
@@ -1970,6 +1995,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::irrigacion::irrigación
 ::congelación::congelación
 ::barbaro::bárbaro
+::barbaros::bárbaros
 ::algun::algún
 ::malisimo::malísimo
 ::buenisimo::buenísimo
@@ -2061,6 +2087,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::minoria::minoría
 ::minorias::minorías
 ::polemica::polémica
+::pario::parió
+::malpario::malparió
 ::polemicas::polémicas
 ::polemico::polémico
 ::polemicos::polémicos
@@ -2085,6 +2113,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::etimologicas::etimológicas
 ::despues::después
 ::camion::camión
+::proba::probá
 ::natacion::natación
 ::relación::relación
 ;~ ::estandar::estándar
@@ -2106,7 +2135,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::astrofisico::astrofísico
 ::astrofisicos::astrofísicos
 ::teoria::teoría
-::teorico::teóríco
+::teorico::teórico
 ::práctico::práctico
 ::prácticos::prácticos
 ::proposito::propósito
@@ -2813,6 +2842,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::estrategica::estratégica
 ::estrategicas::estratégicas
 ::estrategicos::estratégicos 
+::pense::pensé
 ::tactico::táctico
 ::tactica::táctica
 ::tacticas::tácticas
@@ -2970,6 +3000,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::biblica::bíblica
 ::biblicas::bíblicas
 ::galan::galán
+::jeton::jetón
+::varon::varón
 ::explicitamente::explícitamente
 ::dicipulo::dicípulo
 ::debil::débil
@@ -3444,6 +3476,9 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::sanchez::Sánchez
 ::sánchez::Sánchez
 ::silvio::Silvio
+::celsius::Celsius
+::Fahrenheit::Fahrenheit
+::kelvin::Kelvin
 ::rodriguez::Rodrigez
 ::pamela::Pamela
 ::richard::Richard
@@ -3456,7 +3491,11 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::ramona::Ramona
 ::danel::Danel
 ::javier::Javier
+::san martín::San Martín
+::san martin::San Martín
+::martín::Martín
 ::martin::Martín
+::sarmiento::Sarmiento
 ::rodrigo::Rodrigo
 ::antonio::Antonio
 ::antonia::Antonia
@@ -3579,8 +3618,11 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::faustino::Faustino
 ::rene::René
 ::florencio::Florencio
+::fenomena::fenómena
+::fenomenas::fenómenas
 ::mirta::Mirta
 ::mirtha::Mirtha
+::germany::Germany
 ::fontanarrosa::Fontanarrosa
 ::ramon::Ramón
 ::ramón::Ramón
@@ -3652,6 +3694,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::luis::Luis
 ::juan::Juan
 ::ignacio::Ignacio
+::barbara::bárbara
 ::nicolas::Nicolás
 ::nicolás::Nicolás
 ::alberto::alberto
@@ -3859,7 +3902,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::federico::Federico
 ::germán::Germán
 ::german::Germán
-::giancarlo::Giancalo
+::giancarlo::Giancarlo
 ::dana::Dana
 ::kevin::Kevin
 ::xoan::Xoan
@@ -4041,14 +4084,16 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::españa::España
 ::panama::Panamá
 ::Panama::Panamá
+::oiste::oíste
 ::buenos aires::Buenos Aires
 ::bariloche::Bariloche
+::barbie::Barbie
 ::hungria::Hungría
 ::cordoba::Córdoba
 ::santa fe::Santa Fe
 ::rio negro::Río Negro
 ::río negro::Río Negro
-::canada::Canada
+::canada::Canadá
 ::mar chiquita::Mar Chiquita
 ::nueva zelanda::Nueva Zelanda
 ::italia::Italia
@@ -4089,6 +4134,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::wikia::Wikia
 ::spotify::Spotify
 ::microsoft::Microsoft
+::kodak::Kodak
+::kindle::Kindle
 ::league of legends::League of Legends
 ::facebook::Facebook
 ::twitter::Twitter
@@ -4108,6 +4155,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::escoces::escocés
 ::sali::salí
 ;============================
+::napoleón::Napoleón
+::napoleon::Napoleón
 ::demaciado::demasiado
 ::berruga::verruga
 ::preven::preveen
@@ -4116,13 +4165,20 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::elejir::elegir
 ::eligan::elijan
 ::eliga::elija
+::chrome::Chrome
+::firefox::Firefox
 ::yoga::Yoga
 ::automatisidad::automaticidad
 ::desbordadamente::desbordádamente
+::retrogrado::retrógrado
+::retrogrados::retrógrados
+::retrograda::retrógrada
+::retrogradas::retrógradas
 ;============================
 :?*:STMP::SMTP
 :?*:SMPT::SMTP
 ::fé::fe
+::entropia::entropía
 ::fuí::fui
 ::dió::dio
 ::tu eres::tú eres
@@ -4132,9 +4188,11 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::ataudes::ataúdes
 ::se que::se qué
 ::lo se::lo sé
+::interin::ínterin
 ::usted esta::usted está
 ::el esta::él está
 ::abrelo::ábrelo
+::queres::querés
 ::abrela::ábrela
 ::creido::creído
 ::creida::creída
@@ -4142,6 +4200,14 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::abrelas::ábrelas
 ::chimpance::chimpancé
 ::chimpances::chimpancés
+::chevere::chévere
+::vera::verá
+::veras::verás
+::empeza::empezá 
+::usaramos::usáramos
+::volvera::volverá
+::acosto::acostó
+::temon::temón
 ;============================
 ::flicka::Flicka
 ::flickas::Flickas
@@ -4161,10 +4227,34 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:irmelo::írmelo
 :?:irmela::írmela
 :?:goria::goría
+:?:asicamente::ásicamente
+:?:entrenle::éntrenle
+::pamplonica::pamplonica
+::pamplonicas::pamplonicas
+::bonico::bonico
+::bonicos::bonicos
+:?:onica::ónica
+:?:onicas::ónicas
+:?:onico::ónico
+:?:arin::arín
+:?:onicos::ónicos
+:?:tuian::tuían
+:?:tuias::tuías
+:?:tuia::tuía
+:?:omico::ómico
+:?:imon::imón
+:?:omicos::ómicos
 ::cimeria::cimeria
 ::sumeria::sumeria
 :?:meria::mería
+:?:itmico::ítmico
+:?:itmicos::ítmicos
+:?:itmica::ítmica
+:?:itmicas::ítmicas
 :?:ercitos::ércitos
+:?:tendia::tendía
+:?:tendias::tendías
+:?:tendian::tendían
 :?:imica::ímica
 :?:imicas::ímicas
 :?:imico::ímico 
@@ -4206,15 +4296,28 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:erculos::érculos
 :?:ercula::ércula
 :?:erculas::érculas
+:?:ijin::ijín
 :?:indroma::índroma
 :?:indromas::índromas
 :?:indromo::índromo
 :?:indromos::índromos
 :?:indrome::índrome
 :?:indromes::índromes
+:?:indromes::índromes
+:?:ivola::ívola
+:?:ivola::ívolas
+:?:ivola::ívolo
+:?:ivola::ívolos
+:?:jon::jón
+:?:rron::rrón
+:?:enesis::énesis
+:?:ómplices::omplices
 :?:isimo::ísimo
 ::episedio::episedio
 :?:cedio::cedió
+:?:tibulo::tíbulo
+:?:tibulos::tíbulos
+:?:isticamente::ísticamente
 ;~ :?:isimos::ísimos ; || Raro desquisimos, malquisimos, bienquisimos, quisimos,
 ;~ :?:eria::ería ; Raro || Miseria o bien Eria que solo significa un género de orquidea.
 ::materias::materias
@@ -4241,8 +4344,12 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:azon::azón
 :?:ason::asón
 :?:aton::atón
+::guardamangel::guardamangel
+:?:angel::ángel
 :?:azin::azín
+:?:enton::entón
 :?:asin::asín
+:?:idon::idón ; bidón
 :?:atin::atín
 ;~ :?:abran::abrán ; Raro || descalabran, escalabran, entreabran, apalabran, desabran, relabran, ejabran, reabran, labran, jabran, abran
 ;~ :?:abra::ábra ; Imposible de Ponerlo || Abracadabra
@@ -4259,6 +4366,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:andole::ándole
 :?:andoles::ándoles
 :?:andolo::ándolo
+:?:ocon::ócon
 :?:andolos::ándolos
 :?:endole::éndole
 :?:endoles::éndoles
@@ -4278,6 +4386,9 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:arselos::árselos
 :?:odromo::ódromo
 :?:odromos::ódromo
+:?:tuis::tuís
+:?:emonos::émonos
+:?:amonos::ámonos
 :?:agrima::ágrima
 :?:agrimas::ágrimas
 :?:iticos::íticos
@@ -4285,8 +4396,13 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:arron::arrón
 :?:irtelo::írtelo
 :?:irtelos::írtelos
+:?:eguira::eguirá
+:?:eguiras::eguirás
+:?:eguiran::eguirán
 :?:irron::irrón
 :?:erron::errón
+:?:obata::óbata
+:?:obatas::óbatas
 :?:ogicamente::ógicamente
 :?:vertelo::vértelo
 :?:vertelos::vértelos
@@ -4296,48 +4412,57 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:aticos::áticos
 :?:etico::ético
 :?:eticos::éticos
+:?:etio::etió
 ;~ :?:astico::ástico ; Raro || mastico. Además de Agudas
 :?:asticos::ásticos
 :?:orica::órica
 :?:óricas::óricas
 :?:ilogo::ílogo
 :?:ilogos::ílogos
+:?:asmidos::ásmidos
+:?:asmido::ásmido
 ;~ :?:ologo::ólogo ; Difícil de Ponerlo || Monologo, prologo, homologo. Además Agudas
 :?:ologos::ólogos ; Factible
 ;~ :?:ineo::íneo Imposible de Ponerlo || Muchas palabras Flandereadas: Harineo, latineo, chineo, guineo. Además de muchas en terminación aguda
 ::faunicos::fáunicos
 :?:unicos::únicos
-:?*:ibrido::íbrido
-:?*:ibrida::íbrida
-:?*:ibridos::íbridos
-:?*:ibridas::íbridas
-:?*:aximo::áximo
-:?*:aximos::áximos
-:?*:axima::áxima
-:?*:aximas::áximas
-:?*:onimo::ónimo
-:?*:onimos::ónimos
+:?:ibrido::íbrido
+:?:ibrida::íbrida
+:?:ibridos::íbridos
+:?:ibridas::íbridas
+:?:aximo::áximo
+:?:aximos::áximos
+:?:axima::áxima
+:?:aximas::áximas
+:?:onimo::ónimo
+:?:onimos::ónimos
 ;~ :?*:animo::ánimo ; animo
-:?*:animos::ánimos
-:?*:icil::ícil
-:?*:ertigo::értigo
-:?*:ertigos::értigos
-:?*:ertiga::értiga
-:?*:ertigas::értigas
+:?:animos::ánimos
+:?:icil::ícil
+:?:ertigo::értigo
+:?:ertigos::értigos
+:?:ertiga::értiga
+:?:ertigas::értigas
+:?:orico::órico
+:?:oricos::óricos
+:?:orica::órica
+:?:oricas::óricas
+:?:guirias::guirías
+:?:guiria::guiría
 ; ===============================
-:?*:istico:ístico
-:?*:isticos:ísticos
-:?*:istica:ística
-:?*:isticas:ísticas
-:?*:ingun:ingún
-:?*:optero::óptero
-:?*:opteros::ópteros
-:?*:optera::óptera
-:?*:opteras::ópteras
-:?*:aptero::áptero
-:?*:aptera::áptera
-:?*:apteros::ápteros
-:?*:apteras::ápteras
+:?:istico:ístico
+:?:isticos:ísticos
+:?:istica:ística
+:?:isticas:ísticas
+:?:ingun:ingún
+:?:optero::óptero
+:?:opteros::ópteros
+:?:optera::óptera
+:?:opteras::ópteras
+:?:aptero::áptero
+:?:aptera::áptera
+:?:apteros::ápteros
+:?:apteras::ápteras
 ::prion::prion
 ::ion::ion
 ::minion::minion
@@ -4361,6 +4486,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:ujulos::újulos 
 :?:andano::ándano
 :?:austica::aústica
+:?:ongon::ongón
+:?:onguin::onguín
 :?:usica::úsica
 :?:usicas::úsicas
 :?:usico::úsico
@@ -4397,6 +4524,8 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:olicos::ólicos
 :?:olica::ólica
 :?:olicas::ólicas
+:?:ueria::uería
+:?:uerias::uerías
 ::polisindenton::polisíndenton
 ::asidenton::asídenton
 :?:eton:etón
@@ -4405,6 +4534,9 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 :?:dartelo::dártelo
 :?:rartelo::rártelo
 :?:ardin::ardín
+::mitin::mitin ; Como una reunión pequeña parece
+:?:tin::tín
+:?:entenme::éntenme
 ::épsilon::épsilon
 ::ípsilon::ípsilon
 :?:ilon::ilón
@@ -4412,6 +4544,7 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::íleon::íleon
 :?:eon::eón
 :?:arton::árton
+:?:apatia:apatía
 ::vidajeneo::vidajeneo
 ::verbeneo::verbeneo
 ::cireneo::cireneo
@@ -4421,6 +4554,14 @@ Que no se permitan palabras en inglés y español una siendo capaz de escribirse
 ::meneo::meneo
 :?:eneo::éneo
 :?:eneos::éneos
+:?:enea::énea
+:?:eneas::éneas
+:?:olchon::olchón ; colchón
+:?:omeno::ómeno
+:?:omenos::ómenos
+:?:eneos::éneos
+:?:praria:praría
+:?:prarias:prarías
 /*
 ### Extras ###
 unica ✖ comunica incomunica fáunica
@@ -4461,3 +4602,6 @@ itico ✖ critico además de agudas
 ;=================================
 :?:sion::sión ; Complicación sabida con el Inglés.
 :?:cion::ción ; Complicación sabida con el Inglés. [Decision, Circumcision]
+#If
+#If (Var_OK(Corrector_de_Palabras) and !WinActive("Arduino 1") and !WinActive("Buscar") and !WinActive("Counter-Strike: Global Offensive") and !CaretInChrome() and !WinActive("ahk_exe pidgin.exe") and SoloMainScript()) or (Var_OK(Corrector_de_Palabras) and SoloMainScript())
+; =============================================================================
