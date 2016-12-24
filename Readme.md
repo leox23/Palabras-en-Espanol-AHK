@@ -33,6 +33,6 @@ Por lo tanto agregaríamos al Script:
 
 - :?:imon::imón
 
-[ Mirar las últimas líneas de (Palabras en Español.ahk) ]
+[ Mirar las últimas líneas de AutoCorrección.ahk (anteriores a la sección de Inglés) ]
 
 --------------------------------------------------
