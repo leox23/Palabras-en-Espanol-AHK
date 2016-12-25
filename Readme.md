@@ -9,13 +9,13 @@ Para encontrar patrones de Tildes obligatorias, usar esta página:
 
 http://buscapalabras.com.ar/buscarpalabras.php
 
-Ej -> Todas las palabras terminadas en:
+Ej. 1 -> Todas las palabras terminadas en:
 - sión
 - ción
 
 Llevan siempre tilde. y de tal manera, así (en parte) buscando y agregando más patrones.
 
-Ej 2 -> Sabemos que las palabras Limón y Timón siempre llevan tilde. Entonces nos suponemos que el patrón siempre terminado en imón lo tiene. Por lo tanto vamos a esa página a comprobarlo y colocamos "imon" (sin tilde)
+Ej. 2 -> Sabemos que las palabras Limón y Timón siempre llevan tilde. Entonces nos suponemos que el patrón siempre terminado en imón lo tiene. Por lo tanto vamos a esa página a comprobarlo y colocamos "imon" (sin tilde)
 
 De tal manera si es que no encuentra palabras terminadas en imon, significa que todos estos casos de palabras que la contengan, siempre cuentan con tilde.
 
