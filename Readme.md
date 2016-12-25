@@ -5,7 +5,7 @@ AutoCorrección de palabras en Español, donde se apunta más que nada al uso ob
 
 --------------------------------------------------
 
-Para encontrar patrones de Tildes obligatorias, usar esta página:
+Para encontrar patrones de Tildes obligatorias, usar este sitio web:
 
 http://buscapalabras.com.ar/buscarpalabras.php
 
@@ -19,7 +19,7 @@ Ej. 2 -> Sabemos que las palabras Limón y Timón siempre llevan tilde. Entonces
 
 De tal manera si es que no encuentra palabras terminadas en imon, significa que todos estos casos de palabras que la contengan, siempre cuentan con tilde.
 
-Por lo tanto agregaríamos al Script:
+Es decir, agregaríamos al Script:
 
 - :?:imon::imón
 
