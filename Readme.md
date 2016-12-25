@@ -1,21 +1,11 @@
-Diccionario Español ~ AHK (AutoHotkey)
+AutoCorrección Español ~ AHK (AutoHotkey)
 =============
 
-Sentirse libre de contribuir con el repositorio.
-
-Muchas gracias.
-
-Contacto
--------
-@Pink_floyd (T!)
-
-@Pinkfloydd (AHK Forums)
-
-@Pinkfloydd (GitHub)
+AutoCorrección de palabras en Español, donde se apunta más que nada al uso obligatorio de tildes en las palabras.
 
 --------------------------------------------------
 
-Búsqueda de Tildes obligatorias mediante esta Página
+Para encontrar patrones de Tildes obligatorias, usar esta página:
 
 http://buscapalabras.com.ar/buscarpalabras.php
 
@@ -36,3 +26,15 @@ Por lo tanto agregaríamos al Script:
 [ Mirar las últimas líneas de AutoCorrección.ahk (anteriores a la sección de Inglés) ]
 
 --------------------------------------------------
+
+Sentirse libre de contribuir con el repositorio.
+
+Muchas gracias.
+
+Contacto
+-------
+@Pink_floyd (T!)
+
+@Pinkfloydd (AHK Forums)
+
+@Pinkfloydd (GitHub)
