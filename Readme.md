@@ -1,7 +1,7 @@
 AutoCorrección Español ~ AHK (AutoHotkey)
 =============
 
-AutoCorrección de palabras en Español, donde se apunta más que nada al uso obligatorio de tildes en las palabras.
+AutoCorrección de palabras en Español, dónde se apunta más que nada al uso obligatorio de tildes en las palabras.
 
 --------------------------------------------------
 
