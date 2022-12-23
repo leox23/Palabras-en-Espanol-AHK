@@ -1,11 +1,11 @@
 AutoCorrección Español ~ AHK (AutoHotkey)
 =============
 
-**Este script fue desarrollado por @Pinkfloydd y por [@leox23 (mi persona)](https://github.com/leox23), no esta registrado porque en el momento no sabia como funcionaba git ni github, asi que el subia toda la actividad, [hay un viejo hilo en el foro de AutoHotKey donde tome la iniciativa para hacer equipo](https://www.autohotkey.com/boards/viewtopic.php?t=26048), hice fork el dia que se terminó. @Pinkfloydd luego de un tiempo desaparecio sin motivos, y elimino todas sus cuentas, y quedo el fork en el que ahora estas.**
+**Este script no fue creado por mi, fue desarrollado inicialmente por @Pinkfloydd y luego cierto apoyo de [@leox23 (mi persona)](https://github.com/leox23), hay [un viejo hilo en el foro de AutoHotKey donde tome la iniciativa](https://www.autohotkey.com/boards/viewtopic.php?t=26048), unimos autocorrecciones continuando con este script que habia comenzado @Pinkfloydd, hice un fork al finalizar. @Pinkfloydd luego de un tiempo desaparecio sin motivos, y elimino todas sus cuentas, y lo que quedo del script fue este fork en el que ahora estas.**
 
 <hr>
 
-### Este script de AutoCorrección de palabras en Español, apunta más que nada al uso obligatorio de tildes en las palabras, el script de autocorreccion en inglés [Autocorrect.ahk](https://www.autohotkey.com/download/AutoCorrect.ahk) tambien esta incluido.
+### Este script de AutoCorrección de palabras en Español, apunta mucho al uso obligatorio de tildes en las palabras, el script de autocorreccion en inglés [Autocorrect.ahk](https://www.autohotkey.com/download/AutoCorrect.ahk) tambien esta incluido.
 
 Para encontrar patrones de tildes obligatorias, usar este sitio web:
 
