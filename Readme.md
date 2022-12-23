@@ -1,11 +1,13 @@
 AutoCorrección Español ~ AHK (AutoHotkey)
 =============
 
-AutoCorrección de palabras en Español, dónde se apunta más que nada al uso obligatorio de tildes en las palabras.
+**Este script fue desarrollado por @Pinkfloydd y por [@leox23 (mi persona)](https://github.com/leox23), no esta registrado porque en el momento no sabia como funcionaba git ni github, asi que el subia toda la actividad, [hay un viejo hilo en el foro de AutoHotKey donde tome la iniciativa para hacer equipo](https://www.autohotkey.com/boards/viewtopic.php?t=26048), hice fork el dia que se terminó. @Pinkfloydd luego de un tiempo desaparecio sin motivos, y elimino todas sus cuentas, y quedo el fork en el que ahora estas.**
 
---------------------------------------------------
+<hr>
 
-Para encontrar patrones de Tildes obligatorias, usar este sitio web:
+### Este script de AutoCorrección de palabras en Español, apunta más que nada al uso obligatorio de tildes en las palabras, el script de autocorreccion en inglés [Autocorrect.ahk](https://www.autohotkey.com/download/AutoCorrect.ahk) tambien esta incluido.
+
+Para encontrar patrones de tildes obligatorias, usar este sitio web:
 
 http://buscapalabras.com.ar/buscarpalabras.php
 
@@ -23,18 +25,18 @@ Es decir, agregaríamos al Script:
 
 - :?:imon::imón
 
-[ Mirar las últimas líneas de AutoCorrección.ahk (anteriores a la sección de Inglés) ]
+[Mirar las últimas líneas de AutoCorrección.ahk](https://github.com/leox23/Palabras-en-Espanol-AHK/blob/332aad574add72109c02de5b484c873033f99b92/AutoCorrecci%C3%B3n#L4974), anteriores a la sección de Inglés.
 
 --------------------------------------------------
 
-Sentirse libre de contribuir con el repositorio.
-
-Muchas gracias.
+Siéntase libre de contribuir al repositorio.
 
 Contacto
 -------
-@Pink_floyd (T!)
+@leox23 (AHK Forums)
 
-@Pinkfloydd (AHK Forums)
+~~@Pink_floyd (T!)~~
 
-@Pinkfloydd (GitHub)
+~~@Pinkfloydd (AHK Forums)~~
+
+~~@Pinkfloydd (GitHub)~~
